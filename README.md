@@ -935,8 +935,14 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 <img src="https://i.imgur.com/28bjNjk.png"/>
 
 
+## 4.5. Web Applications Prototyping
 
+Esta sección presenta los prototipos de interfaz de usuario , los cuales incluyen simulaciones de interacción y navegación. Las decisiones de
+interacción se fundamentan en criterios clave, como la facilidad de uso, la accesibilidad y la optimización para distintos dispositivos.
 
+<img src="https://i.imgur.com/rUlcOAc.png"/>
+
+[Ver diagrama en Figma]([https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0](https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&p=f&t=9AhvJafsRNaQO2cX-0))
 
 
 ## 5.1. Software Configuration Management
