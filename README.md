@@ -753,7 +753,7 @@ Tanto en el entorno doméstico como empresarial, los entrevistados valoran la tr
 
 Explorar si los usuarios estarían dispuestos a pagar por servicios premium (como soporte prioritario o asesoría técnica especializada) permite analizar la viabilidad de modelos de negocio basados en **suscripciones** o **comisiones por servicio**. Algunos entrevistados afirmaron estar dispuestos a pagar si los beneficios ofrecidos son claros y valiosos, lo cual abre la puerta a monetización sostenible para ElectroLink.
 
-
+<hr>
 ### 2.3. Needfinding
 
 ## 2.3.1. User Personas
@@ -807,6 +807,15 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 | Pedir reseñas o testimonios a sus clientes           | Rara vez       | Media       |
 | Mantenerse al día con normativas eléctricas          | Ocasionalmente | Alta        |
 
+<hr>
+
+<hr>
+
+#### 2.3.3. User Journey Mapping
+
+<img src="https://i.imgur.com/Tg4ikEM.jpeg"/>
+
+<hr>
 
 ## 2.3.5. As-is Scenario Mapping
 
