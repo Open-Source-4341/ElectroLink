@@ -1566,6 +1566,7 @@ Subscription Billing Bounded Context
 #### 4.7.1. Class Diagrams
 <hr>
 
+<img src="https://i.imgur.com/U7exloi.jpeg"/>
 <hr>
 
 #### 4.7.2. Class Dictionary
