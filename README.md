@@ -471,6 +471,8 @@ Aspectos psicográficos:
 
 <hr>
 
+<hr> 
+
 ### 2.1. Competidores
 
 Hoy en día el competitivo mercado digital en la contratación de servicios, existen diversas empresas importantes que ofrecen soluciones en áreas como reparaciones, mantenimiento y tareas domésticas. Entre los competidores más destacados se encuentran Thumbtack, Handy y TaskRabbit
@@ -527,6 +529,10 @@ Cómo funciona TaskRabbit:
 
 4. Pagas a través de la plataforma cuando el trabajo está completo.
 
+<hr>
+
+<hr>
+
 ### 1.1. Análisis competitivo
 
 | Competitive Analysis Landscape |  |  |  |  |  |
@@ -545,6 +551,10 @@ Cómo funciona TaskRabbit:
 |  | Debilidades | Somos nuevos en el mercado y tenemos una dependencia de proveedores certificados: |  No tiene enfoque especializado, experiencia muy generalista. Puede ser complicado encontrar personal especializado. | Tiene poca personalización al ser todo generalmente automático |  Algunos trabajadores no están certificados. Esto puede variar la calidad de los servicios. |
 |  | Oportunidades |  Alianzas con aseguradoras, certificaciones oficiales, posible expansión a smart energy, estos servicios están poco atendidos. |  Ampliar a servicios técnicos más especializados. |  Mejorar procesos de selección de profesionales a través de una expansión hacia servicios técnicos especializados. |  TaskRabbit podría asociarse con marcas de smart home (como Google Nest, Philips Hue, etc.) para ofrecer instalación y soporte técnico |
 |  | Amenazas |  Falta de confianza inicial. Si no se mantiene un buen control o evaluación a los proveedores eléctricos puede afectar la experiencia del cliente. |  Tiene una gran saturación del mercado y competencia entre profesionales. |  Problemas con calidad inconsistente del servicio dado que los usuarios no eligen al profesional |  Cada vez más personas contratan técnicos y ayudantes directamente por redes como Facebook Marketplace. Lo que hace más difícil estar en el mercado. |
+
+<hr>
+
+<hr> 
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
