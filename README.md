@@ -1183,6 +1183,57 @@ Epicas
 <hr>
 
 ### 3.4. Product Backlog
+<hr>
+
+<hr>
+
+# 
+
+| Epic/StoryID | Título | Descripción | Story Points (1 /3 /5 /8) |
+| :---- | :---- | :---- | ----- |
+| US-01 | Registro de cuentas como Dueño de Hogar | Como dueño de hogar, quiero poder registrarme para tener una cuenta en la aplicación, para gestionar los componentes eléctricos de mi vivienda | **5** |
+| US-02 | Registro de cuentas como Dueño de Empresa | Como dueño o representante de empresa, quiero poder registrarme para tener una cuenta en la aplicación, para gestionar los componentes eléctricos de mis instalaciones comerciales | **5** |
+| US-03 | Registro de cuentas para Proveedores | Como proveedor de componentes eléctricos y/o servicios, quiero poder registrarme para tener una cuenta en la aplicación, para ofrecer mis productos y servicios a los usuarios  | **5** |
+| US-04 | Validación de datos de registro | **Como** usuario, **quiero** recibir retroalimentación inmediata sobre la validez de los datos que ingresó durante el registro **para** corregir errores rápidamente. | **3** |
+| US-05 | Verificación de cuenta por correo electrónico | **Como** usuario, **quiero** verificar mi cuenta a través de un enlace enviado por correo electrónico **para** confirmar mi identidad. | **3** |
+| US-06 | Mensajes de éxito retroalimentación de registro | **Como** usuario, **quiero** recibir mensajes claros y accesibles al completar el registro sobre éxito **para** entender fácilmente el resultado de mis acciones. | **5** |
+| US-07 | Mensajes de error retroalimentación de registro | **Como** usuario, **quiero** recibir mensajes claros y accesibles al completar el registro sobre cualquier error a la hora de completar el formulario, **para** entender fácilmente el resultado de mis acciones y saber cómo proceder. | **5** |
+| US-08 | Inicio de sesión de usuarios | Como usuario registrado, quiero poder iniciar sesión en la aplicación con mis credenciales para acceder a mi cuenta y utilizar las funcionalidades de la plataforma. | **8** |
+| US-09 | Recuperación de Contraseña | Como usuario registrado, quiero poder recuperar mi contraseña en caso de olvidarla, para poder volver a acceder a mi cuenta de manera segura. | **5** |
+| US | Cierre de Sesión | **Como** usuario autenticado, **quiero** cerrar mi sesión de forma segura **para** proteger mi cuenta cuando termine de usar la aplicación.  | **5** |
+| US-11 | Visualización de Perfil de Propietario | Como propietario registrado , quiero poder visualizar mi perfil , para revisar mi información personal y preferencias almacenadas en el sistema | **8** |
+| US-12 | Edición de Perfil de Propietario | Como propietario registrado ,quiero poder editar mi información personal y preferencias , para mantener mi perfil actualizado y tener más control sobre este. | **8** |
+| US-13 | Visualización de Perfil de Proveedor | **Como proveedor registrado Quiero poder visualizar mi perfil profesional Para revisar cómo se presenta mi información y servicios a los clientes potenciales** | **8** |
+| US-14 | Edición de Perfil de Proveedor | **Como proveedor registrado, quiero poder editar mi información profesional, certificaciones y servicios ofrecidos para mantener mi perfil actualizado y atractivo para los clientes.** | **8** |
+| Us-15 | Gestión de Disponibilidad de Proveedor | **Como proveedor Quiero poder gestionar mi disponibilidad horaria y calendario Para que los clientes puedan solicitar mis servicios en horarios en que estoy disponible** | **8** |
+| US-16 | Mensajes de éxito de actualización de perfil | **Como usuario, quiero recibir mensajes claros y accesibles al completar la actualización de perfil sobre éxito para entender fácilmente el resultado de mis acciones.** | **1** |
+| US-17 | Mensajes de error de actualización de perfil | **Como usuario, quiero recibir mensajes claros y accesibles al completar el registro sobre cualquier error a la hora de completar el formulario, para entender fácilmente el resultado de mis acciones y saber cómo proceder.** | **3** |
+| US-18 | Búsqueda por Ubicación y Tipo de Servicio | **Como usuario, quiero poder buscar servicios filtrando por ubicación y tipo de servicio, para encontrar rápidamente los que se ajustan a mis necesidades específicas.** | **5** |
+| US-19 | Búsqueda Geolocalizada | **Como usuario, quiero buscar servicios cerca de mi ubicación actual, para encontrar opciones convenientes sin necesidad de introducir manualmente mi ubicación.** | **5** |
+| US-20 | Filtrado por Disponibilidad y Calificación | **Como usuario, quiero filtrar servicios por su disponibilidad horaria y calificación promedio, para encontrar servicios bien valorados que se ajusten a mi agenda.** | **5** |
+| US-21 | Sistema de Calificación Post-Servicio | **Como usuario, quiero poder calificar y dejar reseñas sobre los servicios que he utilizado, para compartir mi experiencia con otros usuarios y proporcionar retroalimentación a los proveedores.** | **5** |
+| US-22 | Visualización de Calificaciones y Reseñas | **Como usuario, quiero poder ver las calificaciones y reseñas dejadas por otros usuarios, para tomar decisiones informadas sobre qué servicios utilizar.** | **5** |
+| US-23 | Contratación de Servicios Eléctricos mediante Wizard | **Como propietario de PyME, quiero contar con un proceso guiado paso a paso para contratar servicios eléctricos, para poder solucionar mis problemas de forma rápida y sin complicaciones.** | **8** |
+| US-24 | Entrar a un dashboard Personalizado | **Como usuario de la plataforma, quiero acceder a un dashboard personalizado al iniciar sesión, para visualizar de forma inmediata la información relevante según mi rol y actividad reciente.** | **8** |
+| US-25 | Centro de Notificaciones | **Como usuario de la plataforma, quiero acceder a un centro centralizado de notificaciones, para estar al tanto de actualizaciones importantes y no perder información relevante.** | **3** |
+| US-26 | Sistema de Soporte al Usuario | **Como usuario de la plataforma, quiero acceder a un sistema de soporte integrado, para resolver dudas o problemas técnicos que pueda tener durante mi experiencia.** | **5** |
+| US-27 | Gestión de Técnicos Favoritos | **Como cliente, quiero poder marcar y gestionar una lista de técnicos favoritos, para contactarlos fácilmente para futuros servicios y dar preferencia a aquellos con los que he tenido buenas experiencias.** | **5** |
+| US-28 | Sistema de Recomendaciones Personalizadas | **Como cliente, quiero recibir recomendaciones personalizadas de servicios y productos basados en mi historial y necesidades, para descubrir soluciones relevantes que puedan mejorar mi experiencia.** | **3** |
+| US-29 | Gestión de Pagos y Facturación | **Como cliente, quiero gestionar mis pagos y acceder a mi historial de facturación, para mantener control sobre mis gastos y tener la documentación necesaria para fines contables.** | **8** |
+| US-30 | Gestión de Agenda y Citas | **Como técnico/proveedor, quiero poder gestionar mi agenda de servicios y citas, para organizar eficientemente mi trabajo y maximizar mi productividad.** | **5** |
+| US-31 | Gestión de Planes y Suscripciones | **Como proveedor, quiero poder gestionar mi plan de suscripción en la plataforma, para acceder a beneficios adicionales que me ayuden a crecer mi negocio.** | **8** |
+| US-32 | Gestión de Servicios Ofrecidos | **Como proveedor, quiero poder gestionar mi catálogo de servicios ofrecidos, para mantenerlo actualizado y mostrar claramente a los clientes mi oferta y especialidades** | **8** |
+| US-33 | Historial de Clientes Atendidos | **Como proveedor, quiero acceder a un historial detallado de los clientes que he atendido, para dar seguimiento a relaciones profesionales y mejorar mi servicio basado en experiencias previas.** | **5** |
+| US-34 | Crear Portafolio Digital con Evidencias de Trabajo | **Como proveedor de servicios eléctricos, quiero crear un portafolio digital dentro de mi perfil que incluya fotos, descripciones y referencias de trabajos anteriores, para mostrar mi experiencia y generar mayor confianza en potenciales clientes.** | **5** |
+| US-35 | Publicar Servicios en Foros de Contratación Certificada | **Como proveedor certificado, quiero poder publicar mis servicios en espacios o foros donde se busca contratar profesionales verificados, para aumentar mi visibilidad y conseguir nuevas oportunidades laborales.** | **5** |
+| US-36 | Solicitar Inspección General Anual | **Como propietario responsable, quiero poder pedir una inspección general de mis instalaciones eléctricas una vez al año, para prevenir riesgos, fallas y garantizar el buen estado de mi sistema eléctrico.** | **3** |
+| US-37 | Registrar Consumo Eléctrico Mensual | **Como usuario interesado en el control energético, quiero poder anotar manualmente mi consumo mensual de electricidad, para llevar un seguimiento y detectar posibles aumentos o ahorros en el tiempo.** | **5** |
+| US-38 | Visualización de Características y Beneficios | Como visitante de la landing page,Quiero ver claramente las características y beneficios de la plataforma,Para entender cómo puede ayudarme y decidir si registrarme. | **5** |
+| US-39 | Visualización de Testimonios | Descripción HU:Como visitante indeciso sobre la plataforma,Quiero ver testimonios de usuarios reales,Para aumentar mi confianza en el servicio antes de registrarse. | **5** |
+| US-40 | Contacto desde la Landing Page | Como visitante con preguntas específicas,Quiero poder contactar fácilmente con la empresa,Para resolver mis dudas antes de registrarme. | **5** |
+| US-41 | Adaptabilidad a Diferentes Dispositivos | Como visitante que accede desde diferentes dispositivos,Quiero que la landing page se adapte correctamente a mi pantalla,Para tener una experiencia óptima independientemente del dispositivo que use. | **8** |
+
+
 
 <hr>
 
