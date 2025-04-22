@@ -1586,7 +1586,7 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 
 #### 4.7.2. Class Dictionary
 <hr>
-
+<img src="https://i.imgur.com/Lo4poFq.jpeg"/>
 <hr>
 
 ### 4.8. Database Design
