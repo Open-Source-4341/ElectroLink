@@ -799,6 +799,18 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 
 <img src="https://i.imgur.com/UnlLqHv.png"/>
 
+###4.3. Landing Page UI Design
+
+###4.3.1. Landing Page Wireframe.
+
+<img src="https://i.imgur.com/RIIZVSE.png"/>
+
+<img src="https://i.imgur.com/IsmTEYP.png"/>
+
+<img src="https://i.imgur.com/dwrbsjw.png"/>
+
+<img src="https://i.imgur.com/MdqLiaz.png"/>
+
 
 ## 5.1. Software Configuration Management
 
