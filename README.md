@@ -679,7 +679,7 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
     * Visibilidad que tiene un proveedor dentro de la plataforma, influyendo en su reputación y oportunidades de negocio.
 <hr>
 
-##Capítulo IV: Product Design
+## Capítulo IV: Product Design
  
 ### 4.1. Style Guidelines
 
@@ -713,7 +713,23 @@ La tipografía debe ser clara y legible, utilizando la fuente "Abel", que se man
 La paleta de colores elegida para la web de ElectroLink fue diseñada para complementar visualmente el logo sin competir con él, manteniendo una identidad coherente, moderna y profesional. El azul grisáceo suave establece una base limpia y tecnológica, ideal para fondos que no cansan la vista y dan protagonismo al contenido. Este tono, junto al celeste claro para botones o elementos interactivos, mantiene la sensación de confianza y dinamismo que el logo transmite, pero con una suavidad que hace la interfaz más amigable.
 Por otro lado, el gris cálido y el grafito profundo aportan equilibrio visual y legibilidad. Son tonos sobrios que ayudan a jerarquizar la información sin recargarla, perfectos para textos y detalles estructurales. El naranja pastel, inspirado en el logo pero más atenuado, actúa como acento para destacar avisos o llamadas a la acción sin ser intrusivo. Finalmente, el verde menta claro introduce un toque de frescura y vitalidad, ideal para confirmar acciones exitosas o transmitir sensación de progreso. En conjunto, esta paleta respalda los valores de la marca: precisión, accesibilidad, tecnología y conexión humana.
 
+## Paleta de Colores – ElectroLink
+
+| Color                | Uso                                              | Código Hex              |
+|----------------------|--------------------------------------------------|--------------------------|
+| Azul grisáceo suave  | Fondo de secciones, tarjetas, menús laterales    | `#B5D5F5`, `#E8EEF7`     |
+| Gris cálido          | Texto secundario, bordes suaves, fondos suaves   | `#A9B1BA`                |
+| Celeste claro        | Hover, botones secundarios, íconos de ayuda      | `#B5D5F5`, `#3DADFF`     |
+| Amarillo pastel      | Elementos destacados suaves, fondos de aviso     | `#FFE492`, `#D5D6D8`     |
+| Grafito profundo     | Texto principal, íconos oscuros                  | `#2E3A59`                |
+
 <hr>
+
+#### 4.1.2. Web Style Guidelines
+
+De manera que el contenido de nuestro sitio web se vea organizado y sea mostrado de manera adecuada, implementamos el patrón F. El objetivo del patrón F en un sitio web es reflejar la forma natural en la que los usuarios escanean el contenido, empezando por la parte superior izquierda y moviéndose en forma de "F" hacia abajo. Este diseño resalta la información clave en las primeras líneas y en el lateral izquierdo, donde la vista se concentra más. Mejora la usabilidad al alinear la estructura con el comportamiento visual del usuario, facilitando la lectura rápida y efectiva. Se utiliza para mejorar la experiencia del usuario y destacar contenido relevante.
+
+<img src="https://i.imgur.com/ThilDbx.png"/>
 
 ## 5.1. Software Configuration Management
 
