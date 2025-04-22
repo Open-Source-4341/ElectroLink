@@ -938,4 +938,30 @@ Se nombrará las siguientes etiquetas que utilizamos para desarrollar nuestra so
 * `font-style:` Representa el estilo de letra.
 * `Text-align:` Representa la alineación del texto.
 * `color:` Otorga color al elemento.
-* `Background-color:` Otorga color del fondo del elemento.
+* `Background-color:` Otorga color del fondo del elemento. 
+
+<hr>
+
+### 5.1.4. Software Deployment Configuration.
+
+**Consideraciones Preliminares al Despliegue:**
+
+* **Implementación de Archivos Web:** Se requiere la implementación completa de la página web utilizando archivos HTML, CSS y JS para garantizar su correcta operatividad. Se autoriza el uso de diversos formatos para los archivos de imagen (jpg, png, webp, etc.).
+* **Mecanismo de Publicación en Github:** En virtud del servicio Github Pages, todos los archivos necesarios para la funcionalidad de la aplicación se cargarán al repositorio compartido de Github, facilitando la colaboración simultánea entre los miembros del equipo.
+* **Protocolo de Pruebas de Funcionamiento:** Tras cada actualización e integración al repositorio, se ejecutarán pruebas internas para asegurar la correcta operación de la página. Asimismo, se someterá la página a pruebas por parte de usuarios externos al grupo de trabajo para obtener una evaluación imparcial.
+
+**Requisitos Mandatorios para el Despliegue:**
+
+* Existencia de un repositorio dentro de la organización de GitHub.
+* El repositorio debe poseer visibilidad pública.
+* Disposición de los permisos de Github necesarios.
+* Disponibilidad del código fuente de la Landing Page.
+
+**Procedimiento de Despliegue de la Landing Page:**
+
+* Carga del código fuente de la Landing Page al repositorio de destino en GitHub.
+* Acceso a la interfaz de configuración del repositorio en GitHub.
+* Selección de la sección denominada "Pages".
+* Una vez completados los pasos precedentes, se iniciará el proceso de construcción, tras el cual la Landing Page deberá estar accesible en breve.
+
+  <hr>
