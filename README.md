@@ -1508,7 +1508,6 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 ### 4.6.2. Software Architecture Container Diagrams
 <img src="https://media.discordapp.net/attachments/1364292682553360515/1364298594051690546/structurizr-92688-Containers.png?ex=68092994&is=6807d814&hm=cae35364a69629e1cd5c91cedf4890a7eeb4b45ac704860589bdea3a328c56f4&=&format=webp&quality=lossless&width=871&height=948"/>
 ### 4.6.3. Software Architecture Components Diagrams
-
 Authentication Bounded Context
 <img src="https://media.discordapp.net/attachments/458373275064467476/1364316476865118279/AuthenticationBC.png?ex=68093a3b&is=6807e8bb&hm=6f8456553abdf8747d859ccb6a58c224cc485b889da194c649ad89baf6df2657&=&format=webp&quality=lossless&width=457&height=844"/>
 
