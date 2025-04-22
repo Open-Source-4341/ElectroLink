@@ -1176,9 +1176,7 @@ Epicas
 <hr>
 <hr>
 
-<img src="https://i.imgur.com/Gn1gOU3.jpeg"/>
-<hr>
-
+<img src="https://i.imgur.com/ApGnQ5n.jpeg"/>
 <hr>
 
 <hr>
