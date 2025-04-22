@@ -261,6 +261,32 @@ Este problema ocurre en lugares con alta demanda eléctrica, como por ejemplo: h
 
 <hr>
 
+#### 1.2.2. Lean UX Process
+Según Pragma (2021), el proceso Lean UX es la mezcla de metodologías ágiles y temas de usabilidad, donde se prioriza la experiencia de usuario por la creación de un producto. Teniendo en cuenta ello, hemos elaborado nuestro Lean UX process basándonos en sus cuatro pilares principales: problem statements, assumptions, hypothesis y canvas.
+
+<hr>
+
+<hr>
+
+#### 1.2.2.1. Lean UX Problem Statements
+**Problem Statement#1** <br>
+Nuestra plataforma busca conectar a dueños de hogares urbanos con proveedores técnicos eléctricos certificados, garantizando servicios seguros y eficientes dentro de los parámetros legales.
+
+Hemos identificado que los dueños de hogares urbanos enfrentan dificultades para encontrar proveedores confiables, lo que genera riesgos en sus instalaciones y retrasos en la solución de problemas críticos.Esta situación no solo pone en riesgo la seguridad de hogares y negocios, sino que también genera costos adicionales por reparaciones mal ejecutadas y pérdidas económicas por interrupciones prolongadas.
+
+Ante este desafío, surge la pregunta: ¿Cómo podemos garantizar que los usuarios encuentren proveedores eléctricos certificados de manera rápida y confiable, reduciendo riesgos y mejorando la eficiencia en la solución de problemas?
+
+**Problem Statement #2** <br>
+Nuestra plataforma busca resolver la desconexión entre proveedores de componentes eléctricos y el mercado real, eliminando la dependencia de canales informales y recomendaciones causales que limitan su crecimiento.
+
+Hemos identificado que los proveedores de componentes eléctricos enfrentan dificultades para encontrar clientes de forma constante, lo que genera un aumento considerable de informalidad en el sector eléctrico.Esta situación los obliga a operar con márgenes reducidos debido a la competencia desleal de productos pirata o de baja calidad. Muchos dependen exclusivamente de ventas por recomendación o redes sociales, sin acceso a herramientas profesionales de gestión comercial.
+
+Ante este desafío, surge la pregunta clave: ¿Cómo podemos crear un puente digital que permita a los proveedores de componentes eléctricos ampliar su mercado, garantizar ventas recurrentes y competir en igualdad de condiciones, rompiendo así el ciclo de informalidad en el sector?
+
+<hr>
+
+
+
 ### Segmentos Objetivo:
 
 Nuestros usuarios principales son propietarios de hogares urbanos, dueños PYMES u oficinas y proveedores de componentes o servicios eléctricos certificados
