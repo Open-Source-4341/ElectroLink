@@ -824,6 +824,7 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 <hr>
 
 <img src="https://i.imgur.com/koIIfNX.jpeg"/>
+
 **Olivia Rodriguez**
 
 <hr>
@@ -831,6 +832,7 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 <hr>
 
 <img src="https://i.imgur.com/7BCEdvZ.jpeg"/>
+
 **Eduardo Gonzales**
 
 <hr>
@@ -838,6 +840,7 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 <hr>
 
 <img src="https://i.imgur.com/RlO6qIK.jpeg"/>
+
 **Alejandro Lopez**
 
 <hr>
@@ -980,6 +983,8 @@ Tomar la decisión y agendar el servicio:
 Olivia es una usuaria cautelosa, exigente y preocupada por la seguridad y la calidad, pero actualmente enfrenta un proceso cargado de incertidumbre, informalidad y desorganización. Su experiencia se ve afectada por la falta de herramientas que la acompañen en todo el recorrido. Una plataforma que le brinde proveedores verificados, cotizaciones estandarizadas, comparaciones automáticas y validaciones de calidad y seguridad tendría un impacto muy positivo, reduciendo su ansiedad, optimizando su tiempo y fortaleciendo su confianza al momento de tomar decisiones.
 <hr>
 
+<hr>
+
 ## 2.4. Ubiquitous Language
 **Glosario del Dominio del Negocio - ElectroLink**
 
@@ -1074,6 +1079,36 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
 * **Digital Presence** (Presencia digital)
     * Visibilidad que tiene un proveedor dentro de la plataforma, influyendo en su reputación y oportunidades de negocio.
 <hr>
+
+<hr>
+## Capítulo III: Requirements Specification
+
+<hr>
+
+<hr>
+
+### 3.1. To-Be Scenario Mapping
+
+<hr>
+
+<hr>
+
+### 3.2. User Stories
+
+<hr>
+
+<hr>
+
+### 3.3. Impact Mapping
+
+<hr>
+
+<hr>
+
+### 3.4. Product Backlog
+
+<hr>
+
 
 ## Capítulo IV: Product Design
  
