@@ -1723,6 +1723,7 @@ Subscription Billing Bounded Context
 
 <hr>
 
+<img src="https://i.imgur.com/z040ytB.png"/>
 <hr>
 
 ## 5.1. Software Configuration Management
