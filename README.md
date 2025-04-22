@@ -55,7 +55,7 @@
 
 **Enlace de la organización del proyecto**
 - [Organización GitHub: Open-Source-4341](https://github.com/Open-Source-4341)
-- [Repositorio GitHub: ElectroLink]()
+- [Repositorio GitHub: ElectroLink](https://github.com/Open-Source-4341)
 
 <img src="https://i.imgur.com/u3VdgdH.jpeg"/>
 <hr>
