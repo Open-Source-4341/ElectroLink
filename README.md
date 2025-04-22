@@ -574,8 +574,78 @@ A diferencia de Thumbtack, el cual utiliza un modelo de pago basado en leads, El
 
 <hr>
 
+<hr>
+
+### 2.2. Entrevistas
+De acuerdo con Easwaramoorthy y Zarinpoush (2006), las entrevistas son un método de investigación, en el que se lleva a cabo “una conversación para recolectar información”. En esta, se realizan una serie de preguntas sobre el agente que queremos llegar a conocer mejor y profundizar en su sentir y punto de vista. Para HampCoders, la información recogida a través de las entrevistas es esencial para identificar cómo ElectroLink aportaría a solucionar el problema relacionado a la instalación y mantenimiento preventivo sobre el consumo de energía, en qué medida y en qué aspectos específicos. Por ello, realizamos un total de 3 entrevistas por segmento. Todas las entrevistas se realizaron a larga distancia (Google Meet, Zoom y Discord), y de manera presencial, en un espacio cómodo y silencioso y dentro del ámbito informal. 
+
+<hr>
+
+<hr>
+
+#### 2.2.1. Diseño de entrevistas
+**Segmento #1: Propietarios de hogares urbanos:**
+
+**Preguntas principales:**
+-   ¿Cómo te sientes normalmente cuando surge un problema eléctrico en tu casa, como un corte de luz o un tomacorriente que no funciona?
+-   ¿Qué haces normalmente cuando necesitas encontrar a alguien que repare o revise una instalación eléctrica en tu hogar?
+-   ¿Qué tan fácil o difícil te resulta encontrar técnicos eléctricos en quienes puedas confiar?
+-   ¿Cuando has contratado un servicio eléctrico antes, ¿qué fue lo que más te preocupó?
+-   ¿Qué cosas valoras más cuando contratas a alguien para que trabaje en tu casa (puntualidad, certificación, costo, rapidez)?
+-   ¿Con qué frecuencia tomas medidas preventivas para evitar problemas eléctricos en tu hogar?
+-   ¿Te ha pasado que una instalación mal hecha haya causado problemas luego? ¿Cómo lo resolviste?
+-   ¿Qué importancia le das a que un servicio eléctrico esté dentro de los parámetros legales o normativos?
+-   ¿Te interesaría usar una plataforma que conecte con proveedores verificados para servicios eléctricos en tu zona? ¿Por qué?
+-   ¿Qué funcionalidades crees que harían esa plataforma útil para ti en el día a día?
+
+**Preguntas complementarias:**
+-   ¿Qué sueles buscar en internet cuando tienes dudas sobre una falla eléctrica?
+-   ¿Cuánto confías en las recomendaciones de redes sociales o conocidos para encontrar técnicos?
+-   ¿En qué momentos específicos crees que te sería más útil tener acceso rápido a un proveedor certificado?
+-   ¿Te sentirías cómodo usando una plataforma para agendar mantenimientos eléctricos preventivos?
+
+**Segmento #2: Dueños de PYMES u oficinas:**
+
+**Preguntas principales:**
+-   ¿Qué tipo de instalaciones eléctricas utilizas actualmente en tu negocio u oficina?
+-   ¿Qué tan seguido te has enfrentado a fallas eléctricas en tus operaciones diarias?
+-   ¿Cómo manejas actualmente el mantenimiento eléctrico de tu empresa? ¿Lo haces tú o lo delegas?
+-   ¿Qué impacto tiene una falla eléctrica en tu productividad o en la atención al cliente?
+-   ¿Qué criterios tomas en cuenta al contratar a un proveedor eléctrico para tu negocio?
+-   ¿Has tenido malas experiencias con servicios técnicos eléctricos? ¿Qué aprendiste de esas situaciones?
+-   ¿Qué tan importante es para ti que los proveedores cumplan con normativas legales y ofrezcan garantía?
+-   ¿Te sentirías cómodo usando una plataforma que te conecte directamente con proveedores certificados?
+-   ¿Qué funcionalidades esperarías de esa plataforma para que realmente te ayude a ahorrar tiempo y dinero?
+-   ¿Crees que una herramienta así te daría una ventaja competitiva frente a otros negocios?
+
+**Preguntas complementarias:**
+-   ¿Qué sueles hacer cuando necesitas encontrar un componente eléctrico específico para tu empresa?
+-   ¿Qué herramientas digitales usas actualmente para gestionar el mantenimiento o las instalaciones eléctricas de tu negocio?
+-   ¿Dónde buscarías una solución que reduzca riesgos y mejore la eficiencia energética en tu negocio?
+-   ¿Te sentirías más confiado si pudieras ver opiniones, calificaciones y certificaciones de los proveedores antes de contratarlos?
+
+**Segmento #3: Proveedores de componentes o servicios eléctricos certificados:**
+
+**Preguntas principales:**
+-   ¿Cómo te sientes actualmente con la forma en que consigues clientes para tus servicios eléctricos?
+-   ¿Qué estrategias usas para dar a conocer tu trabajo y atraer nuevos clientes?
+-   ¿Qué dificultades enfrentas al competir con proveedores no certificados o informales?
+-   ¿Qué tan fácil es para ti comunicar la calidad y legalidad de tu trabajo a los potenciales clientes?
+-   ¿Cómo manejas la gestión de pedidos o solicitudes de trabajo actualmente?
+-   ¿Qué importancia tiene para ti pertenecer a una red de profesionales avalados o certificados?
+-   ¿Qué tanto te ayudaría una plataforma que te permita mostrar tu experiencia, certificaciones y opiniones de clientes?
+-   ¿Estarías dispuesto a pagar una suscripción mensual si eso te garantiza mayor visibilidad y más clientes? ¿Por qué?
+-   ¿Qué funcionalidades crees que te facilitarán la gestión comercial desde una app o plataforma?
+-   ¿Cómo crees que cambiaría tu negocio si pudieras digitalizar la forma en que conectas con clientes?
 
 
+**Preguntas complementarias:**
+-   ¿Dónde públicas actualmente tus servicios (Facebook, grupos, WhatsApp, boca a boca)?
+-   ¿Has probado plataformas para ofrecer tus servicios? ¿Cómo fue la experiencia?
+-   ¿Qué herramientas digitales usas (si usas alguna) para organizar tus trabajos y pedidos?
+-   ¿Qué tan dispuesto estarías a formar parte de una comunidad de proveedores certificados con estándares comunes?
+
+<hr>
 
 ## 2.2.2 Segmentación de Entrevistas
 
