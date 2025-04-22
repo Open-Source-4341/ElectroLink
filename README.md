@@ -1502,11 +1502,25 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 
 [Ver diseño en Figma](https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&t=9AhvJafsRNaQO2cX-1)
 
+<hr>
+
 ## 4.6. Domain-Driven Software Architecture
+<hr>
+
+<hr>
+
 ### 4.6.1. Software Architecture Context Diagrams
 <img src="https://media.discordapp.net/attachments/1364292682553360515/1364298707050430525/structurizr-92688-SystemContext_1.png?ex=680929af&is=6807d82f&hm=f05a24992ed37d53466098d095917bb32dfd5ff59e200d0ece4f54416139860c&=&format=webp&quality=lossless&width=1043&height=948"/>
+<hr>
+
+<hr>
+
 ### 4.6.2. Software Architecture Container Diagrams
 <img src="https://media.discordapp.net/attachments/1364292682553360515/1364298594051690546/structurizr-92688-Containers.png?ex=68092994&is=6807d814&hm=cae35364a69629e1cd5c91cedf4890a7eeb4b45ac704860589bdea3a328c56f4&=&format=webp&quality=lossless&width=871&height=948"/>
+<hr>
+
+<hr>
+
 ### 4.6.3. Software Architecture Components Diagrams
 
 Authentication Bounded Context
@@ -1532,6 +1546,7 @@ Support-Live Chat Bounded Context
 
 Subscription Billing Bounded Context
 <img src="https://media.discordapp.net/attachments/458373275064467476/1364316471890546739/structurizr-92688-ComponentCheckMoneyAccount.png?ex=68093a3a&is=6807e8ba&hm=4eae7c4504f05e19bd5709a8922e4ebdf319803fbff56bf5c96f2a1f6816ac8d&=&format=webp&quality=lossless&width=782&height=844" />
+<hr>
 
 <hr>
 
@@ -1541,6 +1556,8 @@ Subscription Billing Bounded Context
 <hr>
 
 #### 4.7.1. Class Diagrams
+
+<img src="https://i.imgur.com/Lo4poFq.jpeg"/>
 <hr>
 
 <hr>
