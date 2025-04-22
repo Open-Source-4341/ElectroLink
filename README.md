@@ -284,7 +284,6 @@ Aspectos psicográficos:
 - Están enfocados en el crecimiento profesional y la fidelización de clientes.
 <hr>
 
-<hr>
 ## 2.3.5. As-is Scenario Mapping
 
 **Alejandro Lopez**
@@ -329,4 +328,49 @@ Entrega de productos:
   
 **Conclusión**
 Alejandro enfrenta varios puntos críticos en su proceso: publicidad poco efectiva, consultas y cotizaciones manuales que lo agobian, y entregas propensas a errores. Aunque hay momentos de esperanza, su experiencia general es frustrante. Esto evidencia la necesidad urgente de herramientas digitales que lo ayuden a automatizar, organizar y profesionalizar su servicio.
+
+**Eduardo Gonzales**
+
+<img src="https://i.imgur.com/0k7QAZ8.png"/>
+
+**Áreas negativas**
+
+Identificar una necesidad operativa o de mantenimiento:
+- Eduardo parte con incertidumbre al preguntarse si debe resolver el problema de inmediato o si puede esperar, lo que genera estrés.
+- Se siente preocupado y frustrado porque los problemas son frecuentes y no siempre encuentra soluciones rápidas, lo que podría acarrear riesgos operativos o pérdidas importantes para la empresa.
+
+Buscar proveedores adecuados:
+- Esta etapa está llena de desconfianza. Eduardo duda si los proveedores entienden realmente lo que necesita o si solo quieren cerrar una venta rápida.
+- Se siente inseguro e impaciente ante las respuestas lentas y poco claras, lo que afecta su percepción de profesionalismo y genera tensión en un momento clave para la toma de decisiones.
+  
+Solicitar cotización y evaluar propuestas:
+- Eduardo se enfrenta a la ansiedad de cometer errores al seleccionar proveedores, y sufre por tener que repetir procesos que no mejoran con el tiempo.
+- La sobrecarga de evaluar múltiples propuestas, sin estar seguro de si le responderán bien tras la compra, lo hace sentirse cansado, inseguro y con miedo a consecuencias graves.
+  
+Supervisar ejecución y validar resultados:
+- Aunque ya en una etapa avanzada, Eduardo aún siente incertidumbre y dudas sobre si tomó la mejor decisión o si dejó pasar una opción superior.
+- Esto lo hace sentirse dudoso, y aunque confía en algunos proveedores, no siempre puede validar si son la mejor opción a largo plazo.
+
+**Áreas positivas**
+
+Identificar una necesidad operativa o de mantenimiento:
+
+- Eduardo demuestra proactividad al realizar inspecciones periódicas y tomar nota del estado de los equipos, lo que le da visibilidad y control sobre su entorno operativo.
+- Se siente comprometido con su equipo y con la empresa, lo que impulsa su deseo de mejorar continuamente.
+  
+Buscar proveedores adecuados:
+- Aunque tiene dudas, Eduardo explora múltiples canales (web, catálogos, redes, recomendaciones) para encontrar proveedores, lo que muestra una búsqueda activa y estratégica.
+- Tiene un enfoque exigente y selectivo, no se conforma con la primera opción, lo que garantiza estándares de calidad más altos.
+
+Solicitar cotización y evaluar propuestas:
+- Filtra activamente a proveedores que no cumplen con aspectos técnicos o de confianza, lo que indica una evaluación rigurosa.
+- Esta etapa, aunque estresante, muestra que Eduardo sabe qué quiere y no acepta cualquier solución, buscando equilibrio entre precio, calidad y conocimiento técnico.
+
+Supervisar ejecución y validar resultados:
+- Finalmente, cuando logra decidir con seguridad, se siente aliviado por haber elegido correctamente pensando en el largo plazo.
+- Esta satisfacción final indica que, a pesar del proceso complejo, Eduardo valora las decisiones bien fundamentadas y aspira a establecer relaciones sostenibles con los proveedores.
+
+**Conclusión**
+
+Eduardo es un perfil técnico y exigente, que valora la calidad, la previsión y la confiabilidad en todo el proceso de adquisición y mantenimiento. Aunque su recorrido está lleno de tensiones y dudas, especialmente en la interacción con proveedores, también muestra una actitud proactiva y profesional. Una plataforma que le brinde confianza, claridad, rapidez en respuestas y herramientas para comparar y validar proveedores fácilmente puede ayudarlo a reducir su ansiedad, optimizar decisiones y reforzar la seguridad en sus elecciones.
 <hr>
