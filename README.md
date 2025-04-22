@@ -53,7 +53,18 @@
 
 ## Project Report Collaboration Insights  
 
+<img src="https://i.imgur.com/u3VdgdH.jpeg"/>
 <hr>
+
+## Resumen de commits por contribuidor
+
+| **Posición** | **Usuario**     | **Commits** | **Líneas añadidas (+)** | **Líneas eliminadas (-)** |
+|--------------|------------------|-------------|---------------------------|-----------------------------|
+| #1           | **Ricardo Del Aguila**      | 38          | 1,065                     | 101                         |
+| #2           | **Ivo Machado**    | 16          | 416                       | 16                          |
+| #3           | **Italo Sanchez**  | 15          | 265                       | 19                          |
+| #4           | **Ethan Aliaga**     | 7           | 1,787                     | 14                          |
+| #5           | **Leandro Contreras**     | 6           | 244                       | 1                           |
 
 ## Tabla de Contenidos
 
