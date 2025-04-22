@@ -840,6 +840,68 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 
 <img src="https://i.imgur.com/gHvT3uz.png"/>
 
+###4.4. Web Applications UX/UI Design.
+
+###4.4.1. Web Applications Wireframes.
+
+## Web Applications Wireframes - ElectroLink
+
+En esta sección se presentan los **wireframes de la aplicación web de ElectroLink**, los cuales permiten visualizar cómo será la estructura y disposición de los elementos en la interfaz. Estos bocetos funcionales aseguran una experiencia fluida, clara e inclusiva para los diferentes segmentos de usuarios, como propietarios de hogares, pequeños empresarios y proveedores técnicos, incluyendo además personas con ansiedad social, TEA, o discapacidades físicas.
+
+El propósito de los wireframes es establecer la **estructura base de la aplicación**, mostrando la organización de la información, la navegación y la ubicación de los elementos interactivos sin enfocarse aún en los aspectos visuales finales. Esta etapa es crucial para garantizar una **experiencia de usuario intuitiva y accesible desde el inicio del diseño**.
+
+---
+
+### 🔹 Elementos clave del diseño
+
+#### 🧭 Arquitectura de la información
+
+- El contenido y las funciones están organizadas para facilitar el acceso a herramientas como el historial de servicios, monitoreo de consumo energético, o gestión de citas.
+- Los wireframes incluyen pantallas clave como:
+  - Panel de control del propietario.
+  - Dashboard del proveedor técnico.
+  - Formulario para solicitar mantenimientos preventivos.
+  - Historial de dispositivos y consumo energético.
+- Se ha priorizado una **navegación simple y accesible**, permitiendo que usuarios con diversas habilidades puedan moverse con facilidad por la plataforma.
+
+#### 📐 Estructura de la interfaz
+
+- Los elementos interactivos (botones, menús, tarjetas de información) están ubicados estratégicamente para que el usuario pueda realizar tareas con pocos clics.
+- Las pantallas permiten acceso directo a secciones importantes como:
+  - Subir o editar dispositivos eléctricos.
+  - Contactar proveedores certificados.
+  - Visualizar métricas de rendimiento o consumo.
+- Se incluye también una sección de perfil adaptable y configurable, especialmente útil para personas que requieren adaptaciones visuales, físicas o cognitivas.
+
+---
+
+### 🎨 Principios de diseño aplicados
+
+- **Simplicidad**: Cada interfaz está diseñada para minimizar la carga cognitiva, con estructuras limpias que priorizan las acciones más importantes para el usuario.
+- **Consistencia**: Todos los botones, iconos y menús siguen un mismo estilo visual y funcional, lo que reduce el tiempo de aprendizaje para los usuarios.
+- **Accesibilidad**: Se aplican principios de diseño inclusivo, incluyendo opciones como:
+  - Ajuste del tamaño de texto y botones.
+  - Contraste de colores adecuado.
+  - Navegación compatible con teclado y lectores de pantalla.
+  - Diseño responsive para su uso en laptops, tablets y móviles.
+
+---
+Los wireframes son una guía esencial para la implementación efectiva de la plataforma ElectroLink, alineando las necesidades de los usuarios con un diseño funcional, ordenado y accesible para todos.
+
+<img src="https://i.imgur.com/nwjF5Kr.png"/>
+
+<img src="https://i.imgur.com/7GeJ7Ua.png"/>
+
+<img src="https://i.imgur.com/C5Q56pR.png"/>
+
+<img src="https://i.imgur.com/8gOZ6GA.png"/>
+
+<img src="https://i.imgur.com/5JAGI69.png"/>
+
+<img src="https://i.imgur.com/s4KR7ll.png"/>
+
+<img src="https://i.imgur.com/i8ba802.png"/>
+
 ## 5.1. Software Configuration Management
 
 ### 5.1.1. Software Development Environment Configuration
