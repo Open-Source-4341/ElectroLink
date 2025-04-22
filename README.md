@@ -284,6 +284,64 @@ Aspectos psicográficos:
 - Están enfocados en el crecimiento profesional y la fidelización de clientes.
 <hr>
 
+
+<hr>
+## 2.2.2 Segmentación de Entrevistas
+### Segmento #1: Propietarios de hogares urbanos
+
+**Entrevista: Mari Vallejos**  
+- **Sexo:** Femenino  
+- **Edad:** 30  
+- **Link:** [Ver entrevista](https://www.youtube.com/watch?v=nTeFYzyawYk)  
+- **Inicia en:** 0:06  
+- **Duración:** 6:35
+  
+<img src="https://i.imgur.com/4DuNuVf.png"/>
+
+**Resumen:**  
+Mari es ama de casa y pasa la mayor parte del tiempo en su hogar, lo que la hace responsable de todos los asuntos domésticos. Cuando surge un problema eléctrico, como un corte de luz o un enchufe dañado, experimenta ansiedad por no saber cómo resolverlo. Su reacción suele ser buscar ayuda en redes sociales, especialmente en Instagram o grupos vecinales, basándose en recomendaciones y comentarios.
+
+Le preocupa que el servicio sea de calidad, que el proveedor sea puntual, rápido y comprometido, ya que valora que el problema se resuelva de manera eficaz. Sin embargo, no realiza mantenimientos preventivos por falta de conocimiento. Aunque sabe que las normativas legales son importantes, su prioridad es que el trabajo funcione bien.
+
+Mari muestra interés en una plataforma como **ElectroLink**, siempre que incluya proveedores verificados y reseñas reales. Sugiere que la plataforma tenga filtros por experiencia, horario, costo y calificaciones para facilitar su uso.
+
+---
+
+### Segmento #2: Dueños de PYMES u oficinas
+
+**Entrevista : Piero Tenorio**  
+- **Sexo:** Masculino  
+- **Edad:** 26  
+- **Link:** [Ver entrevista](https://www.youtube.com/watch?v=_z8UNTi_cmA)  
+- **Inicia en:** 0:01  
+- **Duración:** 9:54
+<img src="https://i.imgur.com/9iDrwLt.png"/>
+
+**Resumen:**  
+Piero es dueño de una pequeña empresa de autopartes con varias sucursales. Su negocio depende de equipos eléctricos como computadoras, escáneres, cámaras de seguridad y luces. Las fallas eléctricas, aunque poco frecuentes, afectan la productividad al interrumpir los sistemas de inventario, lo cual puede hacer que los clientes se vayan.
+
+Aunque intentó manejar el mantenimiento por sí mismo, ahora lo delega pero sin un plan definido. No realiza mantenimiento preventivo y reconoce que esto es un riesgo. También conoce casos de técnicos no confiables, por lo que valora servicios con garantía y cumplimiento normativo.
+
+Está dispuesto a usar **ElectroLink** si ofrece proveedores certificados, reseñas, calificaciones y funcionalidades como el registro de consumo eléctrico, alertas de fallas y recomendaciones de mejora.
+
+---
+
+### Segmento #3: Proveedores de componentes o servicios eléctricos certificados
+
+**Entrevista: Juan Lucas**  
+- **Sexo:** Masculino  
+- **Edad:** 25  
+- **Link:** [Ver entrevista](https://youtu.be/I_ISRdC6mHI)  
+- **Inicia en:** 0:01  
+- **Duración:** 4:52  
+<img src="https://i.imgur.com/CsMAftn.png"/>
+**Resumen:**  
+Juan tiene conocimientos en electricidad y electrónica, y suele encargarse de resolver cualquier problema eléctrico en casa. Si no puede solucionarlo, contacta a amigos electricistas de confianza. Toma medidas preventivas básicas como apagar luces o usar llaves térmicas para evitar sobrecargas.
+
+Nunca ha contratado servicios eléctricos, pero comprende la importancia de cumplir con normas legales debido al riesgo que conlleva el mal manejo eléctrico. Muestra interés en una aplicación como **ElectroLink**, ya que le permitiría acceder fácilmente a proveedores confiables para consultas o necesidades que escapen a sus conocimientos.
+
+<hr>
+
 ## 2.3.5. As-is Scenario Mapping
 
 **Alejandro Lopez**
@@ -515,3 +573,5 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
     * Visibilidad que tiene un proveedor dentro de la plataforma, influyendo en su reputación y oportunidades de negocio.
  
 <hr>
+
+
