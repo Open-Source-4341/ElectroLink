@@ -315,6 +315,59 @@ Otras suposiciones que debemos considerar incluyen la disponibilidad de proveedo
 ¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione? <br>
 Si estas suposiciones resultan ser falsas, podríamos enfrentar obstáculos importantes. Si no logramos atraer suficientes proveedores, la plataforma no sería atractiva ni útil para los usuarios, lo que pondría en riesgo nuestra capacidad de ofrecer un servicio integral. Si la aceptación de la plataforma no es lo suficientemente alta, perderíamos relevancia frente a métodos tradicionales, lo que podría limitar nuestro crecimiento.
 
+**Users:**  
+Nuestros usuarios principales son:
+- Propietarios de hogares urbanos
+- Dueños PYMES u oficinas
+- Proveedores de componentes o servicios eléctricos certificados
+
+**User Outcomes:**  
+**¿Quién es el usuario?**
+-   Nuestros usuarios principales son propietarios de hogares urbanos, dueños PYMES u oficinas y proveedores de componentes o servicios eléctricos certificados.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+-   Hemos detectado 2 posibles problemas , el primero es la dificultad por parte de los propietarios y dueños de PYMES u oficinas para encontrar proveedores confiables dado que no ofrecen las garantías necesarias.Por otro lado, el segundo problema identificado va por parte de los proveedores de componentes o servicios electricos ya que  enfrentan dificultades para encontrar clientes de forma constante.El primer problema se resolvería por medio de nuestra plataforma que mostrará y recomendará a proveedores certificados que se adecuen a las necesidades del usuario.El segundo problema se resolvería por medio de la exposición que le brindaremos a los proveedores en nuestra plataforma permitiéndole conectarse con potenciales clientes.
+
+
+**¿Qué características son importantes?**
+
+-   **Para propietarios y dueños de PYMES u oficinas:** 
+    - Búsqueda y filtrado de técnicos certificados. 
+    - Sistema de reseñas y calificaciones transparente.
+    - Opción de programación de servicios preventivos.
+    - Seguimiento en tiempo real del servicio.
+    - Información sobre consumo eficiente.
+
+-   **Para proveedores:**
+    - Perfil verificable con certificaciones.
+    - Acceso a una red de clientes potenciales.
+    - Herramientas de gestión (agenda, historial de servicios, pagos integrados).
+    - Notificaciones de oportunidades de trabajo.
+    - Protección contra la competencia desleal.
+    
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+**Nuestro producto es utilizado:**
+
+- Cuando los propietarios de hogares enfrentan problemas eléctricos urgentes, necesitan mantenimiento preventivo o requieren asesoría para optimizar el consumo de energía. La plataforma evita el estrés de buscar técnicos de manera informal y les da seguridad al garantizar que los proveedores están validados.
+
+- En el caso de proveedores de componentes o servicios eléctricos, la plataforma se integra como su principal canal de clientes, reemplazando métodos tradicionales como el boca a boca o las redes sociales. Les permite gestionar su negocio de manera más profesional, aumentar su visibilidad y acceder a oportunidades de negocio recurrentes sin depender de la informalidad.
+
+
+**¿Cuándo y cómo es usado nuestro producto?**
+
+**Propietarios y dueños de PYMES u oficinas:**  
+- **Cuándo:** En emergencias eléctricas, mantenimiento preventivo o al necesitar asesoría técnica.  
+- **Cómo:** Acceden a la plataforma, buscan técnicos cercanos, comparan perfiles, contratan y califican el servicio.  
+
+**Proveedores:**  
+- **Cuándo:** Cuando buscan nuevos clientes o gestionan sus servicios.  
+- **Cómo:** Crean su perfil verificable, reciben solicitudes, gestionan citas y pagan suscripciones por acceso premium.  
+
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+Se utiliza en momentos críticos (fallas, cortes de electricidad, sobrecargas) y también de forma preventiva (remodelaciones, instalación de nuevos equipos, revisiones anuales).Asimismo , se puede acceder desde dispositivos móviles o web, en el hogar, oficina o incluso en movimiento.También podría ser usado rápidamente cuando se requiere soporte urgente, o planificadamente para programar servicios.
+
 <hr>
 
 ### Segmentos Objetivo:
