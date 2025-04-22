@@ -840,9 +840,9 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 
 <img src="https://i.imgur.com/gHvT3uz.png"/>
 
-###4.4. Web Applications UX/UI Design.
+### 4.4. Web Applications UX/UI Design.
 
-###4.4.1. Web Applications Wireframes.
+### 4.4.1. Web Applications Wireframes.
 
 ## Web Applications Wireframes - ElectroLink
 
@@ -852,9 +852,9 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 
 ---
 
-### 🔹 Elementos clave del diseño
+### Elementos clave del diseño
 
-#### 🧭 Arquitectura de la información
+#### Arquitectura de la información
 
 - El contenido y las funciones están organizadas para facilitar el acceso a herramientas como el historial de servicios, monitoreo de consumo energético, o gestión de citas.
 - Los wireframes incluyen pantallas clave como:
@@ -864,7 +864,7 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
   - Historial de dispositivos y consumo energético.
 - Se ha priorizado una **navegación simple y accesible**, permitiendo que usuarios con diversas habilidades puedan moverse con facilidad por la plataforma.
 
-#### 📐 Estructura de la interfaz
+#### Estructura de la interfaz
 
 - Los elementos interactivos (botones, menús, tarjetas de información) están ubicados estratégicamente para que el usuario pueda realizar tareas con pocos clics.
 - Las pantallas permiten acceso directo a secciones importantes como:
@@ -875,7 +875,7 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 
 ---
 
-### 🎨 Principios de diseño aplicados
+### Principios de diseño aplicados
 
 - **Simplicidad**: Cada interfaz está diseñada para minimizar la carga cognitiva, con estructuras limpias que priorizan las acciones más importantes para el usuario.
 - **Consistencia**: Todos los botones, iconos y menús siguen un mismo estilo visual y funcional, lo que reduce el tiempo de aprendizaje para los usuarios.
@@ -901,6 +901,25 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 <img src="https://i.imgur.com/s4KR7ll.png"/>
 
 <img src="https://i.imgur.com/i8ba802.png"/>
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="https://i.imgur.com/0BN4OZM.png"/>
+
+<img src="https://i.imgur.com/nZSSUMC.png"/>
+
+<img src="https://i.imgur.com/XQd56bO.png"/>
+
+<img src="https://i.imgur.com/soOCrA8.png"/>
+
+[Ver diagrama en Lucidchart](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
+
+
+
+
+
+
+
 
 ## 5.1. Software Configuration Management
 
