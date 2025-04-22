@@ -817,6 +817,21 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 
 <hr>
 
+<hr>
+
+#### 2.3.4. Empathy Mapping
+
+**Alejandro Lopez**
+<img src="https://i.imgur.com/Tg4ikEM.jpeg"/>
+
+**Eduardo Gonzales**
+<img src="https://i.imgur.com/7BCEdvZ.jpeg"/>
+
+**Olivia Rodriguez**
+<img src="https://i.imgur.com/RlO6qIK.jpeg"/>
+
+<hr>
+
 ## 2.3.5. As-is Scenario Mapping
 
 **Alejandro Lopez**
