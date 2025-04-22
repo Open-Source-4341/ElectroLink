@@ -11,9 +11,9 @@
     <br> <br>
     Curso: SI730 - Open Source
     <br> <br>
-    Sección: 4378
+    Sección: 4341
     <br> <br>
-    Profesor: Angel Augusto Velasquez Nuñez
+    Profesor: Juan Antonio Flores Moroco
     <br> <br>
     Ciclo: 2025-01 
     <br> <br>
