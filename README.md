@@ -396,7 +396,16 @@ Nuestros usuarios principales son:
 
 <hr>
 
-### Segmentos Objetivo:
+<hr>
+
+#### 1.2.2.4. Lean UX Canvas
+<img src="https://i.imgur.com/OD3PmHm.png"/>
+
+<hr>
+
+<hr>
+
+### 1.3. Segmentos Objetivos
 
 Nuestros usuarios principales son propietarios de hogares urbanos, dueños PYMES u oficinas y proveedores de componentes o servicios eléctricos certificados
 
@@ -457,9 +466,8 @@ Aspectos psicográficos:
 - Están interesados en plataformas que les faciliten la gestión de pedidos o contactos comerciales.
 - Valoran pertenecer a una red confiable de profesionales del rubro eléctrico.
 - Están enfocados en el crecimiento profesional y la fidelización de clientes.
+
 <hr>
-
-
 
 
 ## 2.2.2 Segmentación de Entrevistas
