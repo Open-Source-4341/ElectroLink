@@ -738,6 +738,10 @@ La plataforma contará con un sistema de filtrado inteligente que permitirá a l
 Asimismo, cada proveedor tendrá un perfil verificado con información detallada sobre sus servicios, casos anteriores, contacto directo y una sección de opiniones. También se incluirá un sistema de solicitud rápida de cotización, permitiendo a los clientes establecer una comunicación ágil y efectiva. Con esta arquitectura, ElectroLink busca no solo ordenar y categorizar la información de manera accesible, sino también fomentar la confianza, la transparencia y una red de colaboración técnica eficiente, alineada con estándares de seguridad y legalidad en el rubro eléctrico.
 
 
+#### 4.2.1. Organization Systems
+Para representar la estructura de los usuario se han realizado diagramas para la explicación de la funcionalidades de la aplicación y el recorrido del usuario en la misma.
+<img src="https://i.imgur.com/wdxy51q.png"/>
+
 ## 5.1. Software Configuration Management
 
 ### 5.1.1. Software Development Environment Configuration
