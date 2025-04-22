@@ -327,6 +327,7 @@ Entrega de productos:
 - Tranquilidad una vez que el cliente confirma.
   
 **Conclusión**
+
 Alejandro enfrenta varios puntos críticos en su proceso: publicidad poco efectiva, consultas y cotizaciones manuales que lo agobian, y entregas propensas a errores. Aunque hay momentos de esperanza, su experiencia general es frustrante. Esto evidencia la necesidad urgente de herramientas digitales que lo ayuden a automatizar, organizar y profesionalizar su servicio.
 
 **Eduardo Gonzales**
@@ -373,4 +374,48 @@ Supervisar ejecución y validar resultados:
 **Conclusión**
 
 Eduardo es un perfil técnico y exigente, que valora la calidad, la previsión y la confiabilidad en todo el proceso de adquisición y mantenimiento. Aunque su recorrido está lleno de tensiones y dudas, especialmente en la interacción con proveedores, también muestra una actitud proactiva y profesional. Una plataforma que le brinde confianza, claridad, rapidez en respuestas y herramientas para comparar y validar proveedores fácilmente puede ayudarlo a reducir su ansiedad, optimizar decisiones y reforzar la seguridad en sus elecciones.
+
+**Olivia Rodriguez**
+
+<img src="https://i.imgur.com/sTOJ4Wp.png"/>
+
+**Áreas negativas**
+
+Buscar proveedores confiables:
+- Olivia se enfrenta a una búsqueda larga, tediosa y desconfiada, lo que le genera cansancio y frustración.
+- No puede confiar en cualquier empresa, y siente que el proceso es muy desgastante, además de que nada le garantiza la calidad de los materiales.
+  
+Contactar y validar a los proveedores:
+- Se siente insegura sobre permitir el ingreso a su casa y teme contactar a proveedores sin garantías, lo que le genera nerviosismo y desconfianza.
+- Olivia percibe que hacer un proceso de descarte por su cuenta es ineficiente, lo que la hace sentir molesta cuando los proveedores son informales o poco claros.
+
+Solicitar cotizaciones y comparar:
+- Se ve obligada a comparar manualmente propuestas en hojas de cálculo, recibiendo cotizaciones en formatos poco intuitivos, lo que la abruma.
+- Siente que los precios no siempre son justos y se cansa de descartar opciones sin apoyo externo.
+
+Tomar la decisión y agendar el servicio:
+- Aun en la fase final, Olivia no siempre confía en la calidad de lo que va a recibir, ni en la relación entre el costo y el producto final.
+- Se siente inquieta, nerviosa y exhausta, especialmente si no tiene claridad sobre las garantías o si invirtió mucho tiempo en el proceso sin estar completamente segura.
+
+**Áreas positivas**
+
+Buscar proveedores confiables:
+- Olivia es proactiva, utiliza Google, páginas web y preguntas a familiares o amigos de confianza.
+- Guarda enlaces y captura información útil, y valora la idea de una plataforma donde todo ya esté validado, lo que indica apertura a soluciones digitales confiables.
+
+Contactar y validar a los proveedores:
+- Pide certificados, RUC o documentos de formalidad, mostrando una actitud responsable y detallista en su proceso de selección.
+- Aunque frustrada, busca garantías y seguridad, lo que refuerza su interés por soluciones formales y transparentes.
+
+Solicitar cotizaciones y comparar:
+- A pesar del cansancio, Olivia desea prevenir problemas a futuro, lo que muestra un enfoque de largo plazo.
+- Expresa que le gustaría tener una plataforma que la ayude a comparar todo más fácilmente, lo que es una oportunidad clara para digitalizar y simplificar su experiencia.
+
+Tomar la decisión y agendar el servicio:
+- Olivia valida documentos y garantías antes de cerrar un acuerdo, lo que muestra que se preocupa por protegerse.
+- Quiere asegurarse de que su elección evite problemas futuros, lo que revela una clara orientación hacia la prevención.
+
+**Conclusión**
+
+Olivia es una usuaria cautelosa, exigente y preocupada por la seguridad y la calidad, pero actualmente enfrenta un proceso cargado de incertidumbre, informalidad y desorganización. Su experiencia se ve afectada por la falta de herramientas que la acompañen en todo el recorrido. Una plataforma que le brinde proveedores verificados, cotizaciones estandarizadas, comparaciones automáticas y validaciones de calidad y seguridad tendría un impacto muy positivo, reduciendo su ansiedad, optimizando su tiempo y fortaleciendo su confianza al momento de tomar decisiones.
 <hr>
