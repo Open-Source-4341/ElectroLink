@@ -9,7 +9,7 @@
 <h3 align="center">
     Carrera: Ingeniería de Software
     <br> <br>
-    Curso: SI730 - Aplicaciones Open Source
+    Curso: SI730 - Open Source
     <br> <br>
     Sección: 4378
     <br> <br>
