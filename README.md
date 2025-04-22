@@ -793,6 +793,13 @@ ElectroLink cuenta con un sistema de búsqueda avanzada que permite a los usuari
 | **Planes de Suscripción**         | Filtra y compara distintos planes de suscripción según los beneficios ofrecidos (monitoreo, asesoría, prioridad en atención, etc.).                       |
 
 
+### 4.2.5. Navigation Systems
+
+Los sistemas de navegación de ElectroLink han sido diseñados para guiar de forma intuitiva a los usuarios a través del Landing Page y la aplicación, facilitando la exploración del contenido y el acceso a las funcionalidades clave. La estructura sigue una lógica clara que permite a cada tipo de usuario (hogar, oficina, proveedor) encontrar rápidamente lo que necesita mediante menús jerárquicos, enlaces destacados y botones de acción visibles.
+
+<img src="https://i.imgur.com/UnlLqHv.png"/>
+
+
 ## 5.1. Software Configuration Management
 
 ### 5.1.1. Software Development Environment Configuration
