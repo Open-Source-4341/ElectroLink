@@ -285,8 +285,8 @@ Aspectos psicográficos:
 <hr>
 
 
-<hr>
-## 2.2.2 Segmentación de Entrevistas
+
+### 2.2.2 Registro de entrevistas
 ### Segmento #1: Propietarios de hogares urbanos
 
 **Entrevista: Mari Vallejos**  
@@ -340,7 +340,7 @@ Juan tiene conocimientos en electricidad y electrónica, y suele encargarse de r
 
 Nunca ha contratado servicios eléctricos, pero comprende la importancia de cumplir con normas legales debido al riesgo que conlleva el mal manejo eléctrico. Muestra interés en una aplicación como **ElectroLink**, ya que le permitiría acceder fácilmente a proveedores confiables para consultas o necesidades que escapen a sus conocimientos.
 
-<hr>
+
 
 ## 2.3.5. As-is Scenario Mapping
 
