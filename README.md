@@ -1509,9 +1509,37 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 <img src="https://media.discordapp.net/attachments/1364292682553360515/1364298594051690546/structurizr-92688-Containers.png?ex=68092994&is=6807d814&hm=cae35364a69629e1cd5c91cedf4890a7eeb4b45ac704860589bdea3a328c56f4&=&format=webp&quality=lossless&width=871&height=948"/>
 ### 4.6.3. Software Architecture Components Diagrams
 <img src="" />
+<hr>
 
+### 4.7. Software Object-Oriented Design
+<hr>
+
+<hr>
+
+#### 4.7.1. Class Diagrams
+<hr>
+
+<hr>
+
+#### 4.7.2. Class Dictionary
+<hr>
+
+<hr>
+
+### 4.8. Database Design
+<hr>
+
+<hr>
+
+#### 4.8.1. Database Diagram
+
+<hr>
+
+<hr>
 
 ## 5.1. Software Configuration Management
+
+<hr>
 
 ### 5.1.1. Software Development Environment Configuration
 
