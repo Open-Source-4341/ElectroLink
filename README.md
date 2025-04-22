@@ -1161,13 +1161,23 @@ Epicas
 | US-40 | Contacto desde la Landing Page | Como visitante con preguntas específicas,Quiero poder contactar fácilmente con la empresa,Para resolver mis dudas antes de registrarme. | Escenario: Acceso a la información de contacto Given que un visitante se encuentra de la landing page When se desplaza hasta el footer Then debería ver claramente la información de contacto And esta debería incluir:Email, Teléfono , Dirección física And los datos de contacto deberían ser actuales y funcionales Escenario: Envío de mensaje a través del formulario de contacto Given que un visitante se encuentra con una pregunta específica When me desplaza hasta la sección de contacto And completa el formulario con: Nombre, Email, Asunto, Mensaje And hago clic en "Enviar mensaje" Then debería ver una confirmación de que mi mensaje ha sido enviado And recibir información sobre cuándo puedo esperar una respuesta |  |  |  | 7 |
 | US-41 | Adaptabilidad a Diferentes Dispositivos | Como visitante que accede desde diferentes dispositivos,Quiero que la landing page se adapte correctamente a mi pantalla,Para tener una experiencia óptima independientemente del dispositivo que use. | Escenario -1: Visualización en dispositivo móvil Given que un visitante se encuentra usando un smartphone When accede a la landing page Then todos los elementos deberían reorganizarse para adaptarse a la pantalla pequeña And no debería haber desplazamiento horizontal And todos los textos deberían ser legibles sin necesidad de zoom And los botones deberían tener un tamaño adecuado para interacción táctil Escenario -2: Visualización en tablet Given que un visitante se encuentra usando una tablet When accede a la landing page Then el diseño debería adaptarse al tamaño intermedio de pantalla And aprovechar el espacio adicional comparado con un móvil And mantener una experiencia de navegación fluida y atractiva |  |  |  | 7 |
 
-
-
-
+<hr>
 
 <hr>
 
 ### 3.3. Impact Mapping
+
+<hr>
+
+<img src="https://i.imgur.com/yDRcIAz.jpeg"/>
+<hr>
+
+<img src="https://i.imgur.com/Gn1gOU3.jpeg"/>
+<hr>
+<hr>
+
+<img src="https://i.imgur.com/Gn1gOU3.jpeg"/>
+<hr>
 
 <hr>
 
