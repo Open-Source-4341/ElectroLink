@@ -283,3 +283,50 @@ Aspectos psicográficos:
 - Valoran pertenecer a una red confiable de profesionales del rubro eléctrico.
 - Están enfocados en el crecimiento profesional y la fidelización de clientes.
 <hr>
+
+<hr>
+## 2.3.5. As-is Scenario Mapping
+
+**Alejandro Lopez**
+<img src="https://i.imgur.com/wdXr2ah.png"/>
+
+**Áreas Negativas** 
+
+Promoción de productos:
+- Frustración por la baja efectividad de la publicidad.
+- Sentimiento de que no alcanza a los clientes correctos.
+- Alto gasto en publicidad sin retorno claro.
+  
+Atención de consultas:
+- Agobio y ansiedad por la sobrecarga.
+- Dudas sobre su profesionalismo.
+- Falta de tiempo para responder con calidad.
+  
+Cotizaciones:
+- Estrés por cálculos manuales.
+- Ineficiencia y desorganización.
+- Percepción de poca escalabilidad y falta de optimización.
+  
+Entrega de productos:
+- Preocupación por los errores.
+- Falta de digitalización.
+- Sensación de sistema poco confiable y propenso a reclamos.
+
+**Áreas Positivas**
+
+Promoción de productos:
+- Esperanza cuando recibe contacto de un nuevo cliente.
+  
+Atención de consultas:
+- No se identifican ups, lo que revela una necesidad urgente de mejora.
+
+Cotizaciones:
+- Alivio al concretar una venta sin errores, aunque depende de factores externos.
+  
+Entrega de productos:
+- Satisfacción al cerrar una venta sin errores.
+- Tranquilidad una vez que el cliente confirma.
+  
+**Conclusión**
+Alejandro enfrenta varios puntos críticos en su proceso: publicidad poco efectiva, consultas y cotizaciones manuales que lo agobian, y entregas propensas a errores. Aunque hay momentos de esperanza, su experiencia general es frustrante. Esto evidencia la necesidad urgente de herramientas digitales que lo ayuden a automatizar, organizar y profesionalizar su servicio.
+<hr>
