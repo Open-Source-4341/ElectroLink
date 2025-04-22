@@ -819,16 +819,25 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 
 <hr>
 
+
+
 #### 2.3.4. Empathy Mapping
+
 
 **Alejandro Lopez**
 <img src="https://i.imgur.com/koIIfNX.jpeg"/>
 
+
 **Eduardo Gonzales**
 <img src="https://i.imgur.com/7BCEdvZ.jpeg"/>
 
+
 **Olivia Rodriguez**
 <img src="https://i.imgur.com/RlO6qIK.jpeg"/>
+
+
+
+
 
 <hr>
 
