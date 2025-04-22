@@ -1884,17 +1884,17 @@ Se nombrará las siguientes etiquetas que utilizamos para desarrollar nuestra so
 |---------|---------|---------|---------|---------|---------|---------|---------|
 | **User Story** | | **Work-Item/task** | | | | | |
 | **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
-| LUS-01 | Visualización de Características y Beneficios | T01 | Crear una sección de Caracteristicas y Beneficios | Crear una sección donde se muestren las caracterisitcas y beneficios de nuestra plataforma. | 0.5 | Matias Aliaga | Done |
-| LUS-02 | Visualización de Testimonios | T01 | Crear una sección de Testimonios | Crear una sección donde se muestren los testimonios de nuestros clientes. | 0.5 | Matias Aliaga | Done |
-| LUS-03 | Adaptabilidad a Diferentes Dispositivos | T01 | Desarrollar una landing page responsiva| Crear una landing page que se adapte a las pantallas de diversos dispositivos. | 0.5 | Matias Aliaga | Done |
-| LUS-04 | Visualización de Características y Beneficios | T01 | Crear una sección de Caracteristicas y Beneficios | Crear una sección donde se muestren las caracterisitcas y beneficios de nuestra plataforma. | 1 | Matias Aliaga | Done |
-| LUS-05 | Navegación sin errores | T01 | Desarrollar Pagina web | Crear una pagina web que permita a posibles usuarios navegar sin problemas de manera intuitiva | 0.5 | Matias Aliaga | Done |
-| LUS-06 | Navegación mediante Encabezado | T01 | Agregar Header | Crear un menu encabezado que permita navegar de manera intuitiva | 0.5 | Matias Aliaga | Done | 0.5 | Matias Aliaga | Done |
-| LUS-07 | Visualización del Pie de pagina | T01 | Agregar Footer | Crear un pie de pagina footer que contenga acceso directo a las diferentes secciones | 1 | Matias Aliaga | Done |
-| LUS-08 | Ver Información del Startup | T01 | Ver Información del Startup | Agregar una sección para ver información del equipo desarollador | 0.5 | Matias Aliaga | Done |
-| LUS-09| Conocer la Misión de la Startup | T01 | Agregar Mision |  Agregar una sección para conocer la mision de la start up | 1 | Matias Aliaga | Done |
-| LUS-10 | Conocer la Vision de la Startup | T01 | Agregar Vision | Agregar una sección para conocer la vision de la start up | 1 | Matias Aliaga | Done |
-| LUS-11 | Formulario de Registro | T01 | Crear Formulario de Registro| Agregar un formulario para que el usuario se registre | 1 | Matias Aliaga | Done |
+| US-41 | Visualziación de una Seccion Principal | T01 | Crear una sección Principal o Hero Crear una sección donde se muestren un breve resumen de nuestra idea. | 0.5 | Matias Aliaga | Done |
+| US-38 | Visualización de Testimonios | T01 | Crear una sección de Testimonios | Crear una sección donde se muestren los testimonios de nuestros clientes. | 0.5 | Matias Aliaga | Done |
+| US-40 | Adaptabilidad a Diferentes Dispositivos | T01 | Desarrollar una landing page responsiva| Crear una landing page que se adapte a las pantallas de diversos dispositivos. | 0.5 | Matias Aliaga | Done |
+| US-42 | Visualización de Características y Beneficios | T01 | Crear una sección de Caracteristicas y Beneficios | Crear una sección donde se muestren las caracterisitcas y beneficios de nuestra plataforma. | 1 | Matias Aliaga | Done |
+| US-43 | Navegación sin errores | T01 | Desarrollar Pagina web | Crear una pagina web que permita a posibles usuarios navegar sin problemas de manera intuitiva | 0.5 | Matias Aliaga | Done |
+| US-44 | Navegación mediante Encabezado | T01 | Agregar Header | Crear un menu encabezado que permita navegar de manera intuitiva | 0.5 | Matias Aliaga | Done | 0.5 | Matias Aliaga | Done |
+| US-45 | Visualización del Pie de pagina | T01 | Agregar Footer | Crear un pie de pagina footer que contenga acceso directo a las diferentes secciones | 1 | Matias Aliaga | Done |
+| US-46 | Ver Información del Startup | T01 | Ver Información del Startup | Agregar una sección para ver información del equipo desarollador | 0.5 | Matias Aliaga | Done |
+| US-47| Conocer la Misión de la Startup | T01 | Agregar Mision |  Agregar una sección para conocer la mision de la start up | 1 | Matias Aliaga | Done |
+| US-48 | Conocer la Vision de la Startup | T01 | Agregar Vision | Agregar una sección para conocer la vision de la start up | 1 | Matias Aliaga | Done |
+| US-49 | Formulario de Registro | T01 | Crear Formulario de Registro| Agregar un formulario para que el usuario se registre | 1 | Matias Aliaga | Done |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page
