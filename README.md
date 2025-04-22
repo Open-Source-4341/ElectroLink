@@ -1089,7 +1089,7 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
 
 ### 3.1. To-Be Scenario Mapping
 
-<img src="https://i.imgur.com/X2xKKWG.jpeg"/>
+<img src="https://i.imgur.com/fxj0F1w.jpeg"/>
 
 <img src="https://i.imgur.com/vfkqiDy.jpeg"/>
 
