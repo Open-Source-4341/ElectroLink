@@ -823,22 +823,22 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 
 <hr>
 
-**Alejandro Lopez**
 <img src="https://i.imgur.com/koIIfNX.jpeg"/>
-
-<hr>
-
-<hr>
-
-**Eduardo Gonzales**
-<img src="https://i.imgur.com/7BCEdvZ.jpeg"/>
-
-<hr>
-
-<hr>
-
 **Olivia Rodriguez**
+
+<hr>
+
+<hr>
+
+<img src="https://i.imgur.com/7BCEdvZ.jpeg"/>
+**Eduardo Gonzales**
+
+<hr>
+
+<hr>
+
 <img src="https://i.imgur.com/RlO6qIK.jpeg"/>
+**Alejandro Lopez**
 
 <hr>
 
