@@ -405,7 +405,7 @@ Explorar si los usuarios estarían dispuestos a pagar por servicios premium (com
 <img src="https://i.imgur.com/oQYrqED.png"/>
 
 **Segmento #3**
-<img src="https://i.imgur.com/oQYrqED.png"/>
+<img src="https://i.imgur.com/ma6WwLI.png"/>
 
 
 ## 2.3.5. As-is Scenario Mapping
