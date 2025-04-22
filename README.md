@@ -1552,9 +1552,62 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 
 <hr>
 
+<hr>
 
+### 4.6. Domain-Driven Software Architecture
+<hr>
+
+<hr>
+
+#### 4.6.1. Software Architecture Context Diagrams
+<hr>
+
+<hr>
+
+#### 4.6.2. Software Architecture Container Diagrams
+<hr>
+
+<hr>
+
+#### 4.6.3. Software Architecture Components Diagrams
+<hr>
+
+<hr>
+
+### 4.7. Software Object-Oriented Design
+<hr>
+
+<hr>
+
+#### 4.7.1. Class Diagrams
+<hr>
+
+<hr>
+
+#### 4.7.2. Class Dictionary
+<hr>
+
+<hr>
+
+### 4.8. Database Design
+<hr>
+
+<hr>
+
+#### 4.8.1. Database Diagram
+<hr>
+
+<hr>
+
+## Capítulo V: Product Implementation, Validation & Deployment
+<hr>
+
+<hr>
 
 ## 5.1. Software Configuration Management
+<hr>
+
+<hr>
 
 ### 5.1.1. Software Development Environment Configuration
 
@@ -1591,6 +1644,9 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 | GitHub     | Gestión de la documentación en función a repositorios y organizaciones | https://github.com          |
 | Markdown   | Formato base para la presentación y documentación del proyecto | https://markdown.es/                     |
 <br>
+<hr>
+
+<hr>
 
 ### 5.1.2. Source Code Management
 
@@ -1606,6 +1662,9 @@ Elegimos GitHub como nuestra plataforma de colaboración para facilitar el segui
 
 Repositorio: [https://github.com/Open-Source-4341/ElectroLink](https://github.com/Open-Source-4341/ElectroLink)
 <br>
+<hr>
+
+<hr>
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1653,6 +1712,8 @@ Se nombrará las siguientes etiquetas que utilizamos para desarrollar nuestra so
 * `Text-align:` Representa la alineación del texto.
 * `color:` Otorga color al elemento.
 * `Background-color:` Otorga color del fondo del elemento. 
+
+<hr>
 
 <hr>
 
