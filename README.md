@@ -1167,17 +1167,17 @@ Epicas
 
 <hr>
 
-<img src="https://i.imgur.com/Px7sMaG.jpeg"/>
+<img src="https://i.imgur.com/Abd2EgL.jpeg"/>
 <hr>
 
 <hr>
 
-<img src="https://i.imgur.com/blhlYFa.jpeg"/>
+<img src="https://i.imgur.com/GqQM8At.jpeg"/>
 <hr>
 
 <hr>
 
-<img src="https://i.imgur.com/blhlYFa.jpeg"/>
+<img src="https://i.imgur.com/fA9MI5O.jpeg"/>
 <hr>
 
 <hr>
