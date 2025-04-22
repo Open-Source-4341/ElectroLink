@@ -794,3 +794,50 @@ Elegimos GitHub como nuestra plataforma de colaboración para facilitar el segui
 
 Repositorio: [https://github.com/Open-Source-4341/ElectroLink](https://github.com/Open-Source-4341/ElectroLink)
 <br>
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+Se nombrará las siguientes etiquetas que utilizamos para desarrollar nuestra solución
+
+**HTML** 
+
+* `<!DOCTYPE html>` - Define el tipo de documento como HTML5.
+* `<html>` - Raíz del documento HTML.
+* `<head>` - Encabezado del documento, donde se incluyen metadatos.
+* `<meta>` - Define metadatos sobre el documento (charset y viewport).
+* `<title>` - Título del documento.
+* `<link>` - Para enlaces de icono, hoja de estilos CSS y fuente externa.
+* `<body>` - Cuerpo del documento, donde se encuentra el contenido visible.
+* `<header>` - Encabezado de la página.
+* `<div>` - Contenedor para el logo y otros elementos.
+* `<img>` - Imagen del logo.
+* `<nav>` - Contenedor para la navegación.
+* `<ul>` - Lista no ordenada de enlaces de navegación.
+* `<li>` - Elemento de lista para cada enlace de navegación.
+* `<a>` - Enlaces de navegación.
+* `<button>` - Botón para el modo de deuteranopia.
+* `<section>` - Define secciones de contenido principal:
+    * Sección principal: `<h1>`, `<p>`
+    * Por Qué Interactiva: `<h2>`, `<span>`, `<div>`, `<h3>`, `<p>`
+    * Valor Propuesto: `<h3>`, `<p>`, `<img>`
+    * Presentamos a...: `<h2>`, `<h4>`, `<p>`, `<img>`
+    * Servicios: `<h2>`, `<div>`, `<h4>`, `<p>`
+    * Testimonios: `<h2>`, `<p>`, `<img>`
+    * Cómo empezar: `<h2>`, `<h5>`, `<strong>`, `<p>`
+    * Descargar: `<h2>`, `<h3>`, `<span>`, `<a>`, `<img>`
+* `<footer>` - Pie de página.
+* `<small>` - Texto de derechos reservados.
+* `<script>` - Script JavaScript para funcionalidades.
+
+**CSS**
+
+* `width:` Representa el ancho de un elemento.
+* `height:` Representa el alto de un elemento.
+* `padding:` Representa el espacio con relleno entre el borde y el contenido.
+* `font-family:` Representa el tipo de letra.
+* `font-size:` Representa el tamaño de letra.
+* `font-weight:` Representa el grueso o el peso de la letra.
+* `font-style:` Representa el estilo de letra.
+* `Text-align:` Representa la alineación del texto.
+* `color:` Otorga color al elemento.
+* `Background-color:` Otorga color del fondo del elemento.
