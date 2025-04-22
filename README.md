@@ -1237,10 +1237,16 @@ Epicas
 
 <hr>
 
-
+<hr>
 ## Capítulo IV: Product Design
+<hr>
+
+<hr>
  
 ### 4.1. Style Guidelines
+<hr>
+
+<hr>
 
 #### 4.1.1. General Style Guidelines
 
@@ -1284,22 +1290,32 @@ Por otro lado, el gris cálido y el grafito profundo aportan equilibrio visual y
 
 <hr>
 
+<hr>
+
 #### 4.1.2. Web Style Guidelines
 
 De manera que el contenido de nuestro sitio web se vea organizado y sea mostrado de manera adecuada, implementamos el patrón F. El objetivo del patrón F en un sitio web es reflejar la forma natural en la que los usuarios escanean el contenido, empezando por la parte superior izquierda y moviéndose en forma de "F" hacia abajo. Este diseño resalta la información clave en las primeras líneas y en el lateral izquierdo, donde la vista se concentra más. Mejora la usabilidad al alinear la estructura con el comportamiento visual del usuario, facilitando la lectura rápida y efectiva. Se utiliza para mejorar la experiencia del usuario y destacar contenido relevante.
 
 <img src="https://i.imgur.com/ThilDbx.png"/>
+<hr>
+
+<hr>
 
 ## 4.1. Information Architecture
 
 La arquitectura de información que se implementará en ElectroLink está diseñada para facilitar una experiencia de navegación clara, eficiente y centrada en conectar usuarios con proveedores de servicios y componentes eléctricos. Desde el menú principal, los visitantes podrán acceder rápidamente a categorías clave como "Proveedores", "Servicios", "Asesoramiento", y "Mantenimientos preventivos", lo que les permitirá encontrar con facilidad las soluciones que se ajusten a sus necesidades técnicas o del hogar.
 La plataforma contará con un sistema de filtrado inteligente que permitirá a los usuarios buscar proveedores según ubicación, especialización (instalaciones, mantenimiento, venta de componentes), certificaciones legales y valoraciones de otros clientes. Además, ElectroLink ofrecerá un apartado de asesoría técnica, donde los usuarios podrán consultar artículos, guías rápidas y recomendaciones para la gestión segura de instalaciones eléctricas tanto en hogares como en negocios.
 Asimismo, cada proveedor tendrá un perfil verificado con información detallada sobre sus servicios, casos anteriores, contacto directo y una sección de opiniones. También se incluirá un sistema de solicitud rápida de cotización, permitiendo a los clientes establecer una comunicación ágil y efectiva. Con esta arquitectura, ElectroLink busca no solo ordenar y categorizar la información de manera accesible, sino también fomentar la confianza, la transparencia y una red de colaboración técnica eficiente, alineada con estándares de seguridad y legalidad en el rubro eléctrico.
+<hr>
 
+<hr>
 
 #### 4.2.1. Organization Systems
 Para representar la estructura de los usuario se han realizado diagramas para la explicación de la funcionalidades de la aplicación y el recorrido del usuario en la misma.
 <img src="https://i.imgur.com/wdxy51q.png"/>
+<hr>
+
+<hr>
 
 #### 4.2.2. Labeling Systems
 
@@ -1336,6 +1352,8 @@ Para representar la estructura de los usuario se han realizado diagramas para la
 
 <hr>
 
+<hr>
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Landing Page Title:** ElectroLink - Tu conexión segura a la electricidad
@@ -1358,6 +1376,8 @@ Para representar la estructura de los usuario se han realizado diagramas para la
 
 <hr>
 
+<hr>
+
 ### 4.2.4. Searching Systems
 
 ElectroLink cuenta con un sistema de búsqueda avanzada que permite a los usuarios encontrar servicios y productos eléctricos de forma eficiente, a través de múltiples filtros:
@@ -1373,15 +1393,22 @@ ElectroLink cuenta con un sistema de búsqueda avanzada que permite a los usuari
 | **Categoría de Producto Eléctrico** | Ayuda a encontrar productos específicos en el inventario (bombillas, disyuntores, medidores, enchufes, etc.).                                           |
 | **Historial de Consumo Energético** | Permite visualizar patrones de consumo eléctrico mensual o anual filtrando por fecha o dispositivos.                                                   |
 | **Planes de Suscripción**         | Filtra y compara distintos planes de suscripción según los beneficios ofrecidos (monitoreo, asesoría, prioridad en atención, etc.).                       |
+<hr>
 
+<hr>
 
 ### 4.2.5. Navigation Systems
 
 Los sistemas de navegación de ElectroLink han sido diseñados para guiar de forma intuitiva a los usuarios a través del Landing Page y la aplicación, facilitando la exploración del contenido y el acceso a las funcionalidades clave. La estructura sigue una lógica clara que permite a cada tipo de usuario (hogar, oficina, proveedor) encontrar rápidamente lo que necesita mediante menús jerárquicos, enlaces destacados y botones de acción visibles.
 
 <img src="https://i.imgur.com/UnlLqHv.png"/>
+<hr>
+
+<hr>
 
 ### 4.3. Landing Page UI Design
+<hr>
+<hr>
 
 ### 4.3.1. Landing Page Wireframe.
 
@@ -1392,14 +1419,22 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 <img src="https://i.imgur.com/dwrbsjw.png"/>
 
 <img src="https://i.imgur.com/MdqLiaz.png"/>
+<hr>
+<hr>
 
 ### 4.3.2. Landing Page Mock-up
 
 <img src="https://i.imgur.com/hXEACTz.png"/>
 
 <img src="https://i.imgur.com/gHvT3uz.png"/>
+<hr>
+
+<hr>
 
 ### 4.4. Web Applications UX/UI Design.
+<hr>
+
+<hr>
 
 ### 4.4.1. Web Applications Wireframes.
 
@@ -1461,6 +1496,10 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 
 <img src="https://i.imgur.com/i8ba802.png"/>
 
+<hr>
+
+<hr>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 <img src="https://i.imgur.com/0BN4OZM.png"/>
@@ -1472,7 +1511,9 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 <img src="https://i.imgur.com/soOCrA8.png"/>
 
 [Ver diagrama en Lucidchart](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
+<hr>
 
+<hr>
 ### 4.4.2. Web Applications Mock-ups
 
 <img src="https://i.imgur.com/G3TSic5.png"/>
@@ -1488,10 +1529,17 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 <img src="https://i.imgur.com/peSNSOz.png"/>
 
 <img src="https://i.imgur.com/6Ah62mr.png"/>
+<hr>
+
+<hr>
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
 <img src="https://i.imgur.com/28bjNjk.png"/>
+
+<hr>
+
+<hr>
 
 ## 4.5. Web Applications Prototyping
 
@@ -1501,6 +1549,10 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 <img src="https://i.imgur.com/rUlcOAc.png"/>
 
 [Ver diseño en Figma](https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&t=9AhvJafsRNaQO2cX-1)
+
+<hr>
+
+
 
 ## 5.1. Software Configuration Management
 
