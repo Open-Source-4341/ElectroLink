@@ -678,6 +678,7 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
 * **Digital Presence** (Presencia digital)
     * Visibilidad que tiene un proveedor dentro de la plataforma, influyendo en su reputación y oportunidades de negocio.
 <hr>
+
 ##Capítulo IV: Product Design
  
 ### 4.1. Style Guidelines
