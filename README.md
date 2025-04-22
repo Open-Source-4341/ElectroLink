@@ -1916,3 +1916,20 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 | Epic / Story ID |Título | Criterios de Aceptación |
+
+<hr>
+
+**Conclusiones**
+- Conclusiones y recomendaciones.
+- Video About-the-Team.
+- <hr>
+
+<hr>
+
+**Bibliografía**
+<hr>
+
+<hr>
+
+**Anexos**
+<hr>
