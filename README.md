@@ -394,6 +394,19 @@ Tanto en el entorno doméstico como empresarial, los entrevistados valoran la tr
 Explorar si los usuarios estarían dispuestos a pagar por servicios premium (como soporte prioritario o asesoría técnica especializada) permite analizar la viabilidad de modelos de negocio basados en **suscripciones** o **comisiones por servicio**. Algunos entrevistados afirmaron estar dispuestos a pagar si los beneficios ofrecidos son claros y valiosos, lo cual abre la puerta a monetización sostenible para ElectroLink.
 
 
+### 2.3. Needfinding
+
+## 2.3.1. User Personas
+
+**Segmento #1**
+<img src="https://i.imgur.com/cKxq0Pi.png"/>
+
+**Segmento #2**
+<img src="https://i.imgur.com/oQYrqED.png"/>
+
+**Segmento #3**
+<img src="https://i.imgur.com/oQYrqED.png"/>
+
 
 ## 2.3.5. As-is Scenario Mapping
 
