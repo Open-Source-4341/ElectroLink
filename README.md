@@ -1995,11 +1995,11 @@ Para la landing page, se utilizará **GitHub** y **GitHub Pages** para la creaci
 <img  src="https://i.imgur.com/fomzdmK.png"/>
 
 
-Para nuestro proyecto se crearon **2 repositorios**, los cuales son:
+Para nuestro proyecto se crearon **1 repositorio**, el cuál fue:
 
-- **README**: Este repositorio se usa para realizar el informe del proyecto de manera continua.
-- **Landing-Page**: Este repositorio se usa para codificar y desplegar la landing page del proyecto.
+- **ElectroLink**: Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
 
+<hr>
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se muestran las capturas de los insights del repositorio.
@@ -2010,7 +2010,10 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 <img  src="https://i.imgur.com/KjFrH4v.jpeg"  />
 <img  src="https://i.imgur.com/9UcQNGz.jpeg"  />
 <img  src="https://i.imgur.com/WwoVauY.jpeg"  />
-<img  src="https://i.imgur.com/WwoVauY.jpeg"  />
+
+<hr>
+
+<hr>
 
 **Conclusiones**
 
@@ -2027,11 +2030,13 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 - Continuar con la validación frecuente de los avances con usuarios reales, especialmente antes de cada iteración, para mantener la alineación entre desarrollo y necesidades reales.
 - Aprovechar las fortalezas individuales del equipo para asignar responsabilidades específicas que optimicen los tiempos de desarrollo.
 - Documentar de manera más sistemática los aprendizajes y desafíos encontrados en cada sprint, para mejorar continuamente el proceso.
+<hr>
+
+<hr>
 
 <hr>
 
 **Bibliografía**
-<hr>
 
 - Del Aguila-Obra, A. R., Al-dweeri, R. M., & Padilla-Meléndez, A. (2012). *Factores determinantes de la calidad de los servicios electrónicos en el contexto de los operadores postales*. *Universia Business Review*, (35), 114-123. [https://www.redalyc.org/pdf/433/43323842006.pdf](https://www.redalyc.org/pdf/433/43323842006.pdf)
 
