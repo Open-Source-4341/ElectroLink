@@ -2005,6 +2005,12 @@ Para nuestro proyecto se crearon **2 repositorios**, los cuales son:
 A continuación, se muestran las capturas de los insights del repositorio.
 <img  src="https://media.discordapp.net/attachments/458373275064467476/1364689402156290300/image.png?ex=680a958c&is=6809440c&hm=a9b2ac57a488a5528ee560bf4a33e2f394e4619e10b2e5995ed7e6c1334b1b8f&=&format=webp&quality=lossless"  />
 
+En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el encargado de su diseño y despliegue. Pudiendo evidenciar en estas capturas, su partipación activa durante el desarrollo.
+
+<img  src="https://i.imgur.com/KjFrH4v.jpeg"  />
+<img  src="https://i.imgur.com/9UcQNGz.jpeg"  />
+<img  src="https://i.imgur.com/WwoVauY.jpeg"  />
+<img  src="https://i.imgur.com/WwoVauY.jpeg"  />
 
 **Conclusiones**
 
