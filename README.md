@@ -1966,6 +1966,12 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 **Bibliografía**
 <hr>
 
+- Del Aguila-Obra, A. R., Al-dweeri, R. M., & Padilla-Meléndez, A. (2012). *Factores determinantes de la calidad de los servicios electrónicos en el contexto de los operadores postales*. *Universia Business Review*, (35), 114-123. [https://www.redalyc.org/pdf/433/43323842006.pdf](https://www.redalyc.org/pdf/433/43323842006.pdf)
+
+- Mohammad-Al-dweeri, R. (2011). *La calidad en los servicios electrónicos como estrategia competitiva: Modelo de análisis de sus componentes y efectos sobre la satisfacción y la lealtad*. [https://libros.metabiblioteca.org/handle/001/291](https://libros.metabiblioteca.org/handle/001/291)
+  
+- Ramos, Á. F. V., & Sánchez-Franco, M. J. (2004). *La calidad de servicio electrónico: un análisis de los efectos moderadores del comportamiento de uso de la web*. *Cuadernos de Economía y Dirección de la Empresa*, (21), 121-125. [https://dialnet.unirioja.es/descarga/articulo/1143462.pdf](https://dialnet.unirioja.es/descarga/articulo/1143462.pdf)
+
 <hr>
 
 **Anexos**
