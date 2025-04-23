@@ -1953,6 +1953,8 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 | US-49 | Formulario de Registro | **Escenario:** Acceder al formulario de registro<br>**Dado que** soy un visitante decidido a registrarme<br>**Cuando** hago clic en el botón o enlace de registro<br>**Entonces** debo ver un formulario con campos para ingresar mis datos<br>**Y** los campos obligatorios deben estar claramente marcados<br><br>**Escenario:** Completar formulario con datos válidos<br>**Dado que** estoy en el formulario de registro<br>**Cuando** ingreso datos válidos en todos los campos requeridos<br>**Y** presiono el botón de enviar o registrar<br>**Entonces** debo recibir una confirmación de registro exitoso<br>**Y** debo ser redirigido a la siguiente etapa del proceso<br><br>**Escenario:** Validación de datos erróneos<br>**Dado que** estoy completando el formulario de registro<br>**Cuando** ingreso un dato en formato incorrecto (ej. email inválido)<br>**Entonces** debo ver un mensaje de error específico junto al campo correspondiente<br>**Y** el formulario no debe enviarse hasta que corrija el error<br><br>**Escenario:** Completar registro como diferentes tipos de usuario<br>**Dado que** estoy en el formulario de registro<br>**Cuando** selecciono mi tipo de usuario (Dueño de Hogar/Empresa/Proveedor)<br>**Entonces** debo ver campos adicionales relevantes para mi tipo de perfil |
 <hr>
 
+<hr>
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 Enlace de la Landing Page: https://electrolinklp.netlify.app/
@@ -1968,6 +1970,17 @@ Enlace de la Landing Page: https://electrolinklp.netlify.app/
 <img src="https://media.discordapp.net/attachments/458373275064467476/1364674922818965606/8bdd4f68-d4a9-4c5c-8156-6cda5a0bf838.png?ex=680a8810&is=68093690&hm=d03e28bfa039d91f450927587e2fa6c43ac742a16cddc45856433c64b1fa13af&=&format=webp&quality=lossless" />
 
 <img src="https://media.discordapp.net/attachments/458373275064467476/1364674923154640967/16de7725-4c9b-49e5-a347-2a69b98e18e8.png?ex=680a8810&is=68093690&hm=88cf05c561e83b1020b3d41ff9cb0f6cbe76da6137c478507a5a0b97d121527c&=&format=webp&quality=lossless" />
+<hr>
+
+<hr>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
+
+<hr>
+
+<hr>
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint
 
