@@ -1260,10 +1260,17 @@ Epicas
 | US-35 | Publicar Servicios en Foros de Contratación Certificada | **Como proveedor certificado, quiero poder publicar mis servicios en espacios o foros donde se busca contratar profesionales verificados, para aumentar mi visibilidad y conseguir nuevas oportunidades laborales.** | **5** |
 | US-36 | Solicitar Inspección General Anual | **Como propietario responsable, quiero poder pedir una inspección general de mis instalaciones eléctricas una vez al año, para prevenir riesgos, fallas y garantizar el buen estado de mi sistema eléctrico.** | **3** |
 | US-37 | Registrar Consumo Eléctrico Mensual | **Como usuario interesado en el control energético, quiero poder anotar manualmente mi consumo mensual de electricidad, para llevar un seguimiento y detectar posibles aumentos o ahorros en el tiempo.** | **5** |
-| US-38 | Visualización de Características y Beneficios | Como visitante de la landing page,Quiero ver claramente las características y beneficios de la plataforma,Para entender cómo puede ayudarme y decidir si registrarme. | **5** |
-| US-39 | Visualización de Testimonios | Descripción HU:Como visitante indeciso sobre la plataforma,Quiero ver testimonios de usuarios reales,Para aumentar mi confianza en el servicio antes de registrarse. | **5** |
-| US-40 | Contacto desde la Landing Page | Como visitante con preguntas específicas,Quiero poder contactar fácilmente con la empresa,Para resolver mis dudas antes de registrarme. | **5** |
-| US-41 | Adaptabilidad a Diferentes Dispositivos | Como visitante que accede desde diferentes dispositivos,Quiero que la landing page se adapte correctamente a mi pantalla,Para tener una experiencia óptima independientemente del dispositivo que use. | **8** |
+| US-38 | Visualización de Testimonios | Descripción HU:Como visitante indeciso sobre la plataforma,Quiero ver testimonios de usuarios reales,Para aumentar mi confianza en el servicio antes de registrarse. | **5** |
+| US-40 | Adaptabilidad a Diferentes Dispositivos | Como visitante que accede desde diferentes dispositivos,Quiero que la landing page se adapte correctamente a mi pantalla,Para tener una experiencia óptima independientemente del dispositivo que use. | **8** |
+| US-41 | Visualización de una Sección Principal | Como visitante de la página, quiero ver una sección principal atractiva que me presente un breve resumen de la idea del producto, para entender rápidamente de qué se trata el servicio | 3 |
+| US-42 | Visualización de Características y Beneficios | Como potencial cliente, quiero conocer las características y beneficios del servicio, para evaluar si satisface mis necesidades específicas | 3 |
+| US-43 | Navegación sin errores | Como visitante, quiero poder navegar por la página web sin encontrar errores, para tener una experiencia fluida que me anime a registrarme | 3 |
+| US-44 | Navegación mediante Encabezado | Como usuario, quiero un menú de navegación claro en el encabezado, para poder acceder fácilmente a las diferentes secciones de la página | 3 |
+| US-45 | Visualización del Pie de página | Como visitante, quiero ver un pie de página organizado con accesos directos e información de contacto, para poder encontrar información adicional rápidamente | 3 |
+| US-46 | Ver Información del Startup | Como potencial cliente, quiero conocer información sobre la empresa desarrolladora, para evaluar su credibilidad y confiabilidad | 3 |
+| US-47 | Conocer la Misión de la Startup | Como visitante interesado, quiero conocer la misión de la empresa, para entender sus valores y propósito | 3 |
+| US-48 | Conocer la Visión de la Startup | Como visitante interesado, quiero conocer la visión de la empresa, para entender sus objetivos a largo plazo y su proyección de futuro | 3 |
+| US-49 | Formulario de Registro | Como visitante decidido, quiero contar con un formulario de registro claro y accesible, para poder iniciar el proceso de creación de mi cuenta de manera sencilla | 5 |
 
 
 
@@ -1929,6 +1936,7 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
 | ElectroLink - Open Source - 4341 | main | 01 | Landing Page | | 22/04/2025 |
 
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 | Epic / Story ID | Título | Criterios de Aceptación |
 |----------------|--------|--------------------------|
@@ -1944,6 +1952,23 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 | US-48 | Conocer la Visión de la Startup | **Escenario:** Visualizar la visión<br>**Dado que** soy un visitante interesado en el futuro de la empresa<br>**Cuando** accedo a la sección de visión<br>**Entonces** debo ver una declaración clara y concisa de la visión a largo plazo<br>**Y** la visión debe comunicar las aspiraciones futuras de la empresa<br>**Y** debe estar cerca o relacionada visualmente con la sección de misión<br><br>**Escenario:** Entender los objetivos a largo plazo<br>**Dado que** estoy leyendo la visión de la startup<br>**Cuando** termino de leerla<br>**Entonces** debo comprender hacia dónde se dirige la empresa en el futuro<br>**Y** qué impacto busca tener en su industria o en la sociedad |
 | US-49 | Formulario de Registro | **Escenario:** Acceder al formulario de registro<br>**Dado que** soy un visitante decidido a registrarme<br>**Cuando** hago clic en el botón o enlace de registro<br>**Entonces** debo ver un formulario con campos para ingresar mis datos<br>**Y** los campos obligatorios deben estar claramente marcados<br><br>**Escenario:** Completar formulario con datos válidos<br>**Dado que** estoy en el formulario de registro<br>**Cuando** ingreso datos válidos en todos los campos requeridos<br>**Y** presiono el botón de enviar o registrar<br>**Entonces** debo recibir una confirmación de registro exitoso<br>**Y** debo ser redirigido a la siguiente etapa del proceso<br><br>**Escenario:** Validación de datos erróneos<br>**Dado que** estoy completando el formulario de registro<br>**Cuando** ingreso un dato en formato incorrecto (ej. email inválido)<br>**Entonces** debo ver un mensaje de error específico junto al campo correspondiente<br>**Y** el formulario no debe enviarse hasta que corrija el error<br><br>**Escenario:** Completar registro como diferentes tipos de usuario<br>**Dado que** estoy en el formulario de registro<br>**Cuando** selecciono mi tipo de usuario (Dueño de Hogar/Empresa/Proveedor)<br>**Entonces** debo ver campos adicionales relevantes para mi tipo de perfil |
 <hr>
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
+Enlace de la Landing Page: https://electrolinklp.netlify.app/
+
+<img src="https://media.discordapp.net/attachments/458373275064467476/1364674920956694609/dd76ef28-7efa-4b32-87d2-a876271ccf03.png?ex=680a880f&is=6809368f&hm=61dce8cbd645c9bdc16736ecdb255b86f6aaaeef22783fc0c3738c004ab95a11&=&format=webp&quality=lossless" />
+
+<img src="https://media.discordapp.net/attachments/458373275064467476/1364674921728315474/559205d3-20e0-4d01-bf6d-cd9f1f8a7c44.png?ex=680a880f&is=6809368f&hm=07e1931891ae3b0a790df7a84389fb0cffe35e6dabd4d6301e913a3e986b4fd9&=&format=webp&quality=lossless" />
+
+<img src="https://media.discordapp.net/attachments/458373275064467476/1364674922105933905/533036ce-5e58-4f35-875e-b7edefc15cee.png?ex=680a880f&is=6809368f&hm=d358eb2da7d77914fec140f66e3dfbe0e0a22cda231d3e7080eb73520548f041&=&format=webp&quality=lossless" />
+
+<img src="https://media.discordapp.net/attachments/458373275064467476/1364674922475163648/872f182f-7a57-42e6-8077-59b9bc1ab438.png?ex=680a880f&is=6809368f&hm=a86d08f6387a1738d9057d60dd59d75a5d83ec71e0e4734cb4c390972c81d87a&=&format=webp&quality=lossless" />
+
+<img src="https://media.discordapp.net/attachments/458373275064467476/1364674922818965606/8bdd4f68-d4a9-4c5c-8156-6cda5a0bf838.png?ex=680a8810&is=68093690&hm=d03e28bfa039d91f450927587e2fa6c43ac742a16cddc45856433c64b1fa13af&=&format=webp&quality=lossless" />
+
+<img src="https://media.discordapp.net/attachments/458373275064467476/1364674923154640967/16de7725-4c9b-49e5-a347-2a69b98e18e8.png?ex=680a8810&is=68093690&hm=88cf05c561e83b1020b3d41ff9cb0f6cbe76da6137c478507a5a0b97d121527c&=&format=webp&quality=lossless" />
+
 
 **Conclusiones**
 
