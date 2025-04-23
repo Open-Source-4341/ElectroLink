@@ -1969,6 +1969,38 @@ Enlace de la Landing Page: https://electrolinklp.netlify.app/
 
 <img src="https://media.discordapp.net/attachments/458373275064467476/1364674923154640967/16de7725-4c9b-49e5-a347-2a69b98e18e8.png?ex=680a8810&is=68093690&hm=88cf05c561e83b1020b3d41ff9cb0f6cbe76da6137c478507a5a0b97d121527c&=&format=webp&quality=lossless" />
 
+##### 5.2.1.7. Software Deployment Evidence for Sprint
+
+## Design
+
+Para realizar el diseño de los wireframes y mockups de la **Landing Page** para este Sprint, se hizo uso de la plataforma **Figma**.
+Para utilizar la plataforma:
+
+1. Se accede a través de la página oficial de Figma: [Figma Login](https://www.figma.com/login)
+    <img  src="https://i.imgur.com/GzXvBTl.png"/>
+2. Luego, se crea un **Draft** que nos servirá como base para el proyecto colaborativo.
+   <img  src="https://i.imgur.com/S0yChMr.png"/>
+---
+
+## Deployment
+
+Para la landing page, se utilizará **GitHub** y **GitHub Pages** para la creación del repositorio y el despliegue de la página.
+<img  src="https://i.imgur.com/TvjlWO3.png"/>
+<img  src="https://i.imgur.com/R6p1HPD.png"/>
+<img  src="https://i.imgur.com/VSvMntJ.png"/>
+<img  src="https://i.imgur.com/7qutxbP.png"/>
+<img  src="https://i.imgur.com/JHy1GUn.png"/>
+<img  src="https://i.imgur.com/JHy1GUn.png"/>
+<img  src="https://i.imgur.com/ivg9PgP.png"/>
+<img  src="https://i.imgur.com/fomzdmK.png"/>
+
+
+Para nuestro proyecto se crearon **2 repositorios**, los cuales son:
+
+- **README**: Este repositorio se usa para realizar el informe del proyecto de manera continua.
+- **Landing-Page**: Este repositorio se usa para codificar y desplegar la landing page del proyecto.
+
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se muestran las capturas de los insights del repositorio.
 <img  src="https://media.discordapp.net/attachments/458373275064467476/1364689402156290300/image.png?ex=680a958c&is=6809440c&hm=a9b2ac57a488a5528ee560bf4a33e2f394e4619e10b2e5995ed7e6c1334b1b8f&=&format=webp&quality=lossless"  />
