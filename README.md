@@ -2017,7 +2017,7 @@ Para utilizar la plataforma:
 
 ## Deployment
 
-Para la landing page, se utilizará **GitHub** y **GitHub Pages** para la creación del repositorio y el despliegue de la página.
+Para la landing page, se utilizará Netlify para el despliegue de la página.
 <img  src="https://i.imgur.com/TvjlWO3.png"/>
 <img  src="https://i.imgur.com/R6p1HPD.png"/>
 <img  src="https://i.imgur.com/VSvMntJ.png"/>
@@ -2080,4 +2080,7 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 <hr>
 
 **Anexos**
+- Enlace de Landing Page : 
+[https://electrolinklp.netlify.app/](https://electrolinklp.netlify.app/)
+
 <hr>
