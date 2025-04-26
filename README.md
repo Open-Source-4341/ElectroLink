@@ -1169,6 +1169,8 @@ Epicas
 
 # 
 
+
+
 | Epic/StoryID | Título | Descripción | Criterios de aceptación Relacionado con (Epic ID) |  |  |  | Relacionado con epica |
 | :---- | :---- | :---- | :---- | ----- | ----- | ----- | :---- |
 | US-01 | Registro de cuentas como Dueño de Hogar | Como dueño de hogar, quiero poder registrarme para tener una cuenta en la aplicación, para gestionar los componentes eléctricos de mi vivienda | Escenario \#1: Acceso a la sección de registro Given que el usuario no se encuentra registrado When navega a la aplicación And hace clic en la opción "Iniciar Sesión" o "Crear cuenta" Then es dirigido a la sección de registro And puede ver el formulario de registro completo And el formulario contiene todos los campos necesarios para crear una cuenta Escenario \#2: Selección de tipo de usuario Given que el usuario no registrado accede a la página de registro When visualiza las opciones de tipo de usuario And selecciona "Dueño de Hogar" Then se muestra el formulario específico para dueños de hogares And los campos relevantes para este tipo de usuario son presentados Escenario : Aceptación de términos y condiciones Given el usuario aún no está registrado When accede a la página de registro Then debe ver una casilla de verificación para aceptar los términos y condiciones And debe ver un enlace a los términos y condiciones And no puede completar el registro sin marcar esta casilla |  |  |  | 1 |
@@ -2081,6 +2083,6 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 
 **Anexos**
 - Enlace de Landing Page : 
-[https://electrolinklp.netlify.app/](https://electrolinklp.netlify.app/)
+[https://hampcoders.github.io/Landing-Page//](https://hampcoders.github.io/Landing-Page/)
 
 <hr>
