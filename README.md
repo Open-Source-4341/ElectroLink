@@ -2082,7 +2082,7 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 <hr>
 
 **Anexos**
-- Enlace de Landing Page : 
-[https://hampcoders.github.io/Landing-Page//](https://hampcoders.github.io/Landing-Page/)
+- Enlace de Landing Page :
+[https://electrolinklp.netlify.app/](https://electrolinklp.netlify.app/)
 
 <hr>
