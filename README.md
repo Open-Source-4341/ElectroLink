@@ -1830,6 +1830,14 @@ Subscription Billing Bounded Context
 
 ### 5.1.2. Source Code Management
 
+Definir convenciones de nomenclatura para ramas en Git mejora la organización del flujo de trabajo y facilita la colaboración entre desarrolladores. Siguiendo buenas prácticas como las de Git Flow o trunk-based development, se puede establecer una estructura ordenada y predecible.
+
+- Además, utilizar un esquema de nombres predecible permite:
+
+- Automatizar procesos (CI/CD).
+
+- Identificar fácilmente el propósito y alcance de una rama.
+
 GitFlow es un modelo de gestión de ramas en Git que facilita el manejo de proyectos grandes mediante la separación en ramas principales y de características. En nuestro proyecto, utilizamos las siguientes ramas:
 
 * **Rama `main`:** Esta rama contiene el código en producción, incluyendo archivos CSS, imágenes, JavaScript y la página principal en HTML. Aseguramos que todo el contenido aquí esté en un estado estable y listo para ser desplegado.
@@ -1840,7 +1848,35 @@ Además, contamos con un repositorio separado que organiza nuestras tareas en ep
 
 Elegimos GitHub como nuestra plataforma de colaboración para facilitar el seguimiento del progreso, la gestión de cambios y la visualización de actualizaciones. Las actualizaciones al código se reflejan automáticamente en `gh-pages`, permitiendo que los interesados vean los avances en tiempo real.
 
-Repositorio: [https://github.com/Open-Source-4341/ElectroLink](https://github.com/Open-Source-4341/ElectroLink)
+**Convenciones:** 
+
+✔ Convenciones para ramas feature
+Prefijo: `feature/`
+Formato: `feature/nombre-corto-descriptivo`
+
+Ejemplo:
+`feature/login-ui`
+`feature/pdf-export`
+`feature/api-integration-usuarios`
+
+✔ Convenciones para ramas release
+Prefijo: `release/`
+Formato: `release/x.y.z (donde x, y, z son número mayor, menor y de parche)`
+
+Ejemplo:
+`release/1.0.0`
+`release/2.1.0`
+
+✔ Convenciones para ramas hotfix
+Prefijo: `hotfix/`
+Formato: `hotfix/x.y.z-nombre-corto`
+
+Ejemplo:
+`hotfix/1.0.1-fix-login-error`
+`hotfix/2.3.2-bug-carrito`
+
+Repositorio principal: [https://github.com/Open-Source-4341/ElectroLink](https://github.com/Open-Source-4341/ElectroLink)
+Repositorio Landing Page: 
 <br>
 
 ### 5.1.3. Source Code Style Guide & Conventions
