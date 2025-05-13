@@ -2164,6 +2164,21 @@ Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded 
 | US39          | Filtrado por Disponibilidad y Calificación | TS0392               | Renderizado de calificación promedio          | Mostrar visualmente la calificación de cada técnico                         | 0.5                 | Italo        | done   |
 
 
+| User Story ID | User Story                              | Work-Item / Task ID | Work-Item / Task Title                       | Description                                                                 | Estimation (Hours) | Assigned To | Status |
+|---------------|------------------------------------------|----------------------|----------------------------------------------|-----------------------------------------------------------------------------|---------------------|--------------|--------|
+| US41          | Gestión de Agenda y Citas                | TS0411               | Visualización de agenda                      | Mostrar lista de tareas agendadas con detalles del cliente y servicio      | 1.5                 | Ivo          | done   |
+| US41          | Gestión de Agenda y Citas                | TS0412               | Crear tarea                                  | Formulario para agendar nueva cita con fecha, cliente y servicio           | 1.5                 | Ivo          | done   |
+| US41          | Gestión de Agenda y Citas                | TS0413               | Editar tarea                                 | Lógica y formulario para actualizar una cita existente                     | 1.5                 | Ivo          | done   |
+| US41          | Gestión de Agenda y Citas                | TS0414               | Eliminar tarea                               | Botón y lógica para eliminar cita de la agenda                             | 0.5                 | Ivo          | done   |
+| US42          | Gestión de Servicios Ofrecidos           | TS0421               | Visualización del catálogo de servicios      | Mostrar lista de servicios y componentes eléctricos asociados              | 1.5                 | Ivo          | done   |
+| US42          | Gestión de Servicios Ofrecidos           | TS0422               | Crear servicio                               | Formulario con inclusiones y componentes eléctricos                        | 1.5                 | Ivo          | done   |
+| US42          | Gestión de Servicios Ofrecidos           | TS0423               | Editar servicio                              | Actualizar servicio y sus componentes                                       | 1.5                 | Ivo          | done   |
+| US42          | Gestión de Servicios Ofrecidos           | TS0424               | Eliminar servicio                            | Lógica para borrar servicio del inventario                                 | 0.5                 | Ivo          | done   |
+| US43          | Historial de Clientes Atendidos          | TS0431               | Card de historial en dashboard               | Mostrar historial de clientes atendidos como resumen en el dashboard       | 0.5                 | Ivo          | done   |
+| US44          | Crear Portafolio Digital con Evidencias  | TS0441               | Card de portafolio en dashboard              | Sección visible para evidencias de trabajos realizados (sin edición aún)   | 0.5                 | Ivo          | done   |
+| US45          | Retroalimentación directa de servicios   | TS0451               | Visualización de comentarios y puntuación    | Mostrar reseñas, estrellas y número de comentarios en el perfil            | 1                   | Ivo          | done   |
+
+
 ##### 5.2.2.4. Development Evidence for Sprint Review.
 
 ## Development Evidence for Sprint Review
