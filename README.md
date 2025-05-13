@@ -2085,7 +2085,24 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 <hr>
 
 ##### 5.2.2. Sprint 2 
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
 ##### 5.2.2.1. Sprint Planning 2.
+Durante la reunión de planificación del Sprint 2, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad del sistema y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
+
+| Sprint # | Sprint 2 |
+|----------|----------|
+| Date | 2025-22-04 |
+| Time | 3:00 PM |
+| Location | Virtual - Meet |
+| Prepared By | Matias Aliaga |
+| Attendees (to planning meeting) | Matias Aliaga , Ivo Machado , Leandro Conteras, Italo Sanchez, Ricardo del Aguila  |
+| Sprint n - 1 Review Summary | Este es el primer Sprint, por lo que el presente campo no aplica. |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que el presente campo no aplica. |
+| Sprint 1 Goal | Nuestra prioridad en este spring fue implementar la landing Page.Creemos que este MVP brindara la exposicipon necesaria a nuestra Idea de Negocio. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice de visitas. |
+| Sprint 1 Velocity | Nuestro equipo puede aceptar hasta 25 story points |
+| Sum of Story Points | La suma de Story Points atendidos es de 25 story points |
+
+
 ##### 5.2.2.2. Aspect Leaders and Collaborators. 
 
 Durante el Sprint actual, se identificaron los siguientes aspectos clave dentro del alcance de la solución. Cada aspecto representa una parte funcional específica (por ejemplo: desarrollo del backend, diseño de la interfaz, integración con la API, etc.). Con el fin de distribuir de manera clara las responsabilidades y fomentar una comunicación efectiva, se ha definido qué miembro del equipo lidera cada aspecto y quiénes actúan como colaboradores. Esta matriz también se alinea con la posterior asignación de tareas dentro del Sprint.
