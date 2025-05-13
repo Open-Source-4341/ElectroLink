@@ -1605,37 +1605,31 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 
 
 ### 4.6.1. Software Architecture Context Diagrams
-<img src="https://media.discordapp.net/attachments/1364292682553360515/1364298707050430525/structurizr-92688-SystemContext_1.png?ex=680929af&is=6807d82f&hm=f05a24992ed37d53466098d095917bb32dfd5ff59e200d0ece4f54416139860c&=&format=webp&quality=lossless&width=1043&height=948"/>
+<img src="https://imgur.com/6gbMyIf.jpeg"/>
 
 
 ### 4.6.2. Software Architecture Container Diagrams
-<img src="https://media.discordapp.net/attachments/1364292682553360515/1364298594051690546/structurizr-92688-Containers.png?ex=68092994&is=6807d814&hm=cae35364a69629e1cd5c91cedf4890a7eeb4b45ac704860589bdea3a328c56f4&=&format=webp&quality=lossless&width=871&height=948"/>
+<img src="https://imgur.com/ZZDW5y4.jpeg"/>
 
 
 ### 4.6.3. Software Architecture Components Diagrams
 Authentication Bounded Context
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364316476865118279/AuthenticationBC.png?ex=68093a3b&is=6807e8bb&hm=6f8456553abdf8747d859ccb6a58c224cc485b889da194c649ad89baf6df2657&=&format=webp&quality=lossless&width=457&height=844"/>
+<img src="https://imgur.com/YNbXMVY.jpeg" />
 
 Profile Management Bounded Context
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364316475686649897/structurizr-92688-ComponentOrders.png?ex=68093a3b&is=6807e8bb&hm=7b0c86c9b7e6981de4903e3d2d8f04de91fd2676dbc279b9e127970f8fea536e&=&format=webp&quality=lossless&width=576&height=844" />
+<img src="https://imgur.com/DHEUMxc.jpeg"/>
 
 Invoice Monitoring Bounded Context
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364316476370059359/structurizr-92688-ComponentProfile.png?ex=68093a3b&is=6807e8bb&hm=2b307ec06f45035aeeea615d6cb086b8504b4be1c1dd44a0eaef13c0316bab5f&=&format=webp&quality=lossless&width=791&height=844" />
+<img src="https://imgur.com/qQiuMvP.jpeg" />
 
 Service Management Bounded Context
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364316470938701965/structurizr-92688-ComponentBuyProduct.png?ex=68093a3a&is=6807e8ba&hm=76e2ef30bc1eb96ba7a07a6ff8b24cc2253e272b14972918276213d47c279fae&=&format=webp&quality=lossless&width=854&height=844" />
-
-Notifiaction Management Bounded Context
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364316472813551789/structurizr-92688-ComponentManageProduc.png?ex=68093a3a&is=6807e8ba&hm=5a1308825f1727c28bdea56eb8b1e71de9a487cdc405d9dc61f2748f215f75fd&=&format=webp&quality=lossless&width=848&height=844" />
+<img src="https://imgur.com/ZFMpv6y.jpeg" />
 
 Service Contracting Bounded Context
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364316474839138465/structurizr-92688-ComponentManageStore.png?ex=68093a3b&is=6807e8bb&hm=5fb66dea47435c35d8a7016c3e5a1da21cb22ddfecd1afbd89b5a23c3786d5c7&=&format=webp&quality=lossless&width=649&height=844" />
-
-Support-Live Chat Bounded Context
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364316473459347496/structurizr-92688-ComponentManageProfile.png?ex=68093a3b&is=6807e8bb&hm=aec0aa60a031ce3688864bed2c26a4260d94887c9c77711c68cf2dd04761dcc6&=&format=webp&quality=lossless&width=848&height=844" />
+<img src="https://imgur.com/rkgoUoA.jpeg" />
 
 Subscription Billing Bounded Context
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364316471890546739/structurizr-92688-ComponentCheckMoneyAccount.png?ex=68093a3a&is=6807e8ba&hm=4eae7c4504f05e19bd5709a8922e4ebdf319803fbff56bf5c96f2a1f6816ac8d&=&format=webp&quality=lossless&width=782&height=844" />
+<img src="https://imgur.com/OsW1q22.jpeg" />
 
 <hr>
 
