@@ -2028,6 +2028,7 @@ En esta sección se detalla el Sprint Backlog correspondiente al Sprint 1, el cu
 
 Enlace del board donde se trabako el Sprint Backlog #1: https://trello.com/b/iKXzrJ60/electrolink
 
+<img  src="https://i.imgur.com/hTNhqqE.png"/>
 
 | Sprint # | Sprint 1 |  |  |  |  |  |  |
 |---------|---------|---------|---------|---------|---------|---------|---------|
@@ -2244,6 +2245,11 @@ Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded 
 
 
 ##### 5.2.2.3. Sprint Backlog 2.
+
+Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa Frontend de la aplicación, estableciendo las bases visuales y funcionales que interactúan directamente con los usuarios. Se priorizó la implementación de componentes clave asociados a cada uno de los bounded contexts asignados individualmente a los integrantes, lo cual permitió una distribución clara de responsabilidades y un avance paralelo de las funcionalidades. Cada miembro del equipo asumió el liderazgo en el desarrollo de un conjunto específico de componentes, asegurando coherencia y continuidad en cada dominio funcional.
+
+Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en Trello](https://trello.com/b/iKXzrJ60/electrolink-aplicaciones-web)
+<img  src="https://i.imgur.com/hTNhqqE.png"/>
 
 ### Sprint Backlog 2
 
