@@ -2382,6 +2382,13 @@ En el segundo sprint identificamos 20 endpoints provenientes de 5 controladores 
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
+Para ste despliegue hemos usado Beeseptor y FireBase
+
+<img  src="https://i.postimg.cc/43035GwX/Captura-de-pantalla-2025-05-13-165620.png"/>
+
+<img  src="https://i.postimg.cc/T3YnwrPF/Captura-de-pantalla-2025-05-13-165849.png"/>
+
+
 ##### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
 En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits.
