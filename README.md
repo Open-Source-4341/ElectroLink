@@ -2021,17 +2021,18 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 Enlace de la Landing Page: https://electrolinklp.netlify.app/
 
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364674920956694609/dd76ef28-7efa-4b32-87d2-a876271ccf03.png?ex=680a880f&is=6809368f&hm=61dce8cbd645c9bdc16736ecdb255b86f6aaaeef22783fc0c3738c004ab95a11&=&format=webp&quality=lossless" />
+<img src="https://imgur.com/49OkXbc.png" />
 
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364674921728315474/559205d3-20e0-4d01-bf6d-cd9f1f8a7c44.png?ex=680a880f&is=6809368f&hm=07e1931891ae3b0a790df7a84389fb0cffe35e6dabd4d6301e913a3e986b4fd9&=&format=webp&quality=lossless" />
+<img src="https://imgur.com/BFhI8Dc.png" />
 
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364674922105933905/533036ce-5e58-4f35-875e-b7edefc15cee.png?ex=680a880f&is=6809368f&hm=d358eb2da7d77914fec140f66e3dfbe0e0a22cda231d3e7080eb73520548f041&=&format=webp&quality=lossless" />
+<img src="https://imgur.com/rJPW3H5.png" />
 
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364674922475163648/872f182f-7a57-42e6-8077-59b9bc1ab438.png?ex=680a880f&is=6809368f&hm=a86d08f6387a1738d9057d60dd59d75a5d83ec71e0e4734cb4c390972c81d87a&=&format=webp&quality=lossless" />
+<img src="https://imgur.com/zbMWRS0.png" />
 
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364674922818965606/8bdd4f68-d4a9-4c5c-8156-6cda5a0bf838.png?ex=680a8810&is=68093690&hm=d03e28bfa039d91f450927587e2fa6c43ac742a16cddc45856433c64b1fa13af&=&format=webp&quality=lossless" />
+<img src="https://imgur.com/GVOlVpZ.png" />
 
-<img src="https://media.discordapp.net/attachments/458373275064467476/1364674923154640967/16de7725-4c9b-49e5-a347-2a69b98e18e8.png?ex=680a8810&is=68093690&hm=88cf05c561e83b1020b3d41ff9cb0f6cbe76da6137c478507a5a0b97d121527c&=&format=webp&quality=lossless" />
+<img src="https://imgur.com/c5HCnn9.png" />
+
 <hr>
 
 <hr>
