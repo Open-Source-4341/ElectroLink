@@ -2388,6 +2388,13 @@ Para ste despliegue hemos usado Beeseptor y FireBase
 
 <img  src="https://i.postimg.cc/T3YnwrPF/Captura-de-pantalla-2025-05-13-165849.png"/>
 
+Enlaces de las paginas desplegadas:
+Service Contracting Bounded Context:
+- https://service-management-bc-italo.web.app/technician-search
+- https://invoices-ae6e5.web.app
+
+Service Management Bounded Context :
+- https://service-management-bc.firebaseapp.com/dashboard
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
