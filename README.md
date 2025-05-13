@@ -2304,8 +2304,8 @@ El enfoque colaborativo permitió que cada integrante trabajara de forma autóno
 
 <img  src="https://i.imgur.com/G9aLEWM.png"/>
 
-<img  src="https://i.imgur.com/aeGr03Y.png"/>
-<img  src="https://i.imgur.com/Aq8X6Jb.png"/>
+<img  src="https://postimg.cc/LYSrtcz0"/>
+<img  src="https://postimg.cc/7J3r8xq4"/>
 
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
