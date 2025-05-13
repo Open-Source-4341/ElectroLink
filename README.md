@@ -2210,8 +2210,8 @@ Durante la reunión de planificación del Sprint 2, el equipo identificó los ob
 | **Sprint n – 1 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
 | **Sprint Goal & User Stories** |  |
 | **Sprint n Goal** | Our focus is on consolidar la primera versión funcional del Front End con pantallas clave del sistema. We believe it delivers una experiencia inicial que permita validar la estructura visual y usabilidad básica de la aplicación con potenciales usuarios. This will be confirmed when se implementen al menos tres pantallas interactivas que permitan una navegación fluida y se obtenga retroalimentación positiva en pruebas de uso iniciales. |
-| **Sprint n Velocity** | 16 Story Points |
-| **Sum of Story Points** | 10 Story Points |
+| **Sprint n Velocity** | 100% |
+| **Sum of Story Points** | 67 Story Points |
 
 
 
