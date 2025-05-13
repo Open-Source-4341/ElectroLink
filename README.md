@@ -2143,6 +2143,8 @@ Enlace de la Landing Page: https://electrolinklp.netlify.app/
 
 <img src="https://imgur.com/GVOlVpZ.png" />
 
+
+
 <img src="https://imgur.com/c5HCnn9.png" />
 
 <hr>
@@ -2303,14 +2305,81 @@ El enfoque colaborativo permitió que cada integrante trabajara de forma autóno
 <img  src="https://i.imgur.com/D66T8Me.png"/>
 
 <img  src="https://i.imgur.com/G9aLEWM.png"/>
+<img  src="https://i.postimg.cc/G2TdCr9r/Whats-App-Image-2025-05-13-at-12-26-14-1.jpg"/>
 
 <img  src="https://i.postimg.cc/hvwDmjwX/Whats-App-Image-2025-05-13-at-12-25-36.jpg"/>
 
 
+<img  src="https://i.postimg.cc/TwZKgCBj/92d49261-de39-4745-86c1-207df61e3600.webp"/>
+
+
+<img  src="https://i.postimg.cc/Wzwsz8V1/Whats-App-Image-2025-05-13-at-12-25-26.jpg"/>
+
+<img  src="https://i.postimg.cc/B616S2tj/image-23.webp"/>
+
+<img  src="https://i.postimg.cc/5NJ0JYJt/image-24.webp"/>
+
+<img  src="https://i.postimg.cc/5NJ0JYJt/image-24.webp"/>
+
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+En el segundo sprint identificamos 20 endpoints provenientes de 4 controladores diferentes. Utilizamos swagger para la presente documentacion
+
+### Technicians Controller
+
+| Verbo HTTP | Endpoint                         | Summary                        | Request Body | Parámetros   |
+|------------|----------------------------------|--------------------------------|--------------|--------------|
+| GET        | /api/v1/technicians              | Obtener todos los técnicos     | No           | -            |
+| GET        | /api/v1/technicians/{id}         | Obtener técnico por ID         | No           | id           |
+| POST       | /api/v1/technicians              | Crear nuevo técnico            | Sí           | -            |
+| PUT        | /api/v1/technicians/{id}         | Actualizar datos de técnico    | Sí           | id           |
+| DELETE     | /api/v1/technicians/{id}         | Eliminar técnico               | No           | id           |
+
+### Clients Controller
+
+| Verbo HTTP | Endpoint                         | Summary                        | Request Body | Parámetros   |
+|------------|----------------------------------|--------------------------------|--------------|--------------|
+| GET        | /api/v1/clients                  | Obtener todos los clientes     | No           | -            |
+| GET        | /api/v1/clients/{id}             | Obtener cliente por ID         | No           | id           |
+| POST       | /api/v1/clients                  | Registrar nuevo cliente        | Sí           | -            |
+| PUT        | /api/v1/clients/{id}             | Actualizar cliente             | Sí           | id           |
+| DELETE     | /api/v1/clients/{id}             | Eliminar cliente               | No           | id           |
+
+### Services Controller
+
+| Verbo HTTP | Endpoint                         | Summary                             | Request Body | Parámetros   |
+|------------|----------------------------------|-------------------------------------|--------------|--------------|
+| GET        | /api/v1/services                 | Listar todos los servicios          | No           | -            |
+| GET        | /api/v1/services/{id}            | Obtener servicio por ID             | No           | id           |
+| POST       | /api/v1/services                 | Crear nuevo servicio                | Sí           | -            |
+| PUT        | /api/v1/services/{id}            | Actualizar datos del servicio       | Sí           | id           |
+| DELETE     | /api/v1/services/{id}            | Eliminar servicio                   | No           | id           |
+
+### Reviews Controller
+
+| Verbo HTTP | Endpoint                                 | Summary                             | Request Body | Parámetros   |
+|------------|------------------------------------------|-------------------------------------|--------------|--------------|
+| GET        | /api/v1/technicians/{id}/reviews         | Obtener reseñas del técnico         | No           | id           |
+| POST       | /api/v1/technicians/{id}/reviews         | Crear nueva reseña                  | Sí           | id           |
+| DELETE     | /api/v1/reviews/{reviewId}               | Eliminar reseña                     | No           | reviewId     |
+
+### Electrical Invoice Controller
+
+| Verbo HTTP | Endpoint                                      | Summary                                           | Request Body | Parámetros   |
+|------------|-----------------------------------------------|---------------------------------------------------|--------------|--------------|
+| GET        | /api/v1/invoice/electrical-invoice/           | Obtener últimos registros creados                 | No           | -            |
+| GET        | /api/v1/invoice/electrical-invoice/:id        | Obtener una factura por ID                        | No           | id           |
+| POST       | /api/v1/invoice/electrical-invoice/           | Crear una nueva factura eléctrica                 | Sí           | -            |
+| PUT        | /api/v1/invoice/electrical-invoice/:id        | Reemplazar completamente la factura existente     | Sí           | id           |
+| PATCH      | /api/v1/invoice/electrical-invoice/:id        | Modificar parcialmente una factura existente      | Sí           | id           |
+| DELETE     | /api/v1/invoice/electrical-invoice/:id        | Eliminar una factura por ID                       | No           | id           |
+
+
+
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Revie 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint. 
+
 
 <hr>
 
