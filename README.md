@@ -2096,42 +2096,19 @@ Durante la reunión de planificación del Sprint 2, el equipo identificó los ob
 
 | **Sprint #** | Sprint 2 |
 |--------------|----------|
-
-### Sprint Planning Background
-
-| **Date**     | 2024-09-26              |
-|--------------|--------------------------|
-| **Time**     | 6:00 PM                  |
-| **Location** | Virtual - Discord        |
+| **Sprint Planning Background** |  |
+| **Date** | 2025-05-12 |
+| **Time** | 5:00 PM |
+| **Location** | Virtual - Discord |
 | **Prepared By** | Ivo Marcelo Machado Bracamonte |
 | **Attendees (to planning meeting)** | Ludwing Sanchez Manrique / Ethan Matias Aliaga Aguirre / Leandro Saúl Contreras Lopez / Ivo Marcelo Machado Bracamonte / Ricardo Del Aguila Ayala |
-
----
-
-### Sprint 2 – 1 Review Summary
-
-Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido.
-
----
-
-### Sprint 2 – 1 Retrospective Summary
-
-El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo.
-
----
-
-### Sprint Goal & User Stories
-
-| **Sprint 2 Goal** | Our focus is on consolidar la primera versión funcional del Front End con pantallas clave del sistema.  
-We believe it delivers una experiencia inicial que permita validar la estructura visual y usabilidad básica de la aplicación con potenciales usuarios.  
-This will be confirmed when se implementen al menos tres pantallas interactivas que permitan una navegación fluida y se obtenga retroalimentación positiva en pruebas de uso iniciales. |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-| **Sprint 2 Velocity** | 16 Story Points |
-|-----------------------|------------------|
-
+| **Sprint n – 1 Review Summary** | Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido. |
+| **Sprint n – 1 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint n Goal** | Our focus is on consolidar la primera versión funcional del Front End con pantallas clave del sistema. We believe it delivers una experiencia inicial que permita validar la estructura visual y usabilidad básica de la aplicación con potenciales usuarios. This will be confirmed when se implementen al menos tres pantallas interactivas que permitan una navegación fluida y se obtenga retroalimentación positiva en pruebas de uso iniciales. |
+| **Sprint n Velocity** | 16 Story Points |
 | **Sum of Story Points** | 10 Story Points |
-|--------------------------|-----------------|
+
 
 
 
