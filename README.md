@@ -2087,8 +2087,42 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 ##### 5.2.2. Sprint 2 
 ##### 5.2.2.1. Sprint Planning 2.
 ##### 5.2.2.2. Aspect Leaders and Collaborators. 
+
+Durante el Sprint actual, se identificaron los siguientes aspectos clave dentro del alcance de la solución. Cada aspecto representa una parte funcional específica (por ejemplo: desarrollo del backend, diseño de la interfaz, integración con la API, etc.). Con el fin de distribuir de manera clara las responsabilidades y fomentar una comunicación efectiva, se ha definido qué miembro del equipo lidera cada aspecto y quiénes actúan como colaboradores. Esta matriz también se alinea con la posterior asignación de tareas dentro del Sprint.
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) | Aspect Name 2 (L/C) | ... | Aspect Name n (L/C) |
+|-------------------------------------|------------------|---------------------|---------------------|-----|----------------------|
+| Jiménez Rosas, Arturo Eduardo       | ajimenezrosas    | L                   | C                   | ... |                      |
+| Rodríguez Peña, Jorge Andrés        | Japr91           | C                   | C                   | ... | L                    |
+
 ##### 5.2.2.3. Sprint Backlog 2.
+
+| Sprint # | Sprint 2 |  |  |  |  |  |  |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| **User Story** | | **Work-Item/task** | | | | | |
+| **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
+| US-41 | Visualziación de una Seccion Principal | T01 | Crear una sección Principal o Hero | Crear una sección donde se muestren un breve resumen de nuestra idea. | 0.5 | Matias Aliaga | Done |
+| US-38 | Visualización de Testimonios | T01 | Crear una sección de Testimonios | Crear una sección donde se muestren los testimonios de nuestros clientes. | 0.5 | Matias Aliaga | Done |
+| US-40 | Adaptabilidad a Diferentes Dispositivos | T01 | Desarrollar una landing page responsiva| Crear una landing page que se adapte a las pantallas de diversos dispositivos. | 0.5 | Matias Aliaga | Done |
+| US-42 | Visualización de Características y Beneficios | T01 | Crear una sección de Caracteristicas y Beneficios | Crear una sección donde se muestren las caracterisitcas y beneficios de nuestra plataforma. | 1 | Matias Aliaga | Done |
+| US-43 | Navegación sin errores | T01 | Desarrollar Pagina web | Crear una pagina web que permita a posibles usuarios navegar sin problemas de manera intuitiva | 0.5 | Matias Aliaga | Done |
+| US-44 | Navegación mediante Encabezado | T01 | Agregar Header | Crear un menu encabezado que permita navegar de manera intuitiva | 0.5 | Matias Aliaga | Done | 0.5 | Matias Aliaga | Done |
+| US-45 | Visualización del Pie de pagina | T01 | Agregar Footer | Crear un pie de pagina footer que contenga acceso directo a las diferentes secciones | 1 | Matias Aliaga | Done |
+| US-46 | Ver Información del Startup | T01 | Ver Información del Startup | Agregar una sección para ver información del equipo desarollador | 0.5 | Matias Aliaga | Done |
+| US-47| Conocer la Misión de la Startup | T01 | Agregar Mision |  Agregar una sección para conocer la mision de la start up | 1 | Matias Aliaga | Done |
+| US-48 | Conocer la Vision de la Startup | T01 | Agregar Vision | Agregar una sección para conocer la vision de la start up | 1 | Matias Aliaga | Done |
+| US-49 | Formulario de Registro | T01 | Crear Formulario de Registro| Agregar un formulario para que el usuario se registre | 1 | Matias Aliaga | Done |
+
 ##### 5.2.2.4. Development Evidence for Sprint Review.
+
+## Development Evidence for Sprint Review
+
+Durante el Sprint se avanzó en la implementación de los siguientes productos: Landing Page, Aplicaciones Web y Servicios Web. A continuación se presenta la evidencia de desarrollo mediante commits registrados en los repositorios utilizados durante este periodo. La tabla incluye el nombre del repositorio, rama de trabajo, identificador del commit, mensaje del commit, descripción detallada del cambio y la fecha en que se realizó.
+
+| Repository            | Branch               | Commit Id | Commit Message                  | Commit Message Body                                                                 | Commited on (Date) |
+|-----------------------|----------------------|-----------|----------------------------------|--------------------------------------------------------------------------------------|---------------------|
+| user/repositoryname   | feature/loremipsum   | 14ca4e3   | feat: consectetur adipiscing elit | Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentum velit rutrum ut. | 04/09/2021          |
+
 ##### 5.2.2.5. Execution Evidence for Sprint Review. 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Revie 
