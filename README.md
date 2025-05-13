@@ -1902,7 +1902,7 @@ Ejemplo:
 `hotfix/2.3.2-bug-carrito`
 
 Repositorio principal: [https://github.com/Open-Source-4341/ElectroLink](https://github.com/Open-Source-4341/ElectroLink)
-Repositorio Landing Page: 
+
 <br>
 
 ### 5.1.3. Source Code Style Guide & Conventions
@@ -2142,7 +2142,7 @@ Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded 
 |-----------------------------------------|----------------------|---------------------|-------------------------|-------------------------|--------------------------|
 | Sánchez Manrique, Ludwing               | ItaloSanche          | L                   | C                       | C                       |                          |
 | Aliaga Aguirre, Ethan Matías            | MatFragg             | C                   | L                       |                         | C                        |
-| Contreras López, Leandro Saúl           | leandroscl           | C                   | C                       | L                       | C                        |
+| Contreras López, Leandro Saúl           | WiDDsito             | C                   | C                       | L                       | C                        |
 | Machado Bracamonte, Ivo Marcelo         | ivommb11             | C                   |                         | C                       | L                        |
 | Del Aguila Ayala, Ricardo               | Rexest01             |                     | C                       | C                       | C                        |
 
@@ -2162,10 +2162,6 @@ Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded 
 | US38          | Búsqueda Geolocalizada                   | TS0383               | Renderizado de datos geográficos              | Despliegue en pantalla de país, región y ciudad obtenidos desde la IP       | 0.5                 | Italo        | done   |
 | US39          | Filtrado por Disponibilidad y Calificación | TS0391               | Lógica de filtro por disponibilidad horaria   | Programación de condiciones para disponibilidad en la vista de resultados   | 0.5                 | Italo        | done   |
 | US39          | Filtrado por Disponibilidad y Calificación | TS0392               | Renderizado de calificación promedio          | Mostrar visualmente la calificación de cada técnico                         | 0.5                 | Italo        | done   |
-
-
-| User Story ID | User Story                              | Work-Item / Task ID | Work-Item / Task Title                       | Description                                                                 | Estimation (Hours) | Assigned To | Status |
-|---------------|------------------------------------------|----------------------|----------------------------------------------|-----------------------------------------------------------------------------|---------------------|--------------|--------|
 | US41          | Gestión de Agenda y Citas                | TS0411               | Visualización de agenda                      | Mostrar lista de tareas agendadas con detalles del cliente y servicio      | 1.5                 | Ivo          | done   |
 | US41          | Gestión de Agenda y Citas                | TS0412               | Crear tarea                                  | Formulario para agendar nueva cita con fecha, cliente y servicio           | 1.5                 | Ivo          | done   |
 | US41          | Gestión de Agenda y Citas                | TS0413               | Editar tarea                                 | Lógica y formulario para actualizar una cita existente                     | 1.5                 | Ivo          | done   |
@@ -2175,8 +2171,11 @@ Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded 
 | US42          | Gestión de Servicios Ofrecidos           | TS0423               | Editar servicio                              | Actualizar servicio y sus componentes                                       | 1.5                 | Ivo          | done   |
 | US42          | Gestión de Servicios Ofrecidos           | TS0424               | Eliminar servicio                            | Lógica para borrar servicio del inventario                                 | 0.5                 | Ivo          | done   |
 | US43          | Historial de Clientes Atendidos          | TS0431               | Card de historial en dashboard               | Mostrar historial de clientes atendidos como resumen en el dashboard       | 0.5                 | Ivo          | done   |
-| US44          | Crear Portafolio Digital con Evidencias  | TS0441               | Card de portafolio en dashboard              | Sección visible para evidencias de trabajos realizados (sin edición aún)   | 0.5                 | Ivo          | done   |
-| US45          | Retroalimentación directa de servicios   | TS0451               | Visualización de comentarios y puntuación    | Mostrar reseñas, estrellas y número de comentarios en el perfil            | 1                   | Ivo          | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0441               | Desarrollo del formulario de calificación     | Implementación de formulario para ingresar calificación y comentario        | 1.5                 | Leandro        | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0442               | Lógica de envío de calificación y reseña      | Programación de lógica para registrar y almacenar la reseña en la base de datos | 2               | Leandro        | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0443               | Asociación de reseña con usuario y servicio   | Establecer relaciones entre usuarios, servicios y sus respectivas calificaciones | 1.5             | Leandro       | done   |
+| US45          | Visualización de Calificaciones y Reseñas | TS0451               | Renderizado de calificaciones y comentarios   | Mostrar lista de reseñas y calificaciones en la vista del técnico o servicio | 1.5               | Leandro        | done   |
+| US45          | Visualización de Calificaciones y Reseñas | TS0452               | Cálculo de promedio de calificaciones         | Lógica para calcular y mostrar promedio de puntuación por técnico o servicio | 1.5               | Leandro        | done   |
 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review.
