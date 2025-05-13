@@ -2114,12 +2114,17 @@ Durante la reunión de planificación del Sprint 2, el equipo identificó los ob
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators. 
 
-Durante el Sprint actual, se identificaron los siguientes aspectos clave dentro del alcance de la solución. Cada aspecto representa una parte funcional específica (por ejemplo: desarrollo del backend, diseño de la interfaz, integración con la API, etc.). Con el fin de distribuir de manera clara las responsabilidades y fomentar una comunicación efectiva, se ha definido qué miembro del equipo lidera cada aspecto y quiénes actúan como colaboradores. Esta matriz también se alinea con la posterior asignación de tareas dentro del Sprint.
+Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded Contexts: Authentication, Profile Management, Service Management y Service Contracting. A fin de garantizar una gestión clara y colaborativa del trabajo, se elaboró la siguiente matriz LACX. En ella se identifica quién asume el rol de líder (L) y quiénes colaboran (C) en cada uno de estos aspectos, asegurando una comunicación efectiva y responsabilidades bien definidas dentro del equipo.
 
-| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) | Aspect Name 2 (L/C) | ... | Aspect Name n (L/C) |
-|-------------------------------------|------------------|---------------------|---------------------|-----|----------------------|
-| Jiménez Rosas, Arturo Eduardo       | ajimenezrosas    | L                   | C                   | ... |                      |
-| Rodríguez Peña, Jorge Andrés        | Japr91           | C                   | C                   | ... | L                    |
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Authentication** | **Profile Management** | **Service Management** | **Service Contracting** |
+|-----------------------------------------|----------------------|---------------------|-------------------------|-------------------------|--------------------------|
+| Sánchez Manrique, Ludwing               | ItaloSanche          | L                   | C                       | C                       |                          |
+| Aliaga Aguirre, Ethan Matías            | MatFragg             | C                   | L                       |                         | C                        |
+| Contreras López, Leandro Saúl           | leandroscl           | C                   | C                       | L                       | C                        |
+| Machado Bracamonte, Ivo Marcelo         | ivommb11             | C                   |                         | C                       | L                        |
+| Del Aguila Ayala, Ricardo               | Rexest01             |                     | C                       | C                       | C                        |
+
+
 
 ##### 5.2.2.3. Sprint Backlog 2.
 
