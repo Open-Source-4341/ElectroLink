@@ -1266,7 +1266,7 @@ Epicas
 
 # 
 
-| Epic/StoryID | Título | Descripción | Story Points (1/3/5/8) |
+ Epic/StoryID | Título | Descripción | Story Points (1/3/5/8) |
 | :---- | :---- | :---- | :---- |
 | US-01 | Visualización de Características y Beneficios | Como visitante de la landing page, Quiero ver claramente las características y beneficios de la plataforma, Para entender cómo puede ayudarme y decidir si registrarme. | 5 |
 | US-02 | Visualización de Testimonios | Como visitante indeciso sobre la plataforma, Quiero ver testimonios de usuarios reales, Para aumentar mi confianza en el servicio antes de registrarse. | 3 |
@@ -1298,29 +1298,39 @@ Epicas
 | US-28 | Entrar a un dashboard Personalizado | Como usuario de la plataforma, quiero acceder a un dashboard personalizado al iniciar sesión, para visualizar de forma inmediata la información relevante según mi rol y actividad reciente. | 8 |
 | US-29 | Gestión de Técnicos Favoritos | Como cliente, quiero poder marcar y gestionar una lista de técnicos favoritos, para contactarlos fácilmente para futuros servicios y dar preferencia a aquellos con los que he tenido buenas experiencias. | 5 |
 | US-30 | Registrar Consumo Eléctrico Mensual | Como usuario interesado en el control energético, quiero poder anotar manualmente mi consumo mensual de electricidad, para llevar un seguimiento y detectar posibles aumentos o ahorros en el tiempo. | 3 |
-| US-31 | Extracción de datos de consumo | Como usuario, quiero que el sistema extraiga automáticamente los datos relevantes de mis facturas cargadas (kWh consumidos, monto, periodo) para evitar la entrada manual de datos | 8 |
-| US-32 | Visualización de historial de consumo | Como usuario, quiero visualizar gráficamente mi historial de consumo eléctrico para identificar tendencias y patrones | 5 |
-| US-33 | Configuración de alertas de consumo | Como usuario, quiero configurar alertas personalizadas cuando mi consumo supere ciertos umbrales predefinidos para tomar medidas proactivas | 3 |
-| US-34 | Exportación de datos de consumo | Como usuario, quiero poder exportar mis datos históricos de consumo en formatos comunes (CSV, Excel) para análisis externos | 3 |
-| US-35 | Repositorio de facturas | Como usuario, quiero tener un repositorio organizado de todas mis facturas eléctricas para acceder fácilmente a ellas cuando las necesite | 5 |
-| US-36 | Verificación de facturas | Como usuario, quiero poder verificar si el cálculo de mi factura es correcto según las tarifas vigentes para detectar posibles errores de facturación | 8 |
-| US-37 | Sistema de Recomendaciones Personalizadas | Como cliente, quiero recibir recomendaciones personalizadas de servicios y productos basados en mi historial y necesidades, para descubrir soluciones relevantes que puedan mejorar mi experiencia. | 8 |
-| US-38 | Búsqueda por Ubicación y Tipo de Servicio | Como usuario, quiero poder buscar servicios filtrando por ubicación y tipo de servicio, para encontrar rápidamente los que se ajustan a mis necesidades específicas. | 3 |
-| US-39 | Búsqueda Geolocalizada | Como usuario, quiero buscar servicios cerca de mi ubicación actual, para encontrar opciones convenientes sin necesidad de introducir manualmente mi ubicación. | 5 |
-| US-40 | Filtrado por Disponibilidad y Calificación | Como usuario, quiero filtrar servicios por su disponibilidad horaria y calificación promedio, para encontrar servicios bien valorados que se ajusten a mi agenda. | 3 |
-| US-41 | Sistema de Calificación Post-Servicio | Como usuario, quiero poder calificar y dejar reseñas sobre los servicios que he utilizado, para compartir mi experiencia con otros usuarios y proporcionar retroalimentación a los proveedores. | 5 |
-| US-42 | Visualización de Calificaciones y Reseñas | Como usuario, quiero poder ver las calificaciones y reseñas dejadas por otros usuarios, para tomar decisiones informadas sobre qué servicios utilizar. | 3 |
-| US-43 | Contratación de Servicios Eléctricos mediante Wizard | Como propietario de PyME, quiero contar con un proceso guiado paso a paso para contratar servicios eléctricos, para poder solucionar mis problemas de forma rápida y sin complicaciones. | 8 |
-| US-44 | Historial de servicios contratados | Como cliente, quiero poder ver un historial de los servicios que he contratado anteriormente para referencia futura | 3 |
-| US-45 | Cancelación de servicios programados | Como cliente, quiero poder cancelar un servicio programado con anticipación para evitar cargos innecesarios | 3 |
-| US-46 | Gestión de Disponibilidad de Proveedor | Como proveedor Quiero poder gestionar mi disponibilidad horaria y calendario Para que los clientes puedan solicitar mis servicios en horarios en que estoy disponible. | 8 |
-| US-47 | Gestión de Agenda y Citas | Como técnico/proveedor, quiero poder gestionar mi agenda de servicios y citas, para organizar eficientemente mi trabajo y maximizar mi productividad. | 8 |
-| US-48 | Gestión de Servicios Ofrecidos | Como proveedor, quiero poder gestionar mi catálogo de servicios ofrecidos, para mantenerlo actualizado y mostrar claramente a los clientes mi oferta y especialidades. | 5 |
-| US-49 | Historial de Clientes Atendidos | Como proveedor, quiero acceder a un historial detallado de los clientes que he atendido, para dar seguimiento a relaciones profesionales y mejorar mi servicio basado en experiencias previas. | 3 |
-| US-50 | Crear Portafolio Digital con Evidencias de Trabajo | Como proveedor de servicios eléctricos, quiero crear un portafolio digital dentro de mi perfil que incluya fotos, descripciones y referencias de trabajos anteriores, para mostrar mi experiencia y generar mayor confianza en potenciales clientes. | 5 |
-| US-51 | Configuración de zonas de servicio | Como proveedor, quiero poder establecer zonas geográficas donde ofrezco mis servicios para enfocarme en clientes de áreas específicas | 5 |
-| US-52 | Retroalimentación directa de servicios | Como proveedor, quiero poder recibir retroalimentación directa sobre mis servicios para mejorar mi oferta | 3 |
-| US-53 | Gestión de tarifas por tipo de servicio | Como proveedor, quiero poder establecer diferentes tarifas según el tipo de servicio para tener una estructura de precios clara y transparente | 3 |
+| US-31 | Crear Registro de Consumo Eléctrico | Como usuario interesado en el control energético Quiero poder crear un nuevo registro de consumo mensual Para iniciar el seguimiento de mi gasto eléctrico. | 5 |
+| US-32 | Editar Registro de Consumo Eléctrico | Como usuario interesado en el control energético Quiero poder modificar registros de consumo existentes Para corregir errores o actualizar información. | 3 |
+| US-33 | Eliminar Registro de Consumo Eléctrico | Como usuario interesado en el control energético Quiero poder eliminar registros de consumo incorrectos Para mantener la precisión de mi historial de consumo. | 3 |
+| US-34 | Extracción de datos de consumo | Como usuario, quiero que el sistema extraiga automáticamente los datos relevantes de mis facturas cargadas (kWh consumidos, monto, periodo) para evitar la entrada manual de datos | 8 |
+| US-35 | Visualización de historial de consumo | Como usuario, quiero visualizar gráficamente mi historial de consumo eléctrico para identificar tendencias y patrones | 5 |
+| US-36 | Configuración de alertas de consumo | Como usuario, quiero configurar alertas personalizadas cuando mi consumo supere ciertos umbrales predefinidos para tomar medidas proactivas | 3 |
+| US-37 | Exportación de datos de consumo | Como usuario, quiero poder exportar mis datos históricos de consumo en formatos comunes (CSV, Excel) para análisis externos | 3 |
+| US-38 | Repositorio de facturas | Como usuario, quiero tener un repositorio organizado de todas mis facturas eléctricas para acceder fácilmente a ellas cuando las necesite | 5 |
+| US-39 | Verificación de facturas | Como usuario, quiero poder verificar si el cálculo de mi factura es correcto según las tarifas vigentes para detectar posibles errores de facturación | 8 |
+| US-40 | Sistema de Recomendaciones Personalizadas | Como cliente, quiero recibir recomendaciones personalizadas de servicios y productos basados en mi historial y necesidades, para descubrir soluciones relevantes que puedan mejorar mi experiencia. | 8 |
+| US-41 | Búsqueda por Ubicación y Tipo de Servicio | Como usuario, quiero poder buscar servicios filtrando por ubicación y tipo de servicio, para encontrar rápidamente los que se ajustan a mis necesidades específicas. | 3 |
+| US-42 | Búsqueda Geolocalizada | Como usuario, quiero buscar servicios cerca de mi ubicación actual, para encontrar opciones convenientes sin necesidad de introducir manualmente mi ubicación. | 5 |
+| US-43 | Filtrado por Disponibilidad y Calificación | Como usuario, quiero filtrar servicios por su disponibilidad horaria y calificación promedio, para encontrar servicios bien valorados que se ajusten a mi agenda. | 3 |
+| US-44 | Sistema de Calificación Post-Servicio | Como usuario, quiero poder calificar y dejar reseñas sobre los servicios que he utilizado, para compartir mi experiencia con otros usuarios y proporcionar retroalimentación a los proveedores. | 5 |
+| US-45 | Visualización de Calificaciones y Reseñas | Como usuario, quiero poder ver las calificaciones y reseñas dejadas por otros usuarios, para tomar decisiones informadas sobre qué servicios utilizar. | 3 |
+| US-46 | Contratación de Servicios Eléctricos mediante Wizard | Como propietario de PyME, quiero contar con un proceso guiado paso a paso para contratar servicios eléctricos, para poder solucionar mis problemas de forma rápida y sin complicaciones. | 8 |
+| US-47 | Historial de servicios contratados | Como cliente, quiero poder ver un historial de los servicios que he contratado anteriormente para referencia futura | 3 |
+| US-48 | Cancelación de servicios programados | Como cliente, quiero poder cancelar un servicio programado con anticipación para evitar cargos innecesarios | 3 |
+| US-49 | Gestión de Disponibilidad de Proveedor | Como proveedor Quiero poder gestionar mi disponibilidad horaria y calendario Para que los clientes puedan solicitar mis servicios en horarios en que estoy disponible. | 8 |
+| US-50 | Crear Disponibilidad de Proveedor | Como proveedor Quiero poder crear nuevos bloques de disponibilidad en mi calendario Para ofrecer mis servicios en horarios específicos. | 5 |
+| US-51 | Editar Disponibilidad de Proveedor | Como proveedor Quiero poder modificar mis bloques de disponibilidad existentes Para ajustar mis horarios según mis necesidades cambiantes. | 3 |
+| US-52 | Eliminar Disponibilidad de Proveedor | Como proveedor Quiero poder eliminar bloques de disponibilidad de mi calendario Para bloquear horarios que ya no estaré disponible. | 3 |
+| US-53 | Gestión de Agenda y Citas | Como técnico/proveedor, quiero poder gestionar mi agenda de servicios y citas, para organizar eficientemente mi trabajo y maximizar mi productividad. | 8 |
+| US-54 | Gestión de Servicios Ofrecidos | Como proveedor, quiero poder gestionar mi catálogo de servicios ofrecidos, para mantenerlo actualizado y mostrar claramente a los clientes mi oferta y especialidades. | 5 |
+| US-55 | Crear Servicios Ofrecidos | Como proveedor Quiero poder añadir nuevos servicios a mi catálogo Para ampliar mi oferta comercial. | 5 |
+| US-56 | Editar Servicios Ofrecidos | Como proveedor Quiero poder modificar los detalles de mis servicios existentes Para mantener la información actualizada. | 3 |
+| US-57 | Eliminar Servicios Ofrecidos | Como proveedor Quiero poder eliminar servicios de mi catálogo Para dejar de ofrecerlos al público. | 3 |
+| US-58 | Historial de Clientes Atendidos | Como proveedor, quiero acceder a un historial detallado de los clientes que he atendido, para dar seguimiento a relaciones profesionales y mejorar mi servicio basado en experiencias previas. | 3 |
+| US-59 | Crear Portafolio Digital con Evidencias de Trabajo | Como proveedor de servicios eléctricos, quiero crear un portafolio digital dentro de mi perfil que incluya fotos, descripciones y referencias de trabajos anteriores, para mostrar mi experiencia y generar mayor confianza en potenciales clientes. | 5 |
+| US-60 | Configuración de zonas de servicio | Como proveedor, quiero poder establecer zonas geográficas donde ofrezco mis servicios para enfocarme en clientes de áreas específicas | 5 |
+| US-61| Retroalimentación directa de servicios | Como proveedor, quiero poder recibir retroalimentación directa sobre mis servicios para mejorar mi oferta | 3 |
+| US-62 | Gestión de tarifas por tipo de servicio | Como proveedor, quiero poder establecer diferentes tarifas según el tipo de servicio para tener una estructura de precios clara y transparente | 3 |
+
 
 
 <hr>
