@@ -1994,6 +1994,9 @@ Se nombrará las siguientes etiquetas que utilizamos para desarrollar nuestra so
 
 ## 5.2.1.1. Sprint Planning 1
 
+Esta sección presenta los detalles de la primera reunión de planificación de Sprint del equipo. Durante esta sesión, se definieron los objetivos principales del Sprint, la capacidad del equipo y las tareas a abordar. Al ser el primer Sprint del proyecto, no se incluyen resúmenes de revisión ni retrospectiva previos. El enfoque principal fue la implementación de la landing page, con el objetivo de validar el interés del público en la propuesta de negocio. A continuación, se detallan los aspectos clave discutidos durante la reunión:
+
+
 | Sprint # | Sprint 1 |
 |----------|----------|
 | Date | 2025-22-04 |
@@ -2004,48 +2007,123 @@ Se nombrará las siguientes etiquetas que utilizamos para desarrollar nuestra so
 | Sprint n - 1 Review Summary | Este es el primer Sprint, por lo que el presente campo no aplica. |
 | Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que el presente campo no aplica. |
 | Sprint 1 Goal | Nuestra prioridad en este spring fue implementar la landing Page.Creemos que este MVP brindara la exposicipon necesaria a nuestra Idea de Negocio. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice de visitas. |
-| Sprint 1 Velocity | Nuestro equipo puede aceptar hasta 25 story points |
-| Sum of Story Points | La suma de Story Points atendidos es de 25 story points |
+| Sprint 1 Velocity | Nuestro equipo puede aceptar hasta 28 story points |
+| Sum of Story Points | La suma de Story Points atendidos es de 28 story points |
 
-#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Bounded Context Definition (L) / Collaborator (C) | Landing Page Development Leader(L) / Collaborator (C) |
+|-------------------------------------|------------------|--------------------------------------------------|--------------------------------------------------------|
+| Aliaga Aguirre, Ethan Matias        | MatFragg         | L                                                | L                                                      |
+| Del Aguila Ayala, Ricard            | Rexest01         | C                                                | C                                                      |
+| Sanchez, Italo Ludwing              | ItaloSanche      | C                                                | C                                                      |
+| Contreras, Leandro                  | WiDDsito         | C                                                | C                                                      |
+| Machado, Ivo                        | ivommb11         | C                                                | C                                                      |
+
+
+
+#### 5.2.1.3. Sprint Backlog 1
+
+En esta sección se detalla el Sprint Backlog correspondiente al Sprint 1, el cual incluye todas las historias de usuario priorizadas, así como las tareas específicas asociadas a cada una. Cada tarea contiene su respectiva descripción, estimación en horas, asignación de responsable y estado de avance. Este backlog sirvió como guía para la ejecución del Sprint y permitió al equipo mantener un control claro sobre el desarrollo de la landing page y sus componentes clave.
+
+Enlace del board donde se trabako el Sprint Backlog #1: https://trello.com/b/iKXzrJ60/electrolink
+
 
 | Sprint # | Sprint 1 |  |  |  |  |  |  |
 |---------|---------|---------|---------|---------|---------|---------|---------|
 | **User Story** | | **Work-Item/task** | | | | | |
 | **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
-| US-41 | Visualziación de una Seccion Principal | T01 | Crear una sección Principal o Hero | Crear una sección donde se muestren un breve resumen de nuestra idea. | 0.5 | Matias Aliaga | Done |
-| US-38 | Visualización de Testimonios | T01 | Crear una sección de Testimonios | Crear una sección donde se muestren los testimonios de nuestros clientes. | 0.5 | Matias Aliaga | Done |
-| US-40 | Adaptabilidad a Diferentes Dispositivos | T01 | Desarrollar una landing page responsiva| Crear una landing page que se adapte a las pantallas de diversos dispositivos. | 0.5 | Matias Aliaga | Done |
-| US-42 | Visualización de Características y Beneficios | T01 | Crear una sección de Caracteristicas y Beneficios | Crear una sección donde se muestren las caracterisitcas y beneficios de nuestra plataforma. | 1 | Matias Aliaga | Done |
-| US-43 | Navegación sin errores | T01 | Desarrollar Pagina web | Crear una pagina web que permita a posibles usuarios navegar sin problemas de manera intuitiva | 0.5 | Matias Aliaga | Done |
-| US-44 | Navegación mediante Encabezado | T01 | Agregar Header | Crear un menu encabezado que permita navegar de manera intuitiva | 0.5 | Matias Aliaga | Done | 0.5 | Matias Aliaga | Done |
-| US-45 | Visualización del Pie de pagina | T01 | Agregar Footer | Crear un pie de pagina footer que contenga acceso directo a las diferentes secciones | 1 | Matias Aliaga | Done |
-| US-46 | Ver Información del Startup | T01 | Ver Información del Startup | Agregar una sección para ver información del equipo desarollador | 0.5 | Matias Aliaga | Done |
-| US-47| Conocer la Misión de la Startup | T01 | Agregar Mision |  Agregar una sección para conocer la mision de la start up | 1 | Matias Aliaga | Done |
-| US-48 | Conocer la Vision de la Startup | T01 | Agregar Vision | Agregar una sección para conocer la vision de la start up | 1 | Matias Aliaga | Done |
-| US-49 | Formulario de Registro | T01 | Crear Formulario de Registro| Agregar un formulario para que el usuario se registre | 1 | Matias Aliaga | Done |
+| US-01 | Visualización de una Sección Principal | T01-1 | Diseñar hero section | Diseñar hero section con imagen de fondo atractiva | 1 | Matias Aliaga | Done |
+| US-01 | Visualización de una Sección Principal | T01-2 | Crear estructura HTML | Crear estructura HTML para la sección principal | 0.5 | Matias Aliaga | Done |
+| US-01 | Visualización de una Sección Principal | T01-3 | Implementar estilos CSS | Implementar estilos CSS para la sección principal | 1 | Matias Aliaga | Done |
+| US-01 | Visualización de una Sección Principal | T01-4 | Redactar título y texto | Redactar título impactante y texto descriptivo breve | 0.5 | Matias Aliaga | Done |
+| US-01 | Visualización de una Sección Principal | T01-5 | Añadir call-to-action | Añadir call-to-action (CTA) prominente | 0.5 | Matias Aliaga | Done |
+| US-02 | Visualización de Testimonios | T02-1 | Diseñar layout | Diseñar layout de la sección de testimonios | 0.5 | Matias Aliaga | Done |
+| US-02 | Visualización de Testimonios | T02-2 | Implementar HTML | Implementar estructura HTML para los testimonios | 0.5 | Matias Aliaga | Done |
+| US-02 | Visualización de Testimonios | T02-3 | Crear estilos CSS | Crear estilos CSS para la sección de testimonios | 0.5 | Matias Aliaga | Done |
+| US-02 | Visualización de Testimonios | T02-4 | Agregar imágenes y testimonios | Agregar imágenes de perfil y redactar testimonios de ejemplo | 1 | Matias Aliaga | Done |
+| US-02 | Visualización de Testimonios | T02-5 | Implementar carrusel | Implementar carrusel para mostrar múltiples testimonios | 1 | Matias Aliaga | Done |
+| US-03 | Adaptabilidad a Diferentes Dispositivos | T03-1 | Implementar diseño responsive | Implementar diseño responsive usando media queries | 1 | Matias Aliaga | Done |
+| US-03 | Adaptabilidad a Diferentes Dispositivos | T03-2 | Optimizar imágenes | Optimizar imágenes para diferentes tamaños de pantalla | 0.5 | Matias Aliaga | Done |
+| US-03 | Adaptabilidad a Diferentes Dispositivos | T03-3 | Adaptar navegación móvil | Adaptar navegación para dispositivos móviles (menú hamburguesa) | 1 | Matias Aliaga | Done |
+| US-03 | Adaptabilidad a Diferentes Dispositivos | T03-4 | Probar en múltiples dispositivos | Probar la landing page en múltiples dispositivos y navegadores | 1 | Matias Aliaga | Done |
+| US-03 | Adaptabilidad a Diferentes Dispositivos | T03-5 | Ajustar problemas visuales | Ajustar problemas de visualización identificados durante las pruebas | 0.5 | Matias Aliaga | Done |
+| US-04 | Visualización de Características y Beneficios | T04-1 | Diseñar sección de características | Diseñar sección de características con iconos representativos | 1 | Matias Aliaga | Done |
+| US-04 | Visualización de Características y Beneficios | T04-2 | Crear estructura HTML | Crear estructura HTML para la sección de características y beneficios | 0.5 | Matias Aliaga | Done |
+| US-04 | Visualización de Características y Beneficios | T04-3 | Implementar estilos CSS | Implementar estilos CSS para la sección de características | 1 | Matias Aliaga | Done |
+| US-04 | Visualización de Características y Beneficios | T04-4 | Redactar contenido | Redactar contenido claro y conciso para cada característica/beneficio | 1 | Matias Aliaga | Done |
+| US-04 | Visualización de Características y Beneficios | T04-5 | Implementar animaciones | Implementar animaciones sutiles para mejorar la experiencia de usuario | 1 | Matias Aliaga | Done |
+| US-05 | Navegación sin errores | T05-1 | Implementar detección de errores | Implementar sistema de detección de errores (error handling) | 0.5 | Matias Aliaga | Done |
+| US-05 | Navegación sin errores | T05-2 | Verificar enlaces | Verificar todos los enlaces internos | 0.5 | Matias Aliaga | Done |
+| US-05 | Navegación sin errores | T05-3 | Realizar pruebas de rendimiento | Realizar pruebas de rendimiento para identificar cuellos de botella | 1 | Matias Aliaga | Done |
+| US-05 | Navegación sin errores | T05-4 | Optimizar tiempos de carga | Optimizar tiempos de carga de la página | 1 | Matias Aliaga | Done |
+| US-05 | Navegación sin errores | T05-5 | Implementar feedback visual | Implementar feedback visual para interacciones del usuario | 0.5 | Matias Aliaga | Done |
+| US-06 | Navegación mediante Encabezado | T06-1 | Diseñar estructura del encabezado | Diseñar la estructura del encabezado y menú de navegación | 0.5 | Matias Aliaga | Done |
+| US-06 | Navegación mediante Encabezado | T06-2 | Implementar HTML | Implementar HTML para el encabezado y menú | 0.5 | Matias Aliaga | Done |
+| US-06 | Navegación mediante Encabezado | T06-3 | Crear estilos CSS | Crear estilos CSS para el encabezado | 0.5 | Matias Aliaga | Done |
+| US-06 | Navegación mediante Encabezado | T06-4 | Programar comportamiento de scroll | Programar comportamiento de scroll (encabezado fijo/sticky) | 1 | Matias Aliaga | Done |
+| US-06 | Navegación mediante Encabezado | T06-5 | Implementar efectos visuales | Implementar efectos visuales para elementos activos del menú | 0.5 | Matias Aliaga | Done |
+| US-07 | Visualización del Pie de pagina | T07-1 | Diseñar estructura | Diseñar estructura del pie de página | 0.5 | Matias Aliaga | Done |
+| US-07 | Visualización del Pie de pagina | T07-2 | Implementar HTML | Implementar HTML para el pie de página | 0.5 | Matias Aliaga | Done |
+| US-07 | Visualización del Pie de pagina | T07-3 | Crear estilos CSS | Crear estilos CSS para el pie de página | 0.5 | Matias Aliaga | Done |
+| US-07 | Visualización del Pie de pagina | T07-4 | Agregar enlaces | Agregar enlaces a redes sociales e información de contacto | 0.5 | Matias Aliaga | Done |
+| US-07 | Visualización del Pie de pagina | T07-5 | Implementar mapa del sitio | Implementar mapa del sitio y políticas de privacidad | 0.5 | Matias Aliaga | Done |
+| US-08 | Ver Información del Startup | T08-1 | Diseñar sección | Diseñar sección "Sobre nosotros" | 0.5 | Matias Aliaga | Done |
+| US-08 | Ver Información del Startup | T08-2 | Implementar HTML | Implementar HTML para la sección de información | 0.5 | Matias Aliaga | Done |
+| US-08 | Ver Información del Startup | T08-3 | Crear estilos CSS | Crear estilos CSS para la sección | 0.5 | Matias Aliaga | Done |
+| US-08 | Ver Información del Startup | T08-4 | Redactar contenido | Redactar contenido sobre la empresa y su historia | 0.5 | Matias Aliaga | Done |
+| US-09 | Conocer la Misión de la Startup | T09-1 | Diseñar presentación | Diseñar presentación visual de la misión | 0.5 | Matias Aliaga | Done |
+| US-09 | Conocer la Misión de la Startup | T09-2 | Implementar HTML | Implementar HTML para la sección de misión | 0.5 | Matias Aliaga | Done |
+| US-09 | Conocer la Misión de la Startup | T09-3 | Crear estilos CSS | Crear estilos CSS para destacar la misión | 0.5 | Matias Aliaga | Done |
+| US-09 | Conocer la Misión de la Startup | T09-4 | Redactar texto | Redactar texto claro y conciso sobre la misión | 0.5 | Matias Aliaga | Done |
+| US-10 | Conocer la Visión de la Startup | T10-1 | Diseñar presentación | Diseñar presentación visual de la visión | 0.5 | Matias Aliaga | Done |
+| US-10 | Conocer la Visión de la Startup | T10-2 | Implementar HTML | Implementar HTML para la sección de visión | 0.5 | Matias Aliaga | Done |
+| US-10 | Conocer la Visión de la Startup | T10-3 | Crear estilos CSS | Crear estilos CSS para destacar la visión | 0.5 | Matias Aliaga | Done |
+| US-10 | Conocer la Visión de la Startup | T10-4 | Redactar texto | Redactar texto claro y conciso sobre la visión | 0.5 | Matias Aliaga | Done |
+
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
-| ElectroLink - Open Source - 4341 | main | 01 | Landing Page | | 22/04/2025 |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| ElectroLink - Open Source - 4341 | main | 01 | Landing Page | - | 22/04/2025 |
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-| Epic / Story ID | Título | Criterios de Aceptación |
-|----------------|--------|--------------------------|
-| US-41 | Visualización de una Sección Principal | **Escenario:** Visualizar sección Hero al cargar la página<br>**Dado que** soy un visitante de la landing page<br>**Cuando** cargo la página por primera vez<br>**Entonces** debo ver una sección principal (Hero) con un título destacado<br>**Y** un subtítulo que explique brevemente el propósito del servicio<br>**Y** al menos una imagen representativa del producto<br>**Y** un botón de llamada a la acción visible<br><br>**Escenario:** Interactuar con el botón de llamada a la acción<br>**Dado que** estoy en la sección principal<br>**Cuando** hago clic en el botón de llamada a la acción<br>**Entonces** debo ser dirigido a la sección de registro o contacto |
-| US-38 | Visualización de Testimonios | **Escenario:** Visualizar testimonios de clientes<br>**Dado que** soy un visitante de la landing page<br>**Cuando** navego hasta la sección de testimonios<br>**Entonces** debo ver al menos 3 testimonios de clientes diferentes<br>**Y** cada testimonio debe mostrar el nombre del cliente<br>**Y** cada testimonio debe incluir una foto o avatar del cliente<br>**Y** cada testimonio debe incluir un comentario positivo sobre el servicio<br><br>**Escenario:** Navegar entre testimonios<br>**Dado que** estoy en la sección de testimonios<br>**Cuando** hay más de 3 testimonios disponibles<br>**Entonces** debo poder navegar entre ellos usando botones o indicadores |
-| US-40 | Adaptabilidad a Diferentes Dispositivos | **Escenario:** Visualizar en dispositivo móvil<br>**Dado que** soy un usuario con un smartphone<br>**Cuando** accedo a la landing page<br>**Entonces** todos los elementos deben reorganizarse para ajustarse a mi pantalla<br>**Y** debo poder ver todo el contenido sin desplazamiento horizontal<br>**Y** todos los botones deben ser lo suficientemente grandes para interactuar con ellos<br><br>**Escenario:** Visualizar en tablet<br>**Dado que** soy un usuario con una tablet<br>**Cuando** accedo a la landing page<br>**Entonces** el contenido debe adaptarse al tamaño de mi pantalla<br>**Y** la experiencia de navegación debe ser intuitiva<br><br>**Escenario:** Visualizar en ordenador de escritorio<br>**Dado que** soy un usuario con un ordenador<br>**Cuando** accedo a la landing page<br>**Entonces** debo ver una versión optimizada para pantallas grandes<br>**Y** el contenido debe estar organizado de manera que aproveche el espacio disponible |
-| US-42 | Visualización de Características y Beneficios | **Escenario:** Ver sección de características<br>**Dado que** soy un visitante interesado en el servicio<br>**Cuando** navego hasta la sección de características y beneficios<br>**Entonces** debo ver al menos 3 características principales del producto<br>**Y** cada característica debe tener un título descriptivo<br>**Y** cada característica debe tener una descripción breve<br>**Y** cada característica debe tener un icono o imagen representativa<br><br>**Escenario:** Ver sección de beneficios<br>**Dado que** estoy en la sección de características y beneficios<br>**Cuando** observo la información sobre beneficios<br>**Entonces** debo entender claramente el valor que aporta el servicio<br>**Y** los beneficios deben estar diferenciados visualmente de las características |
-| US-43 | Navegación sin errores | **Escenario:** Navegar entre secciones<br>**Dado que** soy un visitante de la landing page<br>**Cuando** hago clic en cualquier enlace de navegación<br>**Entonces** debo ser dirigido a la sección correspondiente sin errores<br>**Y** la transición debe ser suave<br><br>**Escenario:** Cargar la página completa<br>**Dado que** soy un nuevo visitante<br>**Cuando** accedo a la URL de la landing page<br>**Entonces** la página debe cargarse completamente en menos de 3 segundos<br>**Y** no debe mostrar mensajes de error<br>**Y** todos los elementos visuales deben cargarse correctamente |
-| US-44 | Navegación mediante Encabezado | **Escenario:** Visualizar encabezado en todas las secciones<br>**Dado que** soy un visitante navegando por la landing page<br>**Cuando** me desplazo por las diferentes secciones<br>**Entonces** el encabezado debe permanecer visible (fijo o flotante)<br>**Y** debe contener el logo de la empresa<br><br>**Escenario:** Usar menú de navegación<br>**Dado que** estoy en cualquier sección de la landing page<br>**Cuando** hago clic en una opción del menú de navegación en el encabezado<br>**Entonces** debo ser dirigido a la sección correspondiente<br>**Y** debe haber alguna indicación visual de la sección activa en el menú |
-| US-45 | Visualización del Pie de página | **Escenario:** Ver información de contacto<br>**Dado que** soy un visitante de la landing page<br>**Cuando** navego hasta el pie de página<br>**Entonces** debo ver información de contacto que incluya email y/o teléfono<br>**Y** debe haber enlaces a redes sociales con iconos reconocibles<br><br>**Escenario:** Acceder a secciones desde el pie de página<br>**Dado que** estoy en el pie de página<br>**Cuando** hago clic en un enlace a una sección de la página<br>**Entonces** debo ser dirigido a esa sección correctamente<br><br>**Escenario:** Ver información legal<br>**Dado que** estoy en el pie de página<br>**Cuando** busco información legal<br>**Entonces** debo ver al menos un aviso de copyright<br>**Y** enlaces a políticas de privacidad y términos de servicio |
-| US-46 | Ver Información del Startup | **Escenario:** Acceder a la sección "Sobre nosotros"<br>**Dado que** soy un visitante interesado en conocer más sobre la empresa<br>**Cuando** navego hasta la sección de información del startup<br>**Entonces** debo ver una descripción breve de la historia o propósito de la empresa<br>**Y** debo ver información sobre el equipo fundador o principales miembros<br><br>**Escenario:** Ver detalles del equipo<br>**Dado que** estoy en la sección de información del startup<br>**Cuando** reviso la información del equipo<br>**Entonces** debo ver los nombres y roles de los miembros clave<br>**Y** posiblemente fotos o avatares de los miembros |
-| US-47 | Conocer la Misión de la Startup | **Escenario:** Visualizar la misión<br>**Dado que** soy un visitante interesado en los valores de la empresa<br>**Cuando** accedo a la sección de misión<br>**Entonces** debo ver una declaración clara y concisa de la misión de la startup<br>**Y** la misión debe comunicar el propósito fundamental de la empresa<br>**Y** debe ser fácilmente identificable visualmente<br><br>**Escenario:** Entender el impacto de la misión<br>**Dado que** estoy leyendo la misión de la startup<br>**Cuando** termino de leerla<br>**Entonces** debo comprender claramente qué problema busca resolver la empresa<br>**Y** cómo busca hacerlo |
-| US-48 | Conocer la Visión de la Startup | **Escenario:** Visualizar la visión<br>**Dado que** soy un visitante interesado en el futuro de la empresa<br>**Cuando** accedo a la sección de visión<br>**Entonces** debo ver una declaración clara y concisa de la visión a largo plazo<br>**Y** la visión debe comunicar las aspiraciones futuras de la empresa<br>**Y** debe estar cerca o relacionada visualmente con la sección de misión<br><br>**Escenario:** Entender los objetivos a largo plazo<br>**Dado que** estoy leyendo la visión de la startup<br>**Cuando** termino de leerla<br>**Entonces** debo comprender hacia dónde se dirige la empresa en el futuro<br>**Y** qué impacto busca tener en su industria o en la sociedad |
-| US-49 | Formulario de Registro | **Escenario:** Acceder al formulario de registro<br>**Dado que** soy un visitante decidido a registrarme<br>**Cuando** hago clic en el botón o enlace de registro<br>**Entonces** debo ver un formulario con campos para ingresar mis datos<br>**Y** los campos obligatorios deben estar claramente marcados<br><br>**Escenario:** Completar formulario con datos válidos<br>**Dado que** estoy en el formulario de registro<br>**Cuando** ingreso datos válidos en todos los campos requeridos<br>**Y** presiono el botón de enviar o registrar<br>**Entonces** debo recibir una confirmación de registro exitoso<br>**Y** debo ser redirigido a la siguiente etapa del proceso<br><br>**Escenario:** Validación de datos erróneos<br>**Dado que** estoy completando el formulario de registro<br>**Cuando** ingreso un dato en formato incorrecto (ej. email inválido)<br>**Entonces** debo ver un mensaje de error específico junto al campo correspondiente<br>**Y** el formulario no debe enviarse hasta que corrija el error<br><br>**Escenario:** Completar registro como diferentes tipos de usuario<br>**Dado que** estoy en el formulario de registro<br>**Cuando** selecciono mi tipo de usuario (Dueño de Hogar/Empresa/Proveedor)<br>**Entonces** debo ver campos adicionales relevantes para mi tipo de perfil |
+
+En esta sección se muestra el resultado de las pruebas de aceptación.
+
+
+| Epic / Story ID | Título | Criterios de Aceptación | Resultado |
+|----------------|--------|--------------------------|-----------|
+| US-01 | Visualización de Características y Beneficios | **Escenario #1: Visualización de beneficios para propietarios**<br>Given que un propietario potencial se encuentra visitando la landing page<br>When se desplaza hasta la sección "Resolvemos problemas reales"<br>Then debe ver claramente los beneficios específicos para propietarios<br>And cada beneficio debe tener un ícono representativo<br>And una descripción breve y clara<br>And los beneficios deben ser visibles sin necesidad de hacer clic en ningún elemento. | Pasado |
+| US-01 | Visualización de Características y Beneficios | **Escenario #2: Visualización de características principales**<br>Given que un visitante se encuentra en la landing page<br>When se desplaza hasta la sección "Características principales"<br>Then debe ver al menos 6 características destacadas de la plataforma<br>And cada característica debe tener un título descriptivo<br>And una explicación concisa de su funcionamiento<br>And un ícono visual que represente la característica. | Pasado |
+| US-01 | Visualización de Características y Beneficios | **Escenario #3: Comparativa para proveedores y clientes**<br>Given que un visitante indeciso se encuentra en la landing page<br>When navega a la sección "¿Qué ofrecemos?"<br>Then debe ver una clara comparativa de beneficios por tipo de usuario<br>And puede identificar fácilmente qué le ofrece la plataforma según su rol<br>And visualiza casos de uso relevantes para su situación. | Pasado |
+| US-02 | Visualización de Testimonios | **Escenario #1:** Visualización de testimonios diversos<br>- Sección "Lo que dicen nuestros usuarios"<br>- Al menos 3 testimonios diferentes<br>- Información completa (nombre, tipo, calificación, comentario)<br>- Testimonios de propietarios y proveedores<br>- Calificaciones visualmente claras | Pasado |
+| US-02 | Visualización de Testimonios | **Escenario #2:** Navegación entre testimonios en móviles<br>- Deslizamiento horizontal funcional<br>- Indicadores de paginación<br>- Indicador de testimonio actual | Pasado |
+| US-02 | Visualización de Testimonios | **Escenario #3:** Visualización de casos de éxito<br>- Sección "Casos de éxito" visible<br>- Ejemplos concretos (problema, solución, resultados)<br>- Situaciones identificables | Pasado |
+| US-03 | Adaptabilidad a Diferentes Dispositivos | **Escenario #1: Visualización en dispositivo móvil**<br>Given que un visitante se encuentra usando un smartphone<br>When accede a la landing page<br>Then todos los elementos deben reorganizarse para adaptarse a la pantalla pequeña<br>And no debe haber desplazamiento horizontal<br>And todos los textos deben ser legibles sin necesidad de zoom<br>And los botones deben tener un tamaño adecuado para interacción táctil. | Pasado |
+| US-03 | Adaptabilidad a Diferentes Dispositivos | **Escenario #2: Visualización en tablet**<br>Given que un visitante se encuentra usando una tablet<br>When accede a la landing page<br>Then el diseño debe adaptarse al tamaño intermedio de pantalla<br>And aprovechar el espacio adicional comparado con un móvil<br>And mantener una experiencia de navegación fluida y atractiva. | Pasado |
+| US-04 | Visualización de una Sección Principal | **Escenario #1: Visualización del hero banner en desktop**<br>Given que un visitante accede a la landing page desde un ordenador<br>When la página termina de cargar<br>Then debe ver una sección principal (hero) en la parte superior<br>And esta sección debe contener un título llamativo que explique el propósito de la plataforma<br>And debe incluir un subtítulo que resuma el valor principal del servicio<br>And debe mostrar al menos una imagen o ilustración relevante al servicio<br>And debe incluir un botón de llamada a la acción principal. | Pasado |
+| US-04 | Visualización de una Sección Principal | **Escenario #2: Visualización del hero banner en móvil**<br>Given que un visitante accede a la landing page desde un dispositivo móvil<br>When la página termina de cargar<br>Then debe ver una sección principal adaptada al tamaño de la pantalla<br>And todos los elementos deben ser visibles sin necesidad de desplazamiento horizontal<br>And la imagen debe redimensionarse correctamente para no ocupar demasiado espacio vertical<br>And el botón de llamada a la acción debe ser claramente visible. | Pasado |
+| US-05 | Navegación sin errores | **Escenario #1: Carga completa de la página**<br>Given que un visitante accede a la landing page<br>When la página se carga completamente<br>Then todos los elementos visuales deben mostrarse correctamente<br>And no deben aparecer errores en la consola del navegador<br>And no deben existir enlaces rotos o imágenes que no se cargan. | Pasado |
+| US-05 | Navegación sin errores | **Escenario #2: Navegación entre secciones**<br>Given que un visitante utiliza los enlaces de navegación<br>When hace clic en un enlace para ir a una sección específica<br>Then la página debe desplazarse suavemente hasta esa sección<br>And el desplazamiento debe completarse en menos de 1 segundo<br>And la sección de destino debe quedar correctamente posicionada en la ventana. | Pasado |
+| US-06 | Navegación mediante Encabezado | **Escenario #1: Visualización del encabezado en desktop**<br>Given que un visitante accede a la landing page<br>When observa la parte superior de la página<br>Then debe ver un encabezado con el logo de la empresa<br>And debe contener enlaces de navegación a las principales secciones de la página<br>And estos enlaces deben tener nombres descriptivos y claros<br>And el encabezado debe permanecer visible o fijo mientras se desplaza por la página. | Pasado |
+| US-06 | Navegación mediante Encabezado | **Escenario #2: Menú hamburguesa en dispositivos móviles**<br>Given que un visitante accede desde un dispositivo móvil<br>When la página se carga<br>Then debe ver un menú hamburguesa en lugar del menú de navegación completo<br>And al hacer clic en el icono de hamburguesa, se debe desplegar el menú<br>And todos los enlaces deben ser accesibles y funcionales dentro del menú desplegable<br>And el menú debe cerrarse al hacer clic fuera de él o en un botón de cierre. | Pasado |
+| US-07 | Visualización del Pie de página | **Escenario #1: Contenido completo del pie de página**<br>Given que un visitante se desplaza hasta el final de la landing page<br>When llega al pie de página<br>Then debe ver una sección organizada con los siguientes elementos:<br>And enlaces a páginas importantes (Términos y condiciones, Política de privacidad)<br>And información de contacto (correo electrónico, teléfono)<br>And enlaces a redes sociales con iconos reconocibles<br>And un formulario breve de suscripción o contacto (opcional)<br>And el copyright y año actual. | Pasado |
+| US-07 | Visualización del Pie de página | **Escenario #2: Funcionamiento de los enlaces**<br>Given que un visitante está en el pie de página<br>When hace clic en cualquiera de los enlaces<br>Then debe ser dirigido a la página correspondiente<br>And los enlaces a redes sociales deben abrirse en una nueva pestaña<br>And no debe haber enlaces rotos o no funcionales. | Pasado |
+| US-08 | Ver Información del Startup | **Escenario #1: Sección "Sobre nosotros"**<br>Given que un visitante navega por la landing page<br>When se desplaza hasta la sección "Sobre nosotros" o equivalente<br>Then debe encontrar información clara sobre la empresa<br>And debe mostrar el equipo fundador o principales responsables<br>And la información debe transmitir profesionalidad y generar confianza. | Pasado |
+| US-08 | Ver Información del Startup | **Escenario #2: Acceso directo a información corporativa**<br>Given que un visitante está interesado en conocer más sobre la empresa<br>When busca en el menú de navegación o en el pie de página<br>Then debe encontrar fácilmente un enlace directo a la sección de información corporativa<br>And al hacer clic, debe llevarlo directamente a esa sección. | Pasado |
+| US-09 | Conocer la Misión de la Startup | **Escenario #1: Visibilidad de la declaración de misión**<br>Given que un visitante navega por la sección "Sobre nosotros"<br>When busca información sobre los propósitos de la empresa<br>Then debe encontrar claramente destacada la declaración de misión<br>And esta debe estar redactada de forma concisa y comprensible<br>And debe comunicar efectivamente el propósito principal de la startup<br>And debe estar visualmente destacada del resto del contenido. | Pasado |
+| US-09 | Conocer la Misión de la Startup | **Escenario #2: Alineación con los valores**<br>Given que un visitante lee la misión de la empresa<br>When continúa explorando la sección<br>Then debe encontrar información sobre los valores corporativos que sustentan la misión<br>And estos valores deben estar claramente conectados con la declaración de misión<br>And deben presentarse de manera que refuercen la credibilidad de la empresa. | Pasado |
+| US-10 | Conocer la Visión de la Startup | **Escenario #1: Visibilidad de la declaración de visión**<br>Given que un visitante navega por la sección "Sobre nosotros"<br>When busca información sobre las metas futuras de la empresa<br>Then debe encontrar claramente destacada la declaración de visión<br>And esta debe estar redactada de forma inspiradora y orientada al futuro<br>And debe comunicar efectivamente hacia dónde se dirige la startup a largo plazo<br>And debe estar visualmente diferenciada de la misión. | Pasado | Screenshot_US10_E1.png | Diseño moderno con elementos gráficos de futuro |
+| US-10 | Conocer la Visión de la Startup | **Escenario #2: Objetivos estratégicos**<br>Given que un visitante lee la visión de la empresa<br>When continúa explorando la sección<br>Then debe encontrar información sobre algunos objetivos estratégicos o metas<br>And estos deben mostrar cómo la empresa planea hacer realidad su visión<br>And deben presentarse de manera estructurada y comprensible. | Pasado |
+
+
+
+
 <hr>
 
 <hr>
@@ -2080,6 +2158,8 @@ Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint
 
+Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page.
+
 ## Design
 
 Para realizar el diseño de los wireframes y mockups de la **Landing Page** para este Sprint, se hizo uso de la plataforma **Figma**.
@@ -2103,22 +2183,26 @@ Para la landing page, se utilizará Netlify para el despliegue de la página.
 <img  src="https://i.imgur.com/ivg9PgP.png"/>
 <img  src="https://i.imgur.com/fomzdmK.png"/>
 
+Tras definir el repositorio , conectamos este mismo con el servicio de netlify para realizar el despliegue.
+<img  src="https://i.imgur.com/9UcQNGz.jpeg"  />
+<img  src="https://i.imgur.com/WwoVauY.jpeg"  />
+<img  src="https://i.imgur.com/KjFrH4v.jpeg"  />
 
-Para nuestro proyecto se crearon **1 repositorio**, el cuál fue:
 
-- **ElectroLink**: Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
+Para nuestro proyecto se crearon **2 repositorios**, el cuál fue:
+
+- **ElectroLink** | https://github.com/HampCoders/Landing-Page: Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page. :
+- **Documentación** | https://github.com/Open-Source-4341/ElectroLink/ : Este repositorio contiene el informe de nuestro proyecto.
+
+
 
 <hr>
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se muestran las capturas de los insights del repositorio.
-<img  src="https://media.discordapp.net/attachments/458373275064467476/1364689402156290300/image.png?ex=680a958c&is=6809440c&hm=a9b2ac57a488a5528ee560bf4a33e2f394e4619e10b2e5995ed7e6c1334b1b8f&=&format=webp&quality=lossless"  />
+<img  src="https://imgur.com/hioVjak.jpeg"/>
 
 En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el encargado de su diseño y despliegue. Pudiendo evidenciar en estas capturas, su partipación activa durante el desarrollo.
-
-<img  src="https://i.imgur.com/KjFrH4v.jpeg"  />
-<img  src="https://i.imgur.com/9UcQNGz.jpeg"  />
-<img  src="https://i.imgur.com/WwoVauY.jpeg"  />
 
 <hr>
 
