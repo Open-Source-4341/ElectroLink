@@ -2234,6 +2234,8 @@ Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded 
 
 Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa Frontend de la aplicación, estableciendo las bases visuales y funcionales que interactúan directamente con los usuarios. Se priorizó la implementación de componentes clave asociados a cada uno de los bounded contexts asignados individualmente a los integrantes, lo cual permitió una distribución clara de responsabilidades y un avance paralelo de las funcionalidades. Cada miembro del equipo asumió el liderazgo en el desarrollo de un conjunto específico de componentes, asegurando coherencia y continuidad en cada dominio funcional.
 
+Además, como parte del compromiso con la experiencia del usuario, se implementó una nueva versión de la Landing Page, con un enfoque visual renovado. Esta incluye imágenes representativas de los servicios ofrecidos, buscando captar la atención desde el primer contacto y comunicar de manera más efectiva la propuesta de valor de la plataforma. Esta mejora visual no solo fortalece la identidad de marca, sino que también establece una conexión más directa con las necesidades de los usuarios.
+
 Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en Trello](https://trello.com/b/iKXzrJ60/electrolink-aplicaciones-web)
 
 <img  src="https://i.postimg.cc/J0tYs39W/trytrytryr.png"/>
@@ -2378,7 +2380,7 @@ En el segundo sprint identificamos 20 endpoints provenientes de 5 controladores 
 
 
 
-##### 5.2.2.7. Software Deployment Evidence for Sprint Revie 
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
