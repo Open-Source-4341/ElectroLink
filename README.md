@@ -2290,6 +2290,24 @@ Durante el Sprint se avanzó en la implementación de los siguientes productos: 
 | user/repositoryname   | feature/loremipsum   | 14ca4e3   | feat: consectetur adipiscing elit | Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentum velit rutrum ut. | 04/09/2021          |
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review. 
+
+Durante este Sprint, el equipo logró implementar exitosamente las principales vistas del frontend de la aplicación ElectroLink, priorizando una experiencia de usuario fluida, intuitiva y visualmente coherente con el diseño propuesto. Se completó la estructura de navegación entre módulos clave, así como la visualización de datos simulados y el despliegue de componentes funcionales para cada uno de los bounded contexts asignados.
+
+El enfoque colaborativo permitió que cada integrante trabajara de forma autónoma y coordinada en su respectivo contexto funcional, asegurando así una integración efectiva de los distintos componentes en la interfaz final. Como evidencia del progreso, a continuación se presentan capturas de pantalla de las vistas más representativas desarrolladas durante este Sprint, 
+
+<img  src="https://i.imgur.com/7PeSCNZ.png"/>
+<img  src="https://i.imgur.com/ZOES2dC.png"/>
+<img  src="https://i.imgur.com/svmtfRX.png"/>
+
+<img  src="https://i.imgur.com/rlAqZAP.png"/>
+<img  src="https://i.imgur.com/D66T8Me.png"/>
+
+<img  src="https://i.imgur.com/G9aLEWM.png"/>
+
+<img  src="https://i.imgur.com/aeGr03Y.png"/>
+<img  src="https://i.imgur.com/Aq8X6Jb.png"/>
+
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Revie 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint. 
