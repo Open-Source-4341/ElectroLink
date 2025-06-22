@@ -2440,15 +2440,465 @@ Durante este sprint, la asignación de responsabilidades técnicas se mantuvo po
 | Del Aguila Ayala, Ricardo               | Rexest01            |                                           |                                                   | L                       | C                        |
 
 ##### 5.2.3.3. Sprint Backlog 3. 
-##### 5.2.3.4. Development Evidence for Sprint Review. 
-##### 5.2.3.5. Execution Evidence for Sprint Review. 
+
+Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información.
+
+Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en Trello](https://trello.com/b/pPESu5NU/sprint-backlog-3)
+
+<img  src="https://i.postimg.cc/J0tYs39W/trytrytryr.png"/>
+
+
+| Sprint # | Sprint 3 | | | | | | |
+|----------|----------|---|---|---|---|---|---|
+| **User Story** | | **Work-Item/task** | | | | | |
+| **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
+| **TS-13** | Conectar a Base de Datos | T001 | Configurar conexión PostgreSQL | Configurar pool de conexiones, variables de entorno y migración inicial | 4 | Ricardo  | Done |
+| | | T002 | Implementar modelos de datos principales | Crear entidades: User, Property, Component, Service, Technician | 6 |Ricardo |Done |
+| | | T003 | Configurar repositorios y DAOs | Implementar patrones de acceso a datos con transacciones | 4 |Ricardo |Done |
+| | | T004 | Setup de testing con BD | Configurar base de datos de testing y fixtures | 2 |Ricardo | Done|
+| **US-31** | Crear Componente Eléctrico | T001 | Backend: API crear componente | Endpoint POST /components con validaciones y persistencia | 3 | Ethan | Done|
+| | | T002 | Frontend: Formulario componente | Componente React con validación de formularios | 4 |Ethan | Done |
+| | | T003 | Frontend: Integración API | Conectar formulario con endpoint, manejo de errores | 2 | Ethan| Done|
+| **US-32** | Editar Componente Eléctrico | T001 | Backend: API editar componente | Endpoint PUT /components/:id con validaciones | 2 | Ethan| Done |
+| | | T002 | Frontend: Modal de edición | Componente modal con formulario prellenado | 3 |Ethan | Done |
+| | | T003 | Frontend: Actualización en tiempo real | Actualizar lista tras edición exitosa | 2 |Ethan| Done|
+| **US-33** | Eliminar Componente Eléctrico | T001 | Backend: API eliminar componente | Endpoint DELETE /components/:id con validaciones de dependencias | 2 | Ethan|Done |
+| | | T002 | Frontend: Confirmación de eliminación | Modal de confirmación con advertencias | 2 |Ethan | Done|
+| | | T003 | Frontend: Actualización de UI | Remover elemento de lista tras eliminación | 1 |Ethan | Done|
+| **US-34** | Registro de Propiedad (Propietario) | T001 | Backend: API crear propiedad | Endpoint POST /properties con validación de dirección | 4 |Ethan|Done |
+| | | T002 | Frontend: Formulario registro propiedad | Componente con campos de dirección y validación | 5 | Ethan| Done|
+| | | T003 | Frontend: Integración geolocalización | Integrar Google Maps API para validar dirección | 3 |Ethan |Done |
+| **US-35** | Edición de Información de Propiedad | T001 | Backend: API actualizar propiedad | Endpoint PUT /properties/:id con validaciones | 3 |Ethan |Done |
+| | | T002 | Frontend: Formulario de edición | Componente de edición con datos prellenados | 4 |Ethan |Done |
+| | | T003 | Frontend: Validación de cambios | Detectar cambios y confirmar actualización | 2 |Ethan | Done|
+| **US-36** | Eliminación de Propiedad | T001 | Backend: API eliminar propiedad | Endpoint DELETE /properties/:id con validación de servicios activos | 3 | Ethan| Done|
+| | | T002 | Frontend: Confirmación múltiple | Modal con advertencias sobre servicios asociados | 3 |Ethan |Done |
+| | | T003 | Frontend: Actualización de estado | Actualizar dashboard tras eliminación | 1 |Ethan |Done |
+| **US-37** | Registro de Inventario de Componentes | T001 | Backend: API inventario técnico | Endpoint POST /technicians/:id/inventory | 3 | Ethan| Done|
+| | | T002 | Frontend: Gestión de inventario | Interfaz para agregar componentes al inventario | 4 | Ethan| Done|
+| | | T003 | Frontend: Búsqueda de componentes | Funcionalidad de búsqueda y filtrado | 3 | Ethan| Done|
+| **US-38** | Actualización de Stock de Componentes | T001 | Backend: API actualizar stock | Endpoint PUT /inventory/:id/stock con validaciones | 2 |Ethan |Done |
+| | | T002 | Frontend: Interfaz actualización stock | Componente para modificar cantidades | 3 | Ethan| Done|
+| | | T003 | Frontend: Notificaciones de cambio | Mostrar confirmaciones y errores | 2 |Ethan |Done |
+| **US-39** | Configuración de Alertas de Stock Mínimo | T001 | Backend: Sistema de alertas | Lógica para detectar stock bajo y enviar notificaciones | 3 |Ethan | Done|
+| | | T002 | Frontend: Configuración de umbrales | Interfaz para establecer límites mínimos | 3 |Ethan | Done |
+| | | T003 | Frontend: Panel de alertas | Dashboard con alertas de stock activas | 2 |Ethan | Done |
+| **US-40** | Contratación de Servicios Eléctricos mediante Wizard | T001 | Backend: API wizard servicio | Endpoint para manejar flujo paso a paso | 4 | Ivo | Done |
+| | | T002 | Frontend: Componente wizard | Wizard multi-paso con navegación | 5 | Ivo | Done |
+| | | T003 | Frontend: Validación por pasos | Validar datos en cada paso del wizard | 3 | Ivo |Done |
+| **US-41** | Selección de Propiedad | T001 | Backend: API propiedades usuario | Endpoint GET /users/:id/properties | 2 |Ivo |Done |
+| | | T002 | Frontend: Selector de propiedades | Componente dropdown con propiedades del usuario | 3 |Ivo |Done |
+| | | T003 | Frontend: Vista previa propiedad | Mostrar detalles de propiedad seleccionada | 2 | Ivo| Done|
+| **US-42** | Carga Manual de Datos de Recibos Eléctricos (3-6 recibos) | T001 | Backend: Recibir los recibos electricos  | Implementar la logica de negocio para recibir los recibos electriclos | 2 | Ivo | Done|
+| | | T002 | FrontEnd: Input Field para ingregar data de recibos electricos | Desarrollar el campo para ingresar la data de los recibos electricos | 1 |Ivo | Done|
+| **US-43** | Descripción Detallada del Problema | T001 | Frontend: Editor de descripción | Componente de texto enriquecido con validación | 3 | Ivo| Done |
+| | | T002 | Backend: Sanitizar información | Sanitizar la información que es enviada en este campo | 2 |Ivo | Done|
+| **US-44** | Selección de Servicio del Catálogo | T001 | Backend: API catálogo servicios | Endpoint GET /services con filtros por zona | 3 |Ivo |Done |
+| | | T002 | Frontend: Catálogo de servicios | Interfaz de selección con precios y descripciones | 4 | Ivo|Done |
+| | | T003 | Frontend: Filtros de búsqueda | Filtros por categoría, precio y disponibilidad | 3 | Ivo| Done|
+| **US-45** | Cancelación de Servicios Programados | T001 | Backend: API cancelar servicio | Endpoint PUT /services/:id/cancel con lógica de reembolso | 3 |Ivo | Done|
+| | | T002 | Frontend: Botón de cancelación | Funcionalidad de cancelación con confirmación | 2 |Ivo | Done|
+| **US-46** | Notificación de Asignación de Técnico | T001 | Backend: Sistema de notificaciones | Servicio para enviar notificaciones push/email | 4 | Ivo|Done |
+| | | T00.2 | Frontend: Panel de notificaciones | Componente para mostrar notificaciones en tiempo real | 3 |Ivo |Done|
+| | | T003 | Frontend: Detalles de asignación | Vista con información del técnico asignado | 2 |Ivo | Done|
+| **US-47** | Historial de servicios contratados | T001 | Backend: API historial servicios | Endpoint GET /users/:id/services con paginación | 2 |Ivo |Done |
+| | | T002 | Frontend: Lista de servicios | Componente con historial paginado y filtros | 3 |Ivo | Done|
+| | | T003 | Frontend: Detalles de servicio | Modal con información completa del servicio | 2 | Ivo|Done |
+| **US-48** | Configurar Horarios de Trabajo Semanales | T001 | Backend: API horarios técnico | Endpoint POST /technicians/:id/schedule | 3 |Ivo |Done |
+| | | T002 | Frontend: Calendario de configuración | Interfaz de calendario para establecer horarios | 4 |Ivo | Done|
+| | | T003 | Frontend: Validación de horarios | Validar solapamientos y horarios válidos | 2 | Ivo|Done |
+| **US-49** | Modificar Horarios de Trabajo | T001 | Backend: API actualizar horarios | Endpoint PUT /technicians/:id/schedule | 2 |Ivo | Done|
+| | | T002 | Frontend: Edición de horarios | Interfaz para modificar horarios existentes | 3 |Ivo |Done |
+| | | T003 | Frontend: Confirmación de cambios | Validar impacto en servicios programados | 2 |Ivo |Done |
+| **US-50** | Bloquear Fechas y Horarios | T001 | Backend: API bloquear fechas | Endpoint POST /technicians/:id/blocked-dates | 2 | Ivo|Done |
+| | | T002 | Frontend: Selector de fechas bloqueadas | Componente calendario para seleccionar fechas | 3 |Ivo | Done|
+| | | T003 | Frontend: Gestión de bloqueos | Lista de fechas bloqueadas con opción de desbloquear | 2 | Ivo|Done |
+| **US-51** | Visualizar Agenda Asignada | T001 | Backend: API agenda técnico | Endpoint GET /technicians/:id/agenda | 3 |Ivo |Done |
+| | | T002 | Frontend: Vista de calendario | Componente calendario con servicios asignados | 4 | Ivo|Done |
+| | | T003 | Frontend: Detalles de citas | Modal con información completa de cada servicio | 2 |Ivo |Done |
+| **US-52** | Configurar Tiempo de Traslado | T001 | Backend: API tiempo traslado | Endpoint PUT /technicians/:id/travel-time | 2 |Ivo | Done|
+| | | T002 | Frontend: Configuración traslado | Interfaz para establecer tiempos de traslado por zona | 3 |Ivo | Done|
+| | | T003 | Frontend: Cálculo automático | Mostrar impacto en disponibilidad de horarios | 2 |Ivo |Done |
+| **US-53** | Crear Servicios con Recetas | T001 | Backend: API crear servicio | Endpoint POST /services con recetas de componentes | 5 |Ivo |Done |
+| | | T002 | Frontend: Constructor de recetas | Interfaz para definir componentes necesarios | 5 | Ivo|Done |
+| | | T003 | Frontend: Calculadora de costos | Calcular precio basado en componentes y tiempo | 3 |Ivo |Done|
+| **US-54** | Modificar Servicios / Recetas | T001 | Backend: API actualizar servicio | Endpoint PUT /services/:id con validación de cambios | 3 | Ivo|Done |
+| | | T002 | Frontend: Editor de servicios | Interfaz para modificar servicios existentes | 4 | Ivo| Done|
+| | | T003 | Frontend: Impacto de cambios | Mostrar servicios afectados por modificaciones | 2 | Ivo| Done|
+| **US-55** | Eliminar Servicios del Catálogo | T001 | Backend: API eliminar servicio | Endpoint DELETE /services/:id con validaciones | 2 |Ivo | Done|
+| | | T002 | Frontend: Confirmación eliminación | Modal con advertencia sobre servicios activos | 2 |Ivo | |
+| **US-56** | Establecer Precios por Servicio y Zona | T001 | Backend: API precios zonales | Endpoint POST /services/:id/zone-pricing | 3 | Ivo| Done|
+| | | T002 | Frontend: Configurador de precios | Interfaz para establecer precios por zona | 4 |Ivo |Done |
+| | | T003 | Frontend: Vista previa de precios | Mostrar matriz de precios por zona | 2 |Ivo |Done |
+| **US-29** | Configuración de Zona de Cobertura Geográfica | T001 | Backend: API zonas de cobertura | Endpoint POST /technicians/:id/coverage-zones | 3 |Ivo | Done|
+| | | T002 | Frontend: Mapa de cobertura | Integración con mapas para definir zonas | 4 |Ivo |Done |
+| | | T003 | Frontend: Gestión de zonas | Lista y edición de zonas de cobertura | 2 |Ivo | Done|
+| **US-57** | Beneficio de Solicitud Prioritaria | T001 | Backend: Lógica de priorización | Sistema para priorizar solicitudes premium | 3 | Ivo| Done|
+| | | T002 | Frontend: Indicador de prioridad | Mostrar beneficios de solicitud prioritaria | 2 | Ivo|Done |
+| | | T003 | Frontend: Cola de solicitudes | Vista diferenciada para solicitudes prioritarias | 2 | Ivo|Done |
+| **US-58** | Notificación de Límite de Solicitudes Alcanzado | T001 | Backend: Contador de solicitudes | Lógica para rastrear límite de solicitudes mensuales | 3 |Ivo |Done |
+| | | T002 | Frontend: Notificación de límite | Mostrar advertencia cuando se acerque al límite | 2 |Ivo |Done |
+| | | T003 | Frontend: Opción de upgrade | Botón para actualizar a plan premium | 2 |Ivo |Done |
+| **US-59** | Seguimiento de Estados en Tiempo Real | T001 | Backend: Endpoint GET /services/{id}/status | Desarrollar un endpoint simple que devuelva el estado actual de un servicio. Será utilizado por el frontend para consultas periódicas (polling). | 4 | Ricardo | Done|
+| | | T002 | Frontend: Componente de seguimiento | Interfaz con estados actualizados en tiempo real | 3 | Ricardo| Done|
+| | | T003 | Frontend: Notificaciones push | Sistema de notificaciones push para cambios | 2 |Ricardo |Done |
+| **US-60** | Registro Fotográfico Antes/Después | T001 | Backend: API subida de imágenes | Endpoint para subir y gestionar imágenes del servicio | 3 |Ricardo | Done|
+| | | T002 | Frontend: Cámara/galería | Componente para tomar fotos o seleccionar de galería | 4 | Ricardo| Done|
+| | | T003 | Frontend: Comparador de imágenes | Interfaz para mostrar antes/después lado a lado | 2 |Ricardo |Done |
+| **US-61** | Generación de Reportes Técnicos | T001 | Backend: Generador de reportes | Servicio para generar reportes PDF del servicio | 4 |Ricardo |Done |
+| | | T002 | Frontend: Formulario de reporte | Interfaz para completar información técnica | 3 |Ricardo | Done|
+| | | T003 | Frontend: Vista previa PDF | Mostrar preview del reporte antes de enviar | 2 | Ricardo|Done |
+| **US-62** | Actualización Automática de Inventario | T001 | Backend: Lógica de descuento automático | Sistema para descontar componentes tras servicio | 4 |Ricardo |Done |
+| | | T002 | Frontend: Notificación de cambios | Mostrar cambios en inventario tras servicio | 2 |Ricardo | Done|
+| | | T003 | Frontend: Log de movimientos | Historial de movimientos de inventario | 2 |Ricardo | Done|
+| **US-64** | Sistema de Calificación Post-Servicio | T001 | Backend: API de evaluaciones | Endpoint POST /services/:id/rating | 3 | Ricardo|Done |
+| | | T002 | Frontend: Formulario de calificación | Interfaz de rating con estrellas y comentarios | 3 | Ricardo|Done |
+| | | T003 | Frontend: Recordatorio de evaluación | Notificación para evaluar servicio completado | 2 |Ricardo |Done |
+| **US-65** | Visualizar Calificaciones y Reseñas | T001 | Backend: API obtener calificaciones | Endpoint GET /technicians/:id/ratings | 2 |Ricardo | Done|
+| | | T002 | Frontend: Perfil del técnico | Mostrar promedio y reseñas en perfil | 3 |Ricardo |Done |
+| | | T003 | Frontend: Filtros de reseñas | Filtrar reseñas por puntuación y fecha | 2 | Ricardo|Done|
+| **US-66** | Retroalimentación directa de servicios | T001 | Backend: API de feedback | Endpoint POST /services/:id/feedback | 2 | Ricardo| Done|
+| | | T002 | Frontend: Formulario de feedback | Interfaz para enviar comentarios adicionales | 3 | Ricardo|Done |
+| **TS-01** | Registrar Propiedad (Endpoint) | T001 | Implementar endpoint POST /properties | Crear endpoint con validaciones de negocio | 4 |Italo | Done|
+| **TS-02** | Obtener Propiedades por Propietario | T001 | Implementar endpoint GET /users/:id/properties | Endpoint con filtros y paginación | 3 |Italo | Done|
+| **TS-03** | Crear Componente (Endpoint) | T001 | Implementar endpoint POST /components | Crear componente con validaciones | 4 |Italo |Done |
+| | | T002 | Validaciones de negocio componentes | Validar unicidad, formato y reglas de negocio | 2 |Italo |Done |
+| **TS-04** | Actualizar Stock de Componente | T001 | Implementar endpoint PUT /inventory/:id/stock | Actualizar stock con control de concurrencia | 3 |Italo |Done |
+| **TS-05** | Crear Servicio de Técnico | T001 | Implementar endpoint POST /services | Crear servicio con recetas de componentes | 4 |Italo | Done|
+| | | T002 | Validación de recetas | Validar componentes disponibles y precios | 2 | Italo|Done |
+| **TS-06** | Obtener Servicios por Zona | T001 | Implementar endpoint GET /services | Filtrar servicios por zona geográfica | 4 |Italo |Done |
+| | | T002 | Optimización de consultas geográficas | Índices y optimizaciones para búsqueda por zona | 2 |Italo |Done|
+| **TS-07** | Iniciar Flujo de Solicitud | T001 | Implementar endpoint POST /service-requests | Crear solicitud con validaciones | 5 |Italo | Done|
+| | | T002 | Lógica de validación de disponibilidad | Verificar disponibilidad de técnicos y componentes | 4 |Italo |Done |
+| **TS-08** | Enviar Solicitud de Servicio | T001 | Implementar endpoint PUT /service-requests/:id/submit | Confirmar y enviar solicitud | 3 |Italo | Done|
+| | | T002 | Integración con sistema de notificaciones | Notificar a técnicos disponibles | 3 |Italo | Done|
+| **TS-09** | Asignar Técnico Automáticamente | T001 | Algoritmo de asignación automática | Lógica para asignar técnico óptimo | 6 | Italo| Done|
+| | | T002 | Factores de asignación | Considerar distancia, disponibilidad, rating | 3 |Italo|Done|
+| **TS-10** | Actualización Automática de Stock | T001 | Servicio de actualización automática | Descontar stock tras completar servicio | 4 |Italo Done|
+| | | T002 | Manejo de stock insuficiente | Lógica para manejar falta de componentes | 2 |Italo |Done |
+| **TS-11** | Enviar Evaluación de Servicio | T001 | Implementar endpoint POST /evaluations | Guardar evaluación con validaciones | 3 |Italo | Done|
+| | | T002 | Actualización de rating del técnico | Recalcular promedio de calificaciones | 3 |Italo |Done |
+| **TS-12** | Obtener Evaluaciones por Técnico | T001 | Implementar endpoint GET /technicians/:id/evaluations | Obtener evaluaciones con paginación | 3 |Italo | Done|
+| **TS-14** | Listener Webhook de Stripe | T001 | Implementar webhook handler | Procesar eventos de Stripe de forma segura | 5 | Italo|Done |
+| | | T002 | Manejo de eventos de suscripción | Procesar creación, actualización y cancelación | 4 |Italo |Done |
+| **TS-15** | Reinicio Mensual de Contador | T001 | Job de reinicio mensual | Cron job para resetear contadores de solicitudes | 3 |Italo |Done |
+| **TS-16** | Sesión de Portal de Stripe | T001 | Implementar endpoint portal Stripe | Crear sesión para gestionar suscripción | 4 |Italo |Done |
+| | | T002 | Configuración de portal | Configurar opciones disponibles en portal | 2 | Italo|Done |
+
+<hr>
+#### 5.2.3.4.Development Evidence for Sprint Review.
+
+| Repository                                | Branch | Commit ID | Commit Message                                 | Commit Message Body                                         | Committed on  |
+|-------------------------------------------|--------|-----------|-----------------------------------------------|-------------------------------------------------------------|---------------|
+| HampCoders/Electrolink-Backend | HEAD -> main, origin/main, origin/HEAD | ff88fe7 | Merge pull request #6 from HampCoders/feature/ServiceDesignAndPlanning-bc | Implementing ServiceDesignAndPlanning Bounded Context | Sat Jun 21 17:37:59 2025 -0500 |
+| HampCoders/Electrolink-Backend | origin/feature/ServiceDesignAndPlanning-bc | ef68b22 | Implementing ServiceDesignAndPlanning Bounded Context |  | Sat Jun 21 17:37:07 2025 -0500 |
+| HampCoders/Electrolink-Backend |  | 0defeab | Merge pull request #4 from HampCoders/feature/ServiceOperations-BC | SOM Backend Implementation | Sat Jun 21 17:02:13 2025 -0500 |
+| HampCoders/Electrolink-Backend | origin/feature/ServiceOperations-BC | 4b88ae2 | Implementación inicial de ServiceOperations bounded context |  | Sat Jun 21 17:01:27 2025 -0500 |
+| HampCoders/Electrolink-Backend | origin/feature/Analytics-bounded-context | 3400e28 | feature: Add Analitics Bounded Context |  | Sat Jun 21 03:05:22 2025 -0500 |
+| HampCoders/Electrolink-Backend |  | 450356b | Merge pull request #3 from HampCoders/feature/Analytics-bounded-context | Merge pull request #2 from HampCoders/main | Sat Jun 21 02:07:40 2025 -0500 |
+| HampCoders/Electrolink-Backend |  | 6ba24ae | Merge pull request #2 from HampCoders/main | Merge main to feature Analitycs | Sat Jun 21 02:06:01 2025 -0500 |
+| HampCoders/Electrolink-Backend |  | 2a7ae64 | Merge branch 'develop' |  | Thu Jun 19 13:12:44 2025 -0500 |
+:
+| HampCoders/Electrolink-Backend | HEAD -> main, origin/main, origin/HEAD | ff88fe7 | Merge pull request #6 from HampCoders/feature/ServiceDesignAndPlanning-bc | Implementing ServiceDesignAndPlanning Bounded Context | Sat Jun 21 17:37:59 2025 -0500 |
+| HampCoders/Electrolink-Backend | origin/feature/ServiceDesignAndPlanning-bc | ef68b22 | Implementing ServiceDesignAndPlanning Bounded Context |  | Sat Jun 21 17:37:07 2025 -0500 |
+| HampCoders/Electrolink-Backend |  | 0defeab | Merge pull request #4 from HampCoders/feature/ServiceOperations-BC | SOM Backend Implementation | Sat Jun 21 17:02:13 2025 -0500 |
+| HampCoders/Electrolink-Backend | origin/feature/ServiceOperations-BC | 4b88ae2 | Implementación inicial de ServiceOperations bounded context |  | Sat Jun 21 17:01:27 2025 -0500 |
+| HampCoders/Electrolink-Backend | origin/feature/Analytics-bounded-context | 3400e28 | feature: Add Analitics Bounded Context |  | Sat Jun 21 03:05:22 2025 -0500 |
+| HampCoders/Electrolink-Backend |  | 450356b | Merge pull request #3 from HampCoders/feature/Analytics-bounded-context | Merge pull request #2 from HampCoders/main | Sat Jun 21 02:07:40 2025 -0500 |
+| HampCoders/Electrolink-Backend |  | 6ba24ae | Merge pull request #2 from HampCoders/main | Merge main to feature Analitycs | Sat Jun 21 02:06:01 2025 -0500 |
+| HampCoders/Electrolink-Backend |  | 2a7ae64 | Merge branch 'develop' |  | Thu Jun 19 13:12:44 2025 -0500 |
+<hr>
+
+<hr>
+##### 5.2.3.5.Execution Evidence for Sprint Review.
+
+<img  src="https://i.imgur.com/Xwg2jcV.png"/>
+
+<img  src="https://i.imgur.com/QA0k4b0.png"/>
+
+<img  src="https://i.imgur.com/5po1hr0.png"/>
+
+<img  src="https://i.imgur.com/R0O1iDK.png"/>
+
+<img  src="https://i.imgur.com/e4CJSPS.png"/>
+
+<img  src="https://i.imgur.com/pX8TsuU.png"/>
+ 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/catalog/types` | Crear tipo de componente |
+| **GET** | `/api/v1/catalog/types` | Obtener todos los tipos de componentes |
+| **GET** | `/api/v1/catalog/types/{typeId}` | Obtener tipo de componente por ID |
+| **PUT** | `/api/v1/catalog/types/{typeId}` | Actualizar tipo de componente por ID |
+| **DELETE** | `/api/v1/catalog/types/{typeId}` | Eliminar tipo de componente por ID |
+| **POST** | `/api/v1/catalog/components` | Crear componente |
+| **GET** | `/api/v1/catalog/components` | Obtener todos los componentes |
+| **PUT** | `/api/v1/catalog/components/{componentId}` | Actualizar componente por ID |
+| **DELETE** | `/api/v1/catalog/components/{componentId}` | Eliminar componente por ID |
+
+---
+
+### Technician Inventory
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/technicians/{technicianId}/inventory` | Crear inventario de técnico |
+| **GET** | `/api/v1/technicians/{technicianId}/inventory` | Obtener inventario de técnico |
+| **POST** | `/api/v1/technicians/{technicianId}/inventory/stock-items` | Agregar ítem al stock |
+| **PUT** | `/api/v1/technicians/{technicianId}/inventory/{componentId}` | Actualizar componente del inventario |
+| **DELETE** | `/api/v1/technicians/{technicianId}/inventory/{componentId}` | Eliminar componente del inventario |
+
+---
+
+### Properties
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/owners/{ownerId}/properties` | Obtener propiedades de un propietario |
+| **POST** | `/api/v1/owners/{ownerId}/properties` | Crear propiedad |
+| **GET** | `/api/v1/owners/{ownerId}/properties/{propertyId}` | Obtener propiedad por ID |
+| **PUT** | `/api/v1/owners/{ownerId}/properties/{propertyId}` | Actualizar propiedad |
+| **PUT** | `/api/v1/owners/{ownerId}/properties/{propertyId}/photo` | Actualizar foto |
+| **PUT** | `/api/v1/owners/{ownerId}/properties/{propertyId}/address` | Actualizar dirección |
+| **DELETE** | `/api/v1/owners/{ownerId}/properties/{propertyId}` | Eliminar propiedad |
+
+---
+
+### Technicians
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/technicians/{technicianId}` | Obtener técnico por ID |
+| **POST** | `/api/v1/technicians` | Crear técnico |
+| **GET** | `/api/v1/technicians` | Obtener todas las categorías |
+| **GET** | `/api/v1/technicians/{technicianId}/works` | Obtener trabajos por técnico |
+
+---
+
+### Works
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/works/{workId}` | Obtener trabajo por ID |
+| **POST** | `/api/v1/works` | Crear nuevo trabajo |
+| **GET** | `/api/v1/works` | Obtener todos los trabajos |
+| **POST** | `/api/v1/works/{workId}/image` | Agregar imagen a un trabajo |
+
+---
+
+### Ratings
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/ratings/{id}/rating` | Crear calificación |
+| **GET** | `/api/v1/ratings/{id}/rating` | Obtener calificación por ID |
+| **GET** | `/api/v1/ratings/technician/{technicianId}/ratings` | Obtener calificaciones por técnico |
+| **DELETE** | `/api/v1/ratings/{id}` | Eliminar calificación |
+| **PUT** | `/api/v1/ratings/{id}` | Actualizar calificación |
+| **GET** | `/api/v1/ratings` | Obtener todas las calificaciones |
+
+---
+
+### Reports
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/reports/{id}/report` | Crear reporte |
+| **GET** | `/api/v1/reports/{id}` | Obtener reporte por ID |
+| **DELETE** | `/api/v1/reports/{id}` | Eliminar reporte |
+| **POST** | `/api/v1/reports/{id}/photo` | Agregar foto al reporte |
+| **GET** | `/api/v1/reports` | Obtener todos los reportes |
+
+---
+
+### Service Operations
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/service-operations` | Crear operación de servicio |
+| **GET** | `/api/v1/service-operations` | Obtener todas las operaciones |
+| **PUT** | `/api/v1/service-operations/{id}/status` | Actualizar estado de la operación |
+| **GET** | `/api/v1/service-operations/{id}/status` | Obtener estado de la operación |
+| **GET** | `/api/v1/service-operations/technician/{technicianId}/history` | Obtener historial del técnico |
+
+---
+
+### Requests
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/requests/{requestId}` | Obtener solicitud por ID |
+| **PUT** | `/api/v1/requests/{requestId}` | Actualizar una solicitud |
+| **DELETE** | `/api/v1/requests/{requestId}` | Eliminar una solicitud |
+| **GET** | `/api/v1/requests/client/{clientId}` | Obtener solicitudes por cliente |
+| **POST** | `/api/v1/requests` | Crear nueva solicitud |
+
+---
+
+### Schedules
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/schedules/technician/{technicianId}` | Obtener agenda por técnico |
+| **POST** | `/api/v1/schedules` | Crear nueva agenda |
+| **PUT** | `/api/v1/schedules/{scheduleId}` | Actualizar agenda |
+| **DELETE** | `/api/v1/schedules/{scheduleId}` | Eliminar agenda |
+
+---
+
+### Services
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/services/{serviceId}` | Obtener servicio por ID |
+| **PUT** | `/api/v1/services/{serviceId}` | Actualizar servicio |
+| **DELETE** | `/api/v1/services/{serviceId}` | Eliminar servicio |
+| **POST** | `/api/v1/services` | Crear nuevo servicio |
+
+---
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+<img  src="https://i.imgur.com/KMMWYFI.png"/>
+<img  src="https://i.imgur.com/yV2TrS9.png"/>
+<img  src="https://i.imgur.com/Rawm4sz.png"/>
+<img  src="https://i.imgur.com/p7CTMeD.png"/>
+<img  src="https://i.imgur.com/pjB7ptM.png"/>
+<img  src="https://i.imgur.com/27MSHgu.png"/>
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.  
 ##### 5.3. Validation Interviews. 
+
 ##### 5.3.1. Diseño de Entrevistas. 
+
+# Entrevistas por Segmento - Plataforma ElectroLink
+
+## Segmento: Clientes
+
+1. ¿Qué tan fácil te resultó registrarte y entender para qué servía ElectroLink como cliente?
+2. ¿Cómo fue tu experiencia al navegar desde el Home hasta encontrar un técnico?
+3. Al ver las cards de técnicos, ¿qué información fue clave para tomar una decisión (reseñas, distancia, disponibilidad)?
+4. ¿La sección de “Servicios activos” en el dashboard te ayudó a hacer seguimiento de lo que contrataste?
+5. ¿Pudiste identificar sin problemas en qué estado estaba tu solicitud o mantenimiento?
+6. ¿Sentiste que el diseño de la app era confiable y profesional desde el primer momento?
+7. ¿Qué tan útil te pareció el botón “Buscar técnico”? ¿Qué filtro usaste más?
+8. ¿La función de geolocalización y mapa te ayudó a elegir al mejor técnico cercano?
+9. ¿Te sentiste cómodo contratando a alguien por internet directamente desde la plataforma?
+10. ¿Te sirvió el módulo de notificaciones para saber cuándo ocurriría el mantenimiento?
+11. ¿Después de recibir el servicio, pudiste calificar al técnico fácilmente?
+12. ¿Qué cambiarías en la experiencia visual o funcional para que ElectroLink sea aún más clara o rápida de usar?
+
+---
+
+## Segmento: PYMEs
+
+1. ¿Tu empresa ya tenía una forma de gestionar proveedores eléctricos? ¿Qué cambió con ElectroLink?
+2. ¿El dashboard de “Gestión de agenda” te pareció fácil de entender para programar mantenimientos?
+3. ¿La opción de ver “Métricas y Rendimiento” fue útil para tomar decisiones de mejora?
+4. ¿Consideras valioso poder ver el “Historial de servicios” directamente en la plataforma?
+5. ¿ElectroLink te permite tener control sobre los días y horas en que recibes mantenimiento?
+6. ¿Qué tan clara te parece la visualización de técnicos preferidos? ¿Los volverías a contratar?
+7. ¿La interfaz de búsqueda por tipo de servicio eléctrico y ubicación te pareció ágil?
+8. ¿Usaste el sistema de reseñas para elegir a quién contratar? ¿Confiaste en él?
+9. ¿Crees que el diseño transmite formalidad y profesionalismo suficiente para una pyme?
+10. ¿Qué tan útil sería para ti recibir un reporte automático del mantenimiento realizado?
+11. ¿Te sirvió ver alertas de “Notificaciones” como recordatorio de mantenimientos?
+12. ¿Qué funcionalidades crees que le hacen falta a ElectroLink para facilitarte la gestión como empresa?
+
+---
+
+## Segmento: Proveedores
+
+1. ¿Fue fácil registrarte como proveedor y configurar tu perfil dentro de ElectroLink?
+2. ¿El dashboard de proveedor refleja claramente tu estado (disponible/no disponible, servicios en curso)?
+3. ¿Te sentiste representado profesionalmente con el diseño y datos de tu perfil?
+4. ¿Qué tan útil te parece tener un módulo específico para gestionar tus servicios activos?
+5. ¿La sección de “Inventario y Catálogo” fue fácil de actualizar con tus propios servicios?
+6. ¿Consideras útil tener tus “Métricas y Rendimiento” disponibles en tiempo real?
+7. ¿Las reseñas de los clientes te han servido para mejorar tu trabajo o conseguir más solicitudes?
+8. ¿Qué tan fácil fue para ti agregar un horario a la agenda y gestionar tu disponibilidad?
+9. ¿La función de ver tu perfil como los clientes lo ven te parece clara y justa?
+10. ¿Pudiste cargar bien tus certificaciones y ver cómo aparecen en la app?
+11. ¿Sentiste que la app te dio mayor visibilidad profesional que buscar clientes por tu cuenta?
+12. ¿Qué cosas le agregarías al panel de proveedor para sentirte más apoyado como técnico?
+---
+
 ##### 5.3.2. Registro de Entrevistas. 
+
 ##### 5.3.3. Evaluaciones según heurísticas.
+
+<hr>
+Evaluación Heurística de ElectroLink
+
+**Carrera:** Ingeniería de Software  
+**Curso:** Aplicaciones Web  
+**Auditor:** ElectroLink  
+**Plataforma evaluada:** ElectroLink – Plataforma Web  
+
+---
+
+## Tareas evaluadas
+
+- Comprender el propósito del sitio al ingresar  
+- Navegar y entender la propuesta de valor tanto para propietarios como para proveedores  
+- Visualizar e interactuar con el catálogo de servicios  
+- Acceder a testimonios, valores, misión y visión de la empresa  
+- Evaluar la visual jerárquica de acciones clave (registrarse, buscar técnicos, mostrar perfil)  
+- Interacción de proveedores con sus servicios e inventario  
+- Mostrar el trabajo realizado (visibilidad a clientes)  
+- Comparar perfiles técnicos y ver reseñas  
+- Reportar un servicio finalizado (cliente y proveedor)  
+- Evaluar accesibilidad visual e inclusividad  
+
+---
+
+## Tabla resumen de problemas detectados
+
+| #  | Problema detectado                                                                 | Severidad | Heurística/Principio violado                                       |
+|----|-------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------|
+| 1  | Falta un botón de regreso rápido al inicio en páginas extensas                     | 2         | Control del usuario                                               |
+| 2  | Íconos e imágenes no tienen descripciones accesibles (sin `alt`)                   | 3         | Inclusive Design – Experiencias comparables                      |
+| 3  | Jerarquía visual poco clara en botones de acción principal                         | 2         | Visibilidad y jerarquía visual                                    |
+| 4  | No hay diferenciación visual clara entre botones de cliente y proveedor            | 2         | Consistencia y estándares                                         |
+| 5  | No se explicita claramente el beneficio tangible de publicar un servicio           | 2         | Reconocer en lugar de recordar                                   |
+| 6  | En vistas de gestión, no se resalta lo más urgente (como “nuevas solicitudes”)     | 3         | Visibilidad del estado del sistema                               |
+| 7  | No hay retroalimentación visual luego de acciones (ej. guardar inventario)         | 3         | Visibilidad del estado del sistema                               |
+| 8  | No hay ayudas contextuales (tooltips o descripciones) en íconos de servicios       | 2         | Ayuda y documentación                                             |
+| 9  | No se destacan los beneficios diferenciales para PYMEs respecto a clientes comunes | 2         | Reconocer en lugar de recordar / Personalización del contenido    |
+| 10 | No se ofrecen opciones de configuración accesibles (contraste, tamaños)            | 3         | Diseño inclusivo                                                  |
+| 11 | La opción “Mostrar tu trabajo” no guía claramente cómo se verá al cliente          | 2         | Correspondencia entre sistema y el mundo real                     |
+| 12 | El flujo de registro y rol no se valida con confirmación clara al usuario          | 3         | Prevención de errores / Control del usuario                       |
+
+---
+
+## Descripción de problemas clave
+
+### Problema #2: Falta de etiquetas accesibles en íconos e imágenes  
+**Severidad:** 3  
+**Heurística violada:** Inclusive Design  
+**Descripción:** Los íconos que representan funcionalidades como “servicio garantizado”, “componentes”, “perfiles”, etc., no tienen `alt` ni descripciones para lectores de pantalla.  
+**Recomendación:** Añadir `alt`, `aria-label` o tooltips en cada ícono o imagen decorativa relevante.
+
+---
+
+### Problema #6: No se resalta lo más urgente para el proveedor  
+**Severidad:** 3  
+**Heurística violada:** Visibilidad del estado del sistema  
+**Descripción:** En el panel del proveedor, las nuevas solicitudes o acciones pendientes no están resaltadas con prioridad visual.  
+**Recomendación:** Usar badges, resaltado en rojo o secciones tipo “acciones recientes”.
+
+---
+
+### Problema #7: No hay retroalimentación visual tras acciones clave  
+**Severidad:** 3  
+**Heurística violada:** Visibilidad del estado del sistema  
+**Descripción:** Al guardar componentes, aceptar solicitudes o subir fotos, el usuario no recibe un mensaje inmediato o animación de confirmación.  
+**Recomendación:** Mostrar mensajes toast, iconos animados de éxito o loaders donde aplique.
+
+---
+<hr>
 
 <hr>
 
