@@ -2407,6 +2407,48 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 <img  src="https://i.postimg.cc/6QpBMgZV/image-27.webp"/>
 
 
+##### 5.2.3. Sprint 3 
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
+##### 5.2.3.1. Sprint Planning 3. 
+Durante la reunión de planificación del Sprint 3, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad de la plataforma y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
+
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-06-05 |
+| **Time** | 4:00 PM |
+| **Location** | Virtual - Discord |
+| **Prepared By** | Ethan Matias Aliaga Aguirre |
+| **Attendees (to planning meeting)** | Ludwing Sanchez Manrique / Ethan Matias Aliaga Aguirre / Eric Olivera Barzola / Ivo Marcelo Machado Bracamonte / Ricardo Del Aguila Ayala |
+| **Sprint n–3 Review Summary** | Durante el Sprint anterior, se realizaron ajustes estructurales sugeridos por el profesor en la arquitectura del backend. Se implementaron con éxito múltiples endpoints RESTful, cubriendo los módulos principales como solicitudes, servicios, reportes y calificaciones. Esto permitió establecer una base sólida para la lógica del negocio y la persistencia de datos. Aunque algunos endpoints avanzados y validaciones específicas quedaron pendientes, el backend resultante fue estable, funcional y bien recibido en la revisión. |
+| **Sprint n–3 Retrospective Summary** | El equipo manifestó satisfacción con el trabajo backend logrado, destacando la mejora en la integración de servicios y la claridad en la división de responsabilidades. Se identificaron áreas de mejora en la gestión del tiempo al implementar controladores complejos. Se acordó priorizar la documentación de endpoints y pruebas de integración, así como reforzar la planificación técnica por capas (servicios, entidades, controladores) para optimizar el desarrollo en los siguientes sprints. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint n Goal** | Nuestro enfoque está en establecer el núcleo funcional completo de la plataforma eléctrica, abarcando la gestión de inventario, la contratación de servicios mediante un wizard guiado y la asignación automática de técnicos.Creemos que esto entrega un flujo completo y funcional desde la solicitud hasta la finalización del servicio eléctrico a propietarios de PyMEs que necesitan servicios y a técnicos que desean ofrecerlos. Esto se confirmará cuando los propietarios puedan registrar propiedades, contratar servicios mediante el wizard, recibir la asignación automática de técnicos, y estos últimos puedan gestionar su inventario, horarios, zona de cobertura y completar servicios con evaluaciones en la plataforma.|
+| **Sprint n Velocity** | 100% |
+| **Sum of Story Points** | 233 Story Points |
+
+##### 5.2.3.2. Aspect Leaders and Collaborators. 
+
+Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Assets and Resource Management Bounded Context** | **Services Desing and Planning Management Bounded Context** | **Service Contracting Bounded Context** | **Analytics Bounded Context** |
+|-----------------------------------------|---------------------|-------------------------------------------|---------------------------------------------------|-------------------------|--------------------------|
+| Sánchez Manrique, Ludwing               | ItaloSanche         |                                           | C                                                 |                         |                          |
+| Aliaga Aguirre, Ethan Matías            | MatFragg            | L                                         |                                                   |                         | C                        |
+| Contreras Lopez , Leandro Saul           | EricMarlon          | C                                         |                                                   |                         | L                        |
+| Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                           | L                                                 |                         |                          |
+| Del Aguila Ayala, Ricardo               | Rexest01            |                                           |                                                   | L                       | C                        |
+
+##### 5.2.3.3. Sprint Backlog 3. 
+##### 5.2.3.4. Development Evidence for Sprint Review. 
+##### 5.2.3.5. Execution Evidence for Sprint Review. 
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+##### 5.2.3.8. Team Collaboration Insights during Sprint.  
+##### 5.3. Validation Interviews. 
+##### 5.3.1. Diseño de Entrevistas. 
+##### 5.3.2. Registro de Entrevistas. 
+##### 5.3.3. Evaluaciones según heurísticas.
 
 <hr>
 
