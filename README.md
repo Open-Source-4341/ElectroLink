@@ -2754,14 +2754,23 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
-<img  src="https://i.imgur.com/KMMWYFI.png"/>
-<img  src="https://i.imgur.com/yV2TrS9.png"/>
+<img  src="https://i.imgur.com/AHQ3KII.png"/>
+
+<img  src="https://i.imgur.com/olaOQvK.png"/>
+
+<img  src="https://i.imgur.com/ZgVkMkA.png"/>
 <img  src="https://i.imgur.com/Rawm4sz.png"/>
 <img  src="https://i.imgur.com/p7CTMeD.png"/>
 <img  src="https://i.imgur.com/pjB7ptM.png"/>
 <img  src="https://i.imgur.com/27MSHgu.png"/>
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.  
+
+<img  src="https://i.imgur.com/JfJ7B61.png"/>
+
+<img  src="https://i.imgur.com/H4SLsdv.png"/>
+
+<hr>
 ##### 5.3. Validation Interviews. 
 
 ##### 5.3.1. Diseño de Entrevistas. 
