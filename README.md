@@ -2438,7 +2438,7 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa
 
 Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en Trello](https://trello.com/b/pPESu5NU/sprint-backlog-3)
 
-<img  src="https://i.postimg.cc/J0tYs39W/trytrytryr.png"/>
+<img  src="https://i.imgur.com/0XuNwIT.png"/>
 
 
 | Sprint # | Sprint 3 | | | | | | |
@@ -2579,7 +2579,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | | | T002 | Configuración de portal | Configurar opciones disponibles en portal | 2 | Italo|Done |
 
 <hr>
-#### 5.2.3.4.Development Evidence for Sprint Review.
+##### 5.2.3.4.Development Evidence for Sprint Review.
 
 | Repository                                | Branch | Commit ID | Commit Message                                 | Commit Message Body                                         | Committed on  |
 |-------------------------------------------|--------|-----------|-----------------------------------------------|-------------------------------------------------------------|---------------|
@@ -2890,8 +2890,6 @@ Evaluación Heurística de ElectroLink
 **Descripción:** Al guardar componentes, aceptar solicitudes o subir fotos, el usuario no recibe un mensaje inmediato o animación de confirmación.  
 **Recomendación:** Mostrar mensajes toast, iconos animados de éxito o loaders donde aplique.
 
----
-<hr>
 
 <hr>
 
@@ -2910,8 +2908,6 @@ Evaluación Heurística de ElectroLink
 - Continuar con la validación frecuente de los avances con usuarios reales, especialmente antes de cada iteración, para mantener la alineación entre desarrollo y necesidades reales.
 - Aprovechar las fortalezas individuales del equipo para asignar responsabilidades específicas que optimicen los tiempos de desarrollo.
 - Documentar de manera más sistemática los aprendizajes y desafíos encontrados en cada sprint, para mejorar continuamente el proceso.
-<hr>
-
 <hr>
 
 <hr>
