@@ -2605,11 +2605,9 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
 
-<img  src="https://i.imgur.com/AHQ3KII.png"/>
+<img  src="https://i.imgur.com/Xwg2jcV.png"/>
 
-<img  src="https://i.imgur.com/olaOQvK.png"/>
-
-<img  src="https://i.imgur.com/ZgVkMkA.png"/>
+<img  src="https://i.imgur.com/QA0k4b0.png"/>
 
 <img  src="https://i.imgur.com/5po1hr0.png"/>
 
@@ -2756,8 +2754,11 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
-<img  src="https://i.imgur.com/KMMWYFI.png"/>
-<img  src="https://i.imgur.com/yV2TrS9.png"/>
+<img  src="https://i.imgur.com/AHQ3KII.png"/>
+
+<img  src="https://i.imgur.com/olaOQvK.png"/>
+
+<img  src="https://i.imgur.com/ZgVkMkA.png"/>
 <img  src="https://i.imgur.com/Rawm4sz.png"/>
 <img  src="https://i.imgur.com/p7CTMeD.png"/>
 <img  src="https://i.imgur.com/pjB7ptM.png"/>
