@@ -2605,9 +2605,11 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
 
-<img  src="https://i.imgur.com/Xwg2jcV.png"/>
+<img  src="https://i.imgur.com/AHQ3KII.png"/>
 
-<img  src="https://i.imgur.com/QA0k4b0.png"/>
+<img  src="https://i.imgur.com/olaOQvK.png"/>
+
+<img  src="https://i.imgur.com/ZgVkMkA.png"/>
 
 <img  src="https://i.imgur.com/5po1hr0.png"/>
 
@@ -2762,6 +2764,12 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <img  src="https://i.imgur.com/27MSHgu.png"/>
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.  
+
+<img  src="https://i.imgur.com/JfJ7B61.png"/>
+
+<img  src="https://i.imgur.com/H4SLsdv.png"/>
+
+<hr>
 ##### 5.3. Validation Interviews. 
 
 ##### 5.3.1. Diseño de Entrevistas. 
