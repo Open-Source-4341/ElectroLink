@@ -2934,5 +2934,5 @@ Evaluación Heurística de ElectroLink
 **Anexos**
 - Enlace de Landing Page :
 [https://electrolinklp.netlify.app/](https://electrolinklp.netlify.app/)
-
+[https://drive.google.com/drive/folders/1x2hjIgoX-pYteq0LMI-BeeicCZ-Og6Me?usp=drive_link](https://drive.google.com/drive/folders/1x2hjIgoX-pYteq0LMI-BeeicCZ-Og6Me?usp=drive_link)
 <hr>
