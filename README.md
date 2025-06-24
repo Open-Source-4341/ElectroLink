@@ -2876,6 +2876,53 @@ Además, sus comentarios demuestran que valora:
 
 ---
 
+2. Piero Tenorio Medina
+   <img src="">
+
+   Enlace: https://youtu.be/Epc6R8F4hjE
+   Duración: 7:53 min
+   Empieza: 00:00
+   
+*Resumen de la opinión del entrevistado sobre la aplicación Electrolink*
+
+1. **Comprensión general de la plataforma**:
+
+   * Piero comprendió rápidamente el proposito de la aplicación, lo cual es el punto deseado..
+
+2. **Experiencia de usuario (UX)**:
+
+   * Destaca que la interfaz le transmite confianza, lo cual es clave para cualquier plataforma online. Aunque si reforzaria en lo que la organización visual de algunos elementos.
+
+3. **Información clave para el usuario**:
+
+   * Menciona que las secciones para manejar sus componentes electricos son bastante buenas pero considera mejorar la paleta de colores.
+
+4. **Funcionalidad destacada**:
+
+   * Encuentra muy útil la sección para agregar componetes a su inventario..
+
+5. **Sugerencias de mejora**:
+
+   * Sugiere mejorar la organización visual para poder evitar la fatiga al momento de buscar entre secciones.Asimismo, piensa que es muy importante utilizar mostrar la vista de componentes mediante tablas.
+
+---
+
+**Análisis general**
+
+Leonardo refleja el perfil de un **usuario potencialmente interesado** en usar la aplicación. Su retroalimentación valida que:
+
+* El **objetivo principal se comunica con claridad**.
+* Hay un **mínimo viable funcional** con buen potencial.
+* **La confianza en la plataforma es positiva**, aunque aún hay espacio para mejorar la presentación visual.
+
+Además, sus comentarios demuestran que valora:
+
+* La **usabilidad práctica (disponibilidad, localización)**.
+* La **comunicación directa (chat)**.
+* Una **presentación atractiva (imágenes e información enriquecida)**.
+
+---
+
 ##### 5.3.3. Evaluaciones según heurísticas.
 
 <hr>
