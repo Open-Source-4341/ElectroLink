@@ -2428,7 +2428,7 @@ Durante este sprint, la asignación de responsabilidades técnicas se mantuvo po
 |-----------------------------------------|---------------------|-------------------------------------------|---------------------------------------------------|-------------------------|--------------------------|
 | Sánchez Manrique, Ludwing               | ItaloSanche         |                                           | C                                                 |                         |                          |
 | Aliaga Aguirre, Ethan Matías            | MatFragg            | L                                         |                                                   |                         | C                        |
-| Contreras Lopez , Leandro Saul           | EricMarlon          | C                                         |                                                   |                         | L                        |
+| Contreras Lopez , Leandro Saul           | WiDDsito          | C                                         |                                                   |                         | L                        |
 | Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                           | L                                                 |                         |                          |
 | Del Aguila Ayala, Ricardo               | Rexest01            |                                           |                                                   | L                       | C                        |
 
