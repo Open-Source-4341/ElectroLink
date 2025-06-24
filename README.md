@@ -2829,6 +2829,53 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 ##### 5.3.2. Registro de Entrevistas. 
 
+1. Leonardo Prieto
+   <img src="https://imgur.com/a/ziyF7pW">
+
+   Duración: 6:28 min
+   Empieza: 00:00
+   
+*Resumen de la opinión del entrevistado sobre la aplicación Electrolink*
+
+1. **Comprensión general de la plataforma**:
+
+   * Leonardo comprendió rápidamente que **la aplicación conecta clientes con proveedores de servicios eléctricos**, lo cual indica que el objetivo principal está bien comunicado.
+
+2. **Experiencia de usuario (UX)**:
+
+   * Destaca que **la interfaz le transmite confianza**, lo cual es clave para cualquier plataforma online. Aunque no profundiza en detalles visuales, su respuesta sugiere que la estructura y navegación iniciales son adecuadas.
+
+3. **Información clave para el usuario**:
+
+   * Menciona que **la disponibilidad del técnico** es un factor determinante para tomar decisiones como cliente, lo que sugiere que este dato debería estar muy visible y actualizado en la interfaz.
+
+4. **Funcionalidad destacada**:
+
+   * Encuentra **muy útil la opción de búsqueda por localización**, ya que permite identificar técnicos cercanos, algo esencial en servicios presenciales.
+
+5. **Sugerencias de mejora**:
+
+   * Sugiere **implementar un sistema de chat en tiempo real** entre técnico y cliente. Esto permitiría una comunicación más fluida, resolver dudas previas al servicio y facilitar la coordinación.
+   * Propone **añadir imágenes y más información visual** para hacer el apartado visual más atractivo y mejorar el diseño en general.
+
+---
+
+**Análisis general**
+
+Leonardo refleja el perfil de un **usuario potencialmente interesado** en usar la aplicación. Su retroalimentación valida que:
+
+* El **objetivo principal se comunica con claridad**.
+* Hay un **mínimo viable funcional** con buen potencial.
+* **La confianza en la plataforma es positiva**, aunque aún hay espacio para mejorar la presentación visual.
+
+Además, sus comentarios demuestran que valora:
+
+* La **usabilidad práctica (disponibilidad, localización)**.
+* La **comunicación directa (chat)**.
+* Una **presentación atractiva (imágenes e información enriquecida)**.
+
+---
+
 ##### 5.3.3. Evaluaciones según heurísticas.
 
 <hr>
