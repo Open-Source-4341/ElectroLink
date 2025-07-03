@@ -1322,6 +1322,10 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 | TS-12 | Obtener Evaluaciones por Técnico | Como desarrollador, quiero crear un endpoint GET para obtener las evaluaciones de un técnico. | 3 |
 | TS-22 | Endpoint de Gestión de Perfiles | Como desarrollador, necesito crear endpoints para visualizar y editar perfiles de usuario para soportar la funcionalidad de gestión de cuentas diferenciada por tipo de usuario. | 3 |
 | TS-15 | Reinicio Mensual de Contador | Como desarrollador, quiero crear una tarea programada (cron job) que se ejecute mensualmente. | 3 |
+| TS-19 | Verificación de Email | Como desarrollador, quiero crear endpoints para verificar emails de usuarios para completar el proceso de registro. | 3 |
+| TS-21 | Recuperación de Contraseña | Como desarrollador, quiero crear endpoints para recuperación de contraseña para permitir a usuarios restablecer sus credenciales. | 3 |
+| TS-22 | Endpoints de Gestión de Perfiles | Como desarrollador, quiero crear endpoints CRUD para gestión de perfiles para permitir a usuarios actualizar su información personal. | 3 |
+| TS-25 | Exportación de Datos | Como desarrollador, quiero crear un endpoint para exportar datos de consumo para permitir a usuarios descargar sus datos en formato CSV. | 3 |
 | US-13 | Registro de cuentas como Dueño de Hogar | Como dueño de hogar, quiero registrarme para tener una cuenta en la aplicación, para gestionar los componentes eléctricos de mi vivienda. | 5 |
 | US-14 | Registro de cuentas como Dueño de Empresa | Como dueño o representante de empresa, quiero registrarme para tener una cuenta en la aplicación, para gestionar los componentes eléctricos de mis instalaciones comerciales. | 5 |
 | US-15 | Registro de cuentas para Técnicos | Como Técnico de componentes eléctricos yo servicios, quiero registrarme para tener una cuenta en la aplicación, para ofrecer mis productos y servicios a los usuarios. | 5 |
@@ -1376,10 +1380,13 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 | TS-10 | Actualización Automática de Stock | Como desarrollador, quiero crear un listener que reaccione al evento Servicio Completado para descontar el stock. | 5 |
 | TS-11 | Enviar Evaluación de Servicio | Como desarrollador, quiero crear un endpoint POST para registrar una evaluación. | 5 |
 | TS-16 | Sesión de Portal de Stripe | Como desarrollador, quiero crear un endpoint que genere una sesión para el Portal de Cliente de Stripe. | 5 |
-| TS-18 | Endpoint de Registro de Usuarios | 5 |
-| TS-19 | Verificación de Email | 5 |
-| TS-20 | Middleware de Autorización por Roles | 5 |
-| TS-21 | Recuperación de Contraseña | 5 |
+| TS-17 | Endpoint de Autenticación JWT | Como desarrollador, quiero crear un endpoint de login que genere tokens JWT para permitir la autenticación segura de usuarios. | 5 |
+| TS-18 | Endpoint de Registro de Usuarios | Como desarrollador, quiero crear endpoints de registro diferenciados para permitir el registro de propietarios y técnicos. | 5 |
+| TS-20 | Middleware de Autorización | Como desarrollador, quiero crear middleware de autorización para controlar acceso a endpoints según roles de usuario. | 5 |
+| TS-23 | Sistema de Notificaciones Básico | Como desarrollador, quiero crear un servicio básico de notificaciones para enviar emails simples a los usuarios. | 5 |
+| TS-26 | Dashboard de Métricas para Técnicos | Como desarrollador, quiero crear endpoints para métricas de técnicos para proporcionar estadísticas básicas de servicios completados. | 5 |
+| TS-27 | Verificador de Facturas Básico | Como desarrollador, quiero crear un endpoint para verificar cálculos de facturas para permitir a usuarios validar montos facturados. | 5 |
+| TS-29 | Análisis de Demanda por Zona | Como desarrollador, quiero crear endpoints para consultar estadísticas de servicios por zona para proporcionar información básica de demanda geográfica. | 5 |
 | US-26 | Edición de Perfil de Técnico | Como Técnico registrado, quiero editar mi información profesional, certificaciones y servicios ofrecidos para mantener mi perfil actualizado y atractivo para los clientes. | 8 |
 | US-53 | Crear Servicios en Catálogo con Recetas de Componentes | Como técnico registrado, quiero crear nuevos servicios en mi catálogo especificando qué componentes eléctricos exactos necesito y en qué cantidades (receta), para que el sistema verifique automáticamente si tengo stock suficiente antes de asignarme ese tipo de trabajo. | 8 |
 | US-72 | Sistema de Recomendaciones Personalizadas | Como cliente, quiero recibir recomendaciones personalizadas de servicios y productos basados en mi historial y necesidades, para descubrir soluciones relevantes que puedan mejorar mi experiencia. | 8 |
@@ -1387,12 +1394,9 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 | TS-09 | Asignar Técnico Automáticamente | Como desarrollador, quiero implementar la lógica para asignar automáticamente un técnico a una solicitud. | 8 |
 | TS-13 | Conectar a Base de Datos | Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL. | 8 |
 | TS-14 | Listener de Webhook de Stripe | Como desarrollador, quiero crear un endpoint para recibir y procesar webhooks de Stripe. | 8 |
-| TS-17 | Sistema de Autenticación JWT | Como desarrollador, necesito implementar un sistema de autenticación basado en JWT para gestionar las sesiones de usuarios de forma segura y escalable. | 8 |
-| TS-23 | Sistema de Notificaciones | Como desarrollador, necesito implementar un sistema de notificaciones multi-canal (email, SMS, push) para soportar la comunicación automatizada con los usuarios. | 8 |
-| TS-24 | Servicio de Analytics de Consumo | Como desarrollador, necesito crear un servicio que procese y analice los datos de consumo eléctrico para generar insights y métricas para los propietarios. | 8 |
-| TS-26 | Dashboard de Métricas para Técnicos | Como desarrollador, necesito crear endpoints que proporcionen métricas de desempeño y rentabilidad para soportar el dashboard de técnicos. | 8 |
-| TS-29 | Análisis de Demanda Geográfica | Como desarrollador, necesito crear un servicio que analice la demanda de servicios por zona geográfica para proporcionar insights de negocio a los técnicos. | 8 |
-| TS-30 | Sistema de Recomendaciones | Como desarrollador, necesito implementar un sistema de recomendaciones personalizadas basado en algoritmos de machine learning para mejorar la experiencia del usuario y aumentar el engagement. | 8 |
+| TS-24 | Endpoints de Datos de Consumo | Como desarrollador, quiero crear endpoints CRUD para gestionar datos de consumo eléctrico para permitir a propietarios registrar y consultar su información. | 8 |
+| TS-28 | Sistema de Alertas de Consumo | Como desarrollador, quiero crear endpoints para configurar alertas de consumo para notificar a usuarios cuando superen límites establecidos. | 8 |
+| TS-30 | Sistema de Recomendaciones Básico | Como desarrollador, quiero crear un endpoint para sugerir servicios relevantes para mostrar recomendaciones simples basadas en historial del usuario. | 8 |
 
 <hr>
 
