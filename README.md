@@ -2828,6 +2828,22 @@ En esta sección , el equipo definio la planificación y presentó evidencias de
 
 #### 5.2.4.1. Sprint Planning 4
 En esta sección, el equipo planificó el Sprint 4
+
+| **Sprint #** | Sprint 4 |
+|--------------|----------|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-07-05 |
+| **Time** | 4:00 PM |
+| **Location** | Virtual - Discord |
+| **Prepared By** | Ethan Matias Aliaga Aguirre |
+| **Attendees (to planning meeting)** | Ludwing Sanchez Manrique / Ethan Matias Aliaga Aguirre / Leandro Saul Contreras / Ivo Marcelo Machado Bracamonte / Ricardo Del Aguila Ayala |
+| **Sprint n–4 Review Summary** | Durante el Sprint anterior, se realizaron ajustes estructurales sugeridos por el profesor en la arquitectura del backend. Se implementaron con éxito múltiples endpoints RESTful, cubriendo los módulos principales como solicitudes, servicios, reportes y calificaciones. Esto permitió establecer una base sólida para la lógica del negocio y la persistencia de datos. Aunque algunos endpoints avanzados y validaciones específicas quedaron pendientes, el backend resultante fue estable, funcional y bien recibido en la revisión. |
+| **Sprint n–4 Retrospective Summary** | El equipo manifestó satisfacción con el trabajo backend logrado hasta el momento, destacando adaptabilidad de cada uno de los integrantes frente a situaciones complejas. Se identificaron áreas de mejora en la gestión del tiempo al implementar controladores complejos. Se acordó levantar las observaciones con respecto al Sprint 3. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint n-4 Goal** | Nuestro enfoque es en implementar un conjunto de funcionalidades clave como la Administración de Identidad y Acceso y Perfil y Preferencias. Creemos que esto entrega a los usuarios la capacidad de gestionar su acceso y preferencias  para garantizar una experiencia personalizada. Esto se confirmará cuando los usuarios, sean técnicos o propietarios, puedan registrarse como usuarios , personalizar su perfil en Electrolink.|
+| **Sprint n-4 Velocity** | 100% |
+| **Sum of Story Points** | 174 Story Points |
+
 <br>
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
