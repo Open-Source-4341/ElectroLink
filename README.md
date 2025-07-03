@@ -2497,7 +2497,7 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 | **Sprint n–3 Review Summary** | Durante el Sprint anterior, se realizaron ajustes estructurales sugeridos por el profesor en la arquitectura del backend. Se implementaron con éxito múltiples endpoints RESTful, cubriendo los módulos principales como solicitudes, servicios, reportes y calificaciones. Esto permitió establecer una base sólida para la lógica del negocio y la persistencia de datos. Aunque algunos endpoints avanzados y validaciones específicas quedaron pendientes, el backend resultante fue estable, funcional y bien recibido en la revisión. |
 | **Sprint n–3 Retrospective Summary** | El equipo manifestó satisfacción con el trabajo backend logrado, destacando la mejora en la integración de servicios y la claridad en la división de responsabilidades. Se identificaron áreas de mejora en la gestión del tiempo al implementar controladores complejos. Se acordó priorizar la documentación de endpoints y pruebas de integración, así como reforzar la planificación técnica por capas (servicios, entidades, controladores) para optimizar el desarrollo en los siguientes sprints. |
 | **Sprint Goal & User Stories** |  |
-| **Sprint n Goal** | Nuestro enfoque está en establecer el núcleo funcional completo de la plataforma eléctrica, abarcando la gestión de inventario, la contratación de servicios mediante un wizard guiado y la asignación automática de técnicos.Creemos que esto entrega un flujo completo y funcional desde la solicitud hasta la finalización del servicio eléctrico a propietarios de PyMEs que necesitan servicios y a técnicos que desean ofrecerlos. Esto se confirmará cuando los propietarios puedan registrar propiedades, contratar servicios mediante el wizard, recibir la asignación automática de técnicos, y estos últimos puedan gestionar su inventario, horarios, zona de cobertura y completar servicios con evaluaciones en la plataforma.|
+| **Sprint n-3 Goal** | Nuestro enfoque es en implementar un conjunto de funcionalidades clave como la Administración de Propiedades y Componentes, el Control de Inventario del Técnico,  el Flujo de Solicitud de Servicios, la Configuración de Agenda y Cobertura, con sus interfaces de calendario y mapa junto a los endpoints que guardan la información, la Administración del Catálogo de Servicios, el Manejo de Suscripciones Premium y finalmente el Seguimiento y Calificación de Servicios, con las interfaces de visualización y los endpoints que proveen el estado del servicio y registran las calificaciones, implementando las interfaces de usuario para nuestra aplicación Frontend como sus servicios y lógica de negocio a través del API. Creemos que esto entrega a los propietarios de PyMEs la capacidad de solicitar servicios eléctricos de manera eficiente, y a los técnicos las herramientas para ofrecer sus servicios de forma estructurada, gestionando su inventario, horarios y zona de cobertura. Esto se confirmará cuando un ciclo de servicio completo pueda ser demostrado de principio a fin. Específicamente, cuando los propietarios puedan registrar sus propiedades, completar el flujo de contratación de un servicio a través del wizard, suscribirse a un plan premium, recibir la notificación de asignación de un técnico, y finalmente calificar el servicio una vez completado. Del mismo modo, se confirmará cuando los técnicos puedan configurar su catálogo de servicios y precios, establecer sus horarios y zonas de cobertura, gestionar el inventario de sus componentes, y visualizar en su agenda los servicios que les han sido asignados.|
 | **Sprint n Velocity** | 100% |
 | **Sum of Story Points** | 233 Story Points |
 
@@ -2860,17 +2860,26 @@ En esta sección , el equipo definio la planificación y presentó evidencias de
 En esta sección, el equipo planificó el Sprint 4
 <br>
 
-#### 5.2.4.2. Sprint Backlog 4
-En esta sección, el equipo presenta el Sprint Backlog 4
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Service Operation and Monitoring** | **Profile and Preferences** | *Identity and Assets Management** |
+|-----------------------------------------|---------------------|-------------------------------------------|---------------------------------------------------|-------------------------|--------------------------|
+| Sánchez Manrique, Ludwing               | ItaloSanche         |                                           | C                                                 | L                                        |
+| Aliaga Aguirre, Ethan Matías            | MatFragg            |                                          |   C                                                |                                          |
+| Contreras Lopez , Leandro Saul           | WiDDsito          | C                                         |                                                    |                                          |
+| Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                           | L                                                 |   C                                       |
+| Del Aguila Ayala, Ricardo               | Rexest01            |  L                                         |                                                   |                                          |
+
 <br>
 
-#### 5.2.4.3. Development Evidence for Sprint Review
+#### 5.2.4.3. Sprint Backlog 4
+En esta sección, se presenta el sprint backlog 4
+
+<br>
+
+#### 5.2.4.4. Development Evidence for Sprint Review 
 En esta sección, se muestran evidencias del desarrollo del sprint 4
-
-<br>
-
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review
-En esta secciónm, el equipo presenta la evidencia sobre pruebas del sprint 4
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 En esta sección, se presenta evidencia de ejecución para el sprint 4 
