@@ -1310,7 +1310,6 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 | TS-19 | Verificación de Email | Como desarrollador, quiero crear endpoints para verificar emails de usuarios para completar el proceso de registro. | 3 |
 | TS-21 | Recuperación de Contraseña | Como desarrollador, quiero crear endpoints para recuperación de contraseña para permitir a usuarios restablecer sus credenciales. | 3 |
 | TS-22 | Endpoints de Gestión de Perfiles | Como desarrollador, quiero crear endpoints CRUD para gestión de perfiles para permitir a usuarios actualizar su información personal. | 3 |
-| TS-25 | Exportación de Datos | Como desarrollador, quiero crear un endpoint para exportar datos de consumo para permitir a usuarios descargar sus datos en formato CSV. | 3 |
 | US-13 | Registro de cuentas como Dueño de Hogar | Como dueño de hogar, quiero registrarme para tener una cuenta en la aplicación, para gestionar los componentes eléctricos de mi vivienda. | 5 |
 | US-14 | Registro de cuentas como Dueño de Empresa | Como dueño o representante de empresa, quiero registrarme para tener una cuenta en la aplicación, para gestionar los componentes eléctricos de mis instalaciones comerciales. | 5 |
 | US-15 | Registro de cuentas para Técnicos | Como Técnico de componentes eléctricos yo servicios, quiero registrarme para tener una cuenta en la aplicación, para ofrecer mis productos y servicios a los usuarios. | 5 |
@@ -1352,12 +1351,6 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 | US-64 | Sistema de Calificación Post-Servicio | Como usuario, quiero calificar y dejar reseñas sobre los servicios que he utilizado, para compartir mi experiencia con otros usuarios y proporcionar retroalimentación a los Técnicos. | 5 |
 | US-65 | Visualización de Calificaciones y Reseñas | Como usuario, quiero ver las calificaciones y reseñas dejadas por otros usuarios, para tomar decisiones informadas sobre qué servicios utilizar. | 5 |
 | US-66 | Retroalimentación directa de servicios | Como Técnico, quiero recibir retroalimentación directa sobre mis servicios para mejorar mi oferta. | 5 |
-| US-67 | Visualización de historial de consumo | Como propietario, quiero visualizar gráficamente mi historial de consumo eléctrico, el cual se genera a partir de los datos de los recibos que he subido en mis solicitudes de servicio, para identificar tendencias y patrones. | 5 |
-| US-69 | Repositorio de facturas | Como usuario, quiero tener un repositorio organizado de todas mis facturas eléctricas para acceder fácilmente a ellas cuando las necesite. | 5 |
-| US-70 | Verificación de facturas | Como usuario, quiero verificar si el cálculo de mi factura es correcto según las tarifas vigentes para detectar posibles errores de facturación. | 5 |
-| US-71 | Configuración de alertas de consumo | Como usuario, quiero configurar alertas personalizadas cuando mi consumo supere ciertos umbrales predefinidos para tomar medidas proactivas. | 5 |
-| US-73 | Visualización de Calificaciones y Reseñas Recibidas | Como técnico registrado, quiero visualizar un resumen gráfico y detallado de mis calificaciones y reseñas recibidas, para monitorear la calidad percibida de mis servicios, identificar áreas de mejora y usar esta información como reputación. | 5 |
-| US-74 | Análisis de Demanda por Zona Geográfica | Como técnico registrado, quiero acceder a un análisis visual de la demanda histórica de servicios por zona geográfica, para optimizar mi cobertura, planificar expansiones, ajustar mis precios y mejorar la gestión de inventario por zona. | 5 |
 | TS-03 | Crear Componente | Como desarrollador, quiero crear un endpoint POST para que el técnico registre un nuevo componente en su inventario. | 5 |
 | TS-05 | Crear Servicio de Técnico | Como desarrollador, quiero crear un endpoint POST para que el técnico defina un nuevo servicio en su catálogo, incluyendo su receta de componentes. | 5 |
 | TS-06 | Obtener Servicios por Zona | Como desarrollador, quiero crear un endpoint GET que devuelva los servicios disponibles en una zona geográfica específica. | 5 |
@@ -1369,22 +1362,14 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 | TS-18 | Endpoint de Registro de Usuarios | Como desarrollador, quiero crear endpoints de registro diferenciados para permitir el registro de propietarios y técnicos. | 5 |
 | TS-20 | Middleware de Autorización | Como desarrollador, quiero crear middleware de autorización para controlar acceso a endpoints según roles de usuario. | 5 |
 | TS-23 | Sistema de Notificaciones Básico | Como desarrollador, quiero crear un servicio básico de notificaciones para enviar emails simples a los usuarios. | 5 |
-| TS-26 | Dashboard de Métricas para Técnicos | Como desarrollador, quiero crear endpoints para métricas de técnicos para proporcionar estadísticas básicas de servicios completados. | 5 |
-| TS-27 | Verificador de Facturas Básico | Como desarrollador, quiero crear un endpoint para verificar cálculos de facturas para permitir a usuarios validar montos facturados. | 5 |
-| TS-29 | Análisis de Demanda por Zona | Como desarrollador, quiero crear endpoints para consultar estadísticas de servicios por zona para proporcionar información básica de demanda geográfica. | 5 |
 | US-26 | Edición de Perfil de Técnico | Como Técnico registrado, quiero editar mi información profesional, certificaciones y servicios ofrecidos para mantener mi perfil actualizado y atractivo para los clientes. | 8 |
 | US-53 | Crear Servicios en Catálogo con Recetas de Componentes | Como técnico registrado, quiero crear nuevos servicios en mi catálogo especificando qué componentes eléctricos exactos necesito y en qué cantidades (receta), para que el sistema verifique automáticamente si tengo stock suficiente antes de asignarme ese tipo de trabajo. | 8 |
-| US-72 | Sistema de Recomendaciones Personalizadas | Como cliente, quiero recibir recomendaciones personalizadas de servicios y productos basados en mi historial y necesidades, para descubrir soluciones relevantes que puedan mejorar mi experiencia. | 8 |
 | TS-07 | Iniciar Flujo de Solicitud | Como desarrollador, quiero crear un endpoint que valide el plan del propietario al iniciar una solicitud. | 8 |
 | TS-09 | Asignar Técnico Automáticamente | Como desarrollador, quiero implementar la lógica para asignar automáticamente un técnico a una solicitud. | 8 |
 | TS-13 | Conectar a Base de Datos | Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL. | 8 |
 | TS-14 | Listener de Webhook de Stripe | Como desarrollador, quiero crear un endpoint para recibir y procesar webhooks de Stripe. | 8 |
-| TS-24 | Endpoints de Datos de Consumo | Como desarrollador, quiero crear endpoints CRUD para gestionar datos de consumo eléctrico para permitir a propietarios registrar y consultar su información. | 8 |
-| TS-28 | Sistema de Alertas de Consumo | Como desarrollador, quiero crear endpoints para configurar alertas de consumo para notificar a usuarios cuando superen límites establecidos. | 8 |
-| TS-30 | Sistema de Recomendaciones Básico | Como desarrollador, quiero crear un endpoint para sugerir servicios relevantes para mostrar recomendaciones simples basadas en historial del usuario. | 8 |
 
 <hr>
-
 
 ## Capítulo IV: Product Design
  
