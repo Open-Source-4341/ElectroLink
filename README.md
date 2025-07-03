@@ -2188,7 +2188,7 @@ En esta sección se muestra el resultado de las pruebas de aceptación.
 
 <hr>
 
-##### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 Enlace de la Landing Page: https://electrolinklp.netlify.app/
 
@@ -2218,7 +2218,7 @@ Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer
 
 <hr>
 
-##### 5.2.1.7. Software Deployment Evidence for Sprint
+#### 5.2.1.7. Software Deployment Evidence for Sprint
 
 Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page.
 
@@ -2260,7 +2260,7 @@ Para nuestro proyecto se crearon **2 repositorios**, el cuál fue:
 
 <hr>
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se muestran las capturas de los insights del repositorio.
 <img  src="https://imgur.com/hioVjak.jpeg"/>
 
@@ -2268,9 +2268,9 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 
 <hr>
 
-##### 5.2.2. Sprint 2 
+#### 5.2.2. Sprint 2 
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
-##### 5.2.2.1. Sprint Planning 2.
+#### 5.2.2.1. Sprint Planning 2.
 Durante la reunión de planificación del Sprint 2, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad del sistema y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
 
 | **Sprint #** | Sprint 2 |
@@ -2289,9 +2289,7 @@ Durante la reunión de planificación del Sprint 2, el equipo identificó los ob
 | **Sum of Story Points** | 67 Story Points |
 
 
-
-
-##### 5.2.2.2. Aspect Leaders and Collaborators. 
+#### 5.2.2.2. Aspect Leaders and Collaborators. 
 
 Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded Contexts: Authentication, Profile Management, Service Management y Service Contracting. A fin de garantizar una gestión clara y colaborativa del trabajo, se elaboró la siguiente matriz LACX. En ella se identifica quién asume el rol de líder (L) y quiénes colaboran (C) en cada uno de estos aspectos, asegurando una comunicación efectiva y responsabilidades bien definidas dentro del equipo.
 
@@ -2305,7 +2303,7 @@ Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded 
 
 
 
-##### 5.2.2.3. Sprint Backlog 2.
+#### 5.2.2.3. Sprint Backlog 2.
 
 Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa Frontend de la aplicación, estableciendo las bases visuales y funcionales que interactúan directamente con los usuarios. Se priorizó la implementación de componentes clave asociados a cada uno de los bounded contexts asignados individualmente a los integrantes, lo cual permitió una distribución clara de responsabilidades y un avance paralelo de las funcionalidades. Cada miembro del equipo asumió el liderazgo en el desarrollo de un conjunto específico de componentes, asegurando coherencia y continuidad en cada dominio funcional.
 
@@ -2355,7 +2353,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | US45          | Visualización de Calificaciones y Reseñas | TS0451               | Renderizado de calificaciones y comentarios   | Mostrar lista de reseñas y calificaciones en la vista del técnico o servicio | 1.5               | Leandro        | done   |
 | US45          | Visualización de Calificaciones y Reseñas | TS0452               | Cálculo de promedio de calificaciones         | Lógica para calcular y mostrar promedio de puntuación por técnico o servicio | 1.5               | Leandro        | done   |
 
-##### 5.2.2.4. Development Evidence for Sprint Review.
+#### 5.2.2.4. Development Evidence for Sprint Review.
 
 ## Development Evidence for Sprint Review
 
@@ -2369,7 +2367,7 @@ Durante el Sprint se avanzó en la implementación de los siguientes productos: 
 | Open-Source-4341/ElectroLink-FE           | master | u67287gdf |Agrego mi proyecto en la carpeta de LeandroFiles | Agregar reviews del Contracting Bounded Context             | 2025-05-13    |
 
 
-##### 5.2.2.5. Execution Evidence for Sprint Review. 
+#### 5.2.2.5. Execution Evidence for Sprint Review. 
 
 Durante este Sprint, el equipo logró implementar exitosamente las principales vistas del frontend de la aplicación ElectroLink, priorizando una experiencia de usuario fluida, intuitiva y visualmente coherente con el diseño propuesto. Se completó la estructura de navegación entre módulos clave, así como la visualización de datos simulados y el despliegue de componentes funcionales para cada uno de los bounded contexts asignados.
 
@@ -2400,7 +2398,7 @@ El enfoque colaborativo permitió que cada integrante trabajara de forma autóno
 <img  src="https://i.postimg.cc/5NJ0JYJt/image-24.webp"/>
 
 
-##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
 En el segundo sprint identificamos 20 endpoints provenientes de 5 controladores diferentes. Utilizamos swagger para la presente documentacion
 
@@ -2455,7 +2453,7 @@ En el segundo sprint identificamos 20 endpoints provenientes de 5 controladores 
 
 
 
-##### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
 Para ste despliegue hemos usado Beeseptor y FireBase
 
@@ -2471,7 +2469,7 @@ Service Contracting Bounded Context:
 Service Management Bounded Context :
 - https://service-management-bc.firebaseapp.com/dashboard
 
-##### 5.2.2.8. Team Collaboration Insights during Sprint. 
+#### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
 En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits.
 
@@ -2482,9 +2480,10 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 <img  src="https://i.postimg.cc/6QpBMgZV/image-27.webp"/>
 
 
-##### 5.2.3. Sprint 3 
+### 5.2.3. Sprint 3 
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
-##### 5.2.3.1. Sprint Planning 3. 
+
+#### 5.2.3.1. Sprint Planning 3. 
 Durante la reunión de planificación del Sprint 3, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad de la plataforma y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
 
 | **Sprint #** | Sprint 3 |
@@ -2502,7 +2501,7 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 | **Sprint n Velocity** | 100% |
 | **Sum of Story Points** | 233 Story Points |
 
-##### 5.2.3.2. Aspect Leaders and Collaborators. 
+#### 5.2.3.2. Aspect Leaders and Collaborators. 
 
 Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
 
@@ -2514,7 +2513,7 @@ Durante este sprint, la asignación de responsabilidades técnicas se mantuvo po
 | Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                           | L                                                 |                         |                          |
 | Del Aguila Ayala, Ricardo               | Rexest01            |                                           |                                                   | L                       | C                        |
 
-##### 5.2.3.3. Sprint Backlog 3. 
+#### 5.2.3.3. Sprint Backlog 3. 
 
 Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información.
 
@@ -2661,7 +2660,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | | | T002 | Configuración de portal | Configurar opciones disponibles en portal | 2 | Italo|Done |
 
 <hr>
-##### 5.2.3.4.Development Evidence for Sprint Review.
+#### 5.2.3.4.Development Evidence for Sprint Review.
 
 | Repository                                | Branch | Commit ID | Commit Message                                 | Commit Message Body                                         | Committed on  |
 |-------------------------------------------|--------|-----------|-----------------------------------------------|-------------------------------------------------------------|---------------|
@@ -2685,7 +2684,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 
 <hr>
-##### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
 
 <img  src="https://i.imgur.com/Xwg2jcV.png"/>
 
@@ -2699,7 +2698,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 <img  src="https://i.imgur.com/pX8TsuU.png"/>
  
-##### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
 | Método | Endpoint | Descripción |
 |--------|----------|-------------|
@@ -2834,7 +2833,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 ---
 
-##### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
 <img  src="https://i.imgur.com/AHQ3KII.png"/>
 
@@ -2846,16 +2845,48 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <img  src="https://i.imgur.com/pjB7ptM.png"/>
 <img  src="https://i.imgur.com/27MSHgu.png"/>
 
-##### 5.2.3.8. Team Collaboration Insights during Sprint.  
+#### 5.2.3.8. Team Collaboration Insights during Sprint.  
 
 <img  src="https://i.imgur.com/JfJ7B61.png"/>
 
 <img  src="https://i.imgur.com/H4SLsdv.png"/>
 
 <hr>
-##### 5.3. Validation Interviews. 
 
-##### 5.3.1. Diseño de Entrevistas. 
+### 5.2.4. Sprint 4
+En esta sección , el equipo definio la planificación y presentó evidencias del desarrollo del sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+En esta sección, el equipo planificó el Sprint 4
+<br>
+
+#### 5.2.4.2. Sprint Backlog 4
+En esta sección, el equipo presenta el Sprint Backlog 4
+<br>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+En esta sección, se muestran evidencias del desarrollo del sprint 4
+
+<br>
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+En esta secciónm, el equipo presenta la evidencia sobre pruebas del sprint 4
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+En esta sección, se presenta evidencia de ejecución para el sprint 4 
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En esta sección, se presenta la evidencia de documentación de lo desarrollado en el sprint 4
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+En esta sección, el equipo presenta la evidencia sobre el despliegué tanto de la solución front-end, el back-end y la landing page de la solución.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+En esta sección, el equipo presenta evidencia de la colaboración activa en github.
+
+### 5.3. Validation Interviews. 
+
+#### 5.3.1. Diseño de Entrevistas. 
 
 # Entrevistas por Segmento - Plataforma ElectroLink
 
@@ -2909,7 +2940,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 12. ¿Qué cosas le agregarías al panel de proveedor para sentirte más apoyado como técnico?
 ---
 
-##### 5.3.2. Registro de Entrevistas. 
+#### 5.3.2. Registro de Entrevistas. 
 
 1. Leonardo Prieto
    <img src="https://imgur.com/a/ziyF7pW">
@@ -3005,7 +3036,7 @@ Además, sus comentarios demuestran que valora:
 
 ---
 
-##### 5.3.3. Evaluaciones según heurísticas.
+#### 5.3.3. Evaluaciones según heurísticas.
 
 <hr>
 Evaluación Heurística de ElectroLink
