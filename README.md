@@ -664,7 +664,7 @@ De acuerdo con Easwaramoorthy y Zarinpoush (2006), las entrevistas son un métod
 **Entrevista: Mari Vallejos**  
 - **Sexo:** Femenino  
 - **Edad:** 30  
-- **Link:** [Ver entrevista](https://www.youtube.com/watch?v=nTeFYzyawYk)  
+- **Link:** https://www.youtube.com/watch?v=nTeFYzyawYk
 - **Inicia en:** 0:06  
 - **Duración:** 6:35
   
@@ -684,7 +684,7 @@ Mari muestra interés en una plataforma como **ElectroLink**, siempre que incluy
 **Entrevista : Piero Tenorio**  
 - **Sexo:** Masculino  
 - **Edad:** 26  
-- **Link:** [Ver entrevista](https://www.youtube.com/watch?v=_z8UNTi_cmA)  
+- **Link:** https://www.youtube.com/watch?v=_z8UNTi_cmA
 - **Inicia en:** 0:01  
 - **Duración:** 9:54
 <img src="https://i.imgur.com/9iDrwLt.png"/>
@@ -700,7 +700,7 @@ Está dispuesto a usar **ElectroLink** si ofrece proveedores certificados, rese�
 **Entrevista : Brian Cerna**  
 - **Sexo:** Masculino  
 - **Edad:** 25  
-- **Link:** [Ver entrevista](https://www.youtube.com/watch?v=m8Q_n7i_xEk)  
+- **Link:** https://www.youtube.com/watch?v=m8Q_n7i_xEk
 - **Inicia en:** 0:01  
 - **Duración:** 6:16
 <img src="https://i.imgur.com/SGDI7gr.png"/>
@@ -724,7 +724,7 @@ Considera que una herramienta de este tipo podría ofrecerle una ventaja competi
 **Entrevista: Juan Lucas**  
 - **Sexo:** Masculino  
 - **Edad:** 25  
-- **Link:** [Ver entrevista](https://youtu.be/I_ISRdC6mHI)  
+- **Link:** https://youtu.be/I_ISRdC6mHI
 - **Inicia en:** 0:01  
 - **Duración:** 4:52  
 <img src="https://i.imgur.com/CsMAftn.png"/>
@@ -1603,8 +1603,9 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 <img src="https://i.imgur.com/XQd56bO.png"/>
 
 <img src="https://i.imgur.com/soOCrA8.png"/>
-
-[Ver diagrama en Lucidchart](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
+<br>
+_Enlace del Diagrama Lucidchart:_
+https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0
 
 ### 4.4.2. Web Applications Mock-ups
 
@@ -1632,8 +1633,9 @@ Esta sección presenta los prototipos de interfaz de usuario , los cuales incluy
 interacción se fundamentan en criterios clave, como la facilidad de uso, la accesibilidad y la optimización para distintos dispositivos.
 
 <img src="https://i.imgur.com/rUlcOAc.png"/>
-
-[Ver diseño en Figma](https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&t=9AhvJafsRNaQO2cX-1)
+<br>
+_Enlace del diseño en Figma:_
+https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&t=9AhvJafsRNaQO2cX-1
 
 
 ## 4.6. Domain-Driven Software Architecture
@@ -2197,7 +2199,7 @@ Para este primer Sprint , como equipo logramos implementar satisfactoriamente la
 Para realizar el diseño de los wireframes y mockups de la **Landing Page** para este Sprint, se hizo uso de la plataforma **Figma**.
 Para utilizar la plataforma:
 
-1. Se accede a través de la página oficial de Figma: [Figma Login](https://www.figma.com/login)
+1. Se accede a través de la página oficial de Figma: https://www.figma.com/login
     <img  src="https://i.imgur.com/GzXvBTl.png"/>
 2. Luego, se crea un **Draft** que nos servirá como base para el proyecto colaborativo.
    <img  src="https://i.imgur.com/S0yChMr.png"/>
@@ -2279,7 +2281,7 @@ Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa
 
 Además, como parte del compromiso con la experiencia del usuario, se implementó una nueva versión de la Landing Page, con un enfoque visual renovado. Esta incluye imágenes representativas de los servicios ofrecidos, buscando captar la atención desde el primer contacto y comunicar de manera más efectiva la propuesta de valor de la plataforma. Esta mejora visual no solo fortalece la identidad de marca, sino que también establece una conexión más directa con las necesidades de los usuarios.
 
-Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en Trello](https://trello.com/b/iKXzrJ60/electrolink-aplicaciones-web)
+Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/iKXzrJ60/electrolink-aplicaciones-web
 
 <img  src="https://i.postimg.cc/J0tYs39W/trytrytryr.png"/>
 
@@ -2487,7 +2489,7 @@ Durante este sprint, la asignación de responsabilidades técnicas se mantuvo po
 
 Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información.
 
-Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en Trello](https://trello.com/b/pPESu5NU/sprint-backlog-3)
+Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/pPESu5NU/sprint-backlog-3
 
 <img  src="https://i.imgur.com/0XuNwIT.png"/>
 
