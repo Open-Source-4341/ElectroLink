@@ -2986,10 +2986,12 @@ En esta sección, el equipo presenta evidencia de la colaboración activa en git
 
 #### 5.3.2. Registro de Entrevistas. 
 
-1. Leonardo Prieto
-   <img src="https://imgur.com/a/ziyF7pW">
+1. Leonardo Prieto<br>
 
-   Duración: 6:28 min
+   <img src="https://i.ibb.co/99cNgWzz/lol-Imgur.png" style="width:800px; height:400px;"/>
+    _Entrevista del Frontend Application a Leonardo Prieto_
+
+   Duración: 6:28 min<br>
    Empieza: 00:00
    
 *Resumen de la opinión del entrevistado sobre la aplicación Electrolink*
@@ -3033,12 +3035,13 @@ Además, sus comentarios demuestran que valora:
 
 ---
 
-2. Piero Tenorio Medina
-   <img src="">
+2. Piero Tenorio Medina <br>
+   <img  src="https://i.ibb.co/V09GMF8T/imagen.png" style="width:800px; height:400px;"/>
+   _Entrevista del Frontend Application a Piero Tenorio_
 
-   Enlace: https://youtu.be/Epc6R8F4hjE
-   Duración: 7:53 min
-   Empieza: 00:00
+   Enlace: https://youtu.be/Epc6R8F4hjE <br>
+   Duración: 7:53 min<br>
+   Empieza: 00:00<br>
    
 *Resumen de la opinión del entrevistado sobre la aplicación Electrolink*
 
