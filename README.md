@@ -3089,7 +3089,7 @@ Además, sus comentarios demuestran que valora:
 Evaluación Heurística de ElectroLink
 
 **Carrera:** Ingeniería de Software  
-**Curso:** Aplicaciones Web  
+**Curso:** Desarrollo de Aplicaciones Open Source  
 **Auditor:** ElectroLink  
 **Plataforma evaluada:** ElectroLink – Plataforma Web  
 
@@ -3177,11 +3177,25 @@ Evaluación Heurística de ElectroLink
 
 **Bibliografía**
 
+- Angular Cookbook. (2021). Packt Publishing.
+
+- Angular. Retrieved. (s. f.). [https://angular.io/guide/i18n-overview](https://angular.io/guide/i18n-overview)
+
 - Del Aguila-Obra, A. R., Al-dweeri, R. M., & Padilla-Meléndez, A. (2012). *Factores determinantes de la calidad de los servicios electrónicos en el contexto de los operadores postales*. *Universia Business Review*, (35), 114-123. [https://www.redalyc.org/pdf/433/43323842006.pdf](https://www.redalyc.org/pdf/433/43323842006.pdf)
+
+- Deinum, Marten. author. (2018). Spring Boot 2 Recipes A Problem-Solution Approach  (1st ed. 2018.). Apress. [https://doi.org/10.1007/978-1-4842-3963-6](https://doi.org/10.1007/978-1-4842-3963-6)
+
+- Fredrich, T., & Pearson eCollege. (s. f.). RESTAPITutorial. [https://www.restapitutorial.com](https://www.restapitutorial.com)
 
 - Mohammad-Al-dweeri, R. (2011). *La calidad en los servicios electrónicos como estrategia competitiva: Modelo de análisis de sus componentes y efectos sobre la satisfacción y la lealtad*. [https://libros.metabiblioteca.org/handle/001/291](https://libros.metabiblioteca.org/handle/001/291)
   
 - Ramos, Á. F. V., & Sánchez-Franco, M. J. (2004). *La calidad de servicio electrónico: un análisis de los efectos moderadores del comportamiento de uso de la web*. *Cuadernos de Economía y Dirección de la Empresa*, (21), 121-125. [https://dialnet.unirioja.es/descarga/articulo/1143462.pdf](https://dialnet.unirioja.es/descarga/articulo/1143462.pdf)
+
+- Selvaraj, S. (2024). Mastering REST APIs: Boosting Your Web Development Journey with Advanced API Techniques (1.a ed.). Apress L. P. [https://doi.org/10.1007/979-8-8688-0309-3](https://doi.org/10.1007/979-8-8688-0309-3)
+
+- Leonard, Anghel. author. (2020). Spring Boot Persistence Best Practices Optimize Java Persistence Performance in Spring Boot Applications  (1st ed. 2020.). Apress. [https://doi.org/10.1007/978-1-4842-5626-8](https://doi.org/10.1007/978-1-4842-5626-8])
+
+- Karanam, R. R. (2017). Mastering Spring 5.0. Packt Publishing, Limited.
 
 <hr>
 
