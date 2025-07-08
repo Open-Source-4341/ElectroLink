@@ -463,6 +463,8 @@ Nuestros usuarios principales son:
 <hr>
 
 ### 1.3. Segmentos Objetivos
+En esa sección se presentaran los segmentos objetivos encontrados
+<br>
 
 Nuestros usuarios principales son propietarios de hogares urbanos, dueños PYMES u oficinas y proveedores de componentes o servicios eléctricos certificados
 
