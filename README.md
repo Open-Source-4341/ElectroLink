@@ -3226,6 +3226,7 @@ Además, sus comentarios demuestran que valora:
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
+En esta sección, el equipo presenta la evalución en base a las heuristicas de diseño y accesibilidad
 <hr>
 Evaluación Heurística de ElectroLink
 
