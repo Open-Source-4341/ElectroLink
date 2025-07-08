@@ -2731,6 +2731,20 @@ Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/pPES
 <img  src="https://i.postimg.cc/gkwPgh5J/end2.png"/>
 
 <img  src="https://i.postimg.cc/WbQcC3L7/end3.png"/>
+
+<img  src="https://i.postimg.cc/VkLXyYqd/main.png "/>
+
+<img  src="https://i.postimg.cc/X7g9DZyR/requestd.png"/>
+
+<img  src="https://i.postimg.cc/tRW3WvRC/request.png"/>
+
+<img  src="https://i.postimg.cc/yxxz438L/fe4.png"/>
+
+<img  src="https://i.postimg.cc/XJVbLzSS/fe3.png"/>
+
+<img  src="https://i.postimg.cc/SKL4WpPf/fe2.png"/>
+
+<img  src="https://i.postimg.cc/JhCmDhph/fe.png"/>
  
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
@@ -2869,19 +2883,63 @@ Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/pPES
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
-<img  src="https://i.postimg.cc/VkLXyYqd/main.png "/>
+En esta sección, explicamos el despliegue de la aplicación Front-end en firebase
 
-<img  src="https://i.postimg.cc/X7g9DZyR/requestd.png"/>
+## Landing Page Deployment
+Ingresamos a github
+<br>
 
-<img  src="https://i.postimg.cc/tRW3WvRC/request.png"/>
+<img src="https://i.ibb.co/MyMxKJrb/image.png">
+<br>
+<br>
 
-<img  src="https://i.postimg.cc/yxxz438L/fe4.png"/>
+Nos dirijimos a la asección de pages en configuración
 
-<img  src="https://i.postimg.cc/XJVbLzSS/fe3.png"/>
+<br> 
+<img src="https://i.ibb.co/gZzF579M/image.png">
+<br>
+<br>
 
-<img  src="https://i.postimg.cc/SKL4WpPf/fe2.png"/>
+Configuramos la rama a desplegar y guardamos en save
 
-<img  src="https://i.postimg.cc/JhCmDhph/fe.png"/>
+<br>
+<img src="https://i.ibb.co/pjbt4Cvw/image.png">
+<br>
+<br>
+
+Con eso ya estariá deplegados los pasos de nuestra landing page.
+
+## Front End Application Deployment
+Ingresamos al portal de Firebase
+<br>
+
+<img src="https://i.ibb.co/tPvdG42H/image.png">
+<br>
+<br>
+
+Dentro del portal, reutilizamos la aplicación front end previamente desplegada "electrolink-frontend-v2".
+<br>
+
+<img src="https://i.ibb.co/xtKnQtdr/image.png">
+<br>
+<br>
+
+Ahora, desde la consola del IDE, realizamos los siguientes comandos
+<br>
+
+<img src="https://i.ibb.co/rfNWtpcp/image.png">
+<br>
+<br>
+
+
+Tras haber compilado subido el directorio dist, desplegamos con el siguiente comando y obtendremós el enlace de la aplicación front-end
+<br>
+
+<img src="https://i.ibb.co/fdzrZCP6/image.png">
+<br>
+<br>
+
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.  
 
