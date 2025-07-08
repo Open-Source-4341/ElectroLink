@@ -78,7 +78,7 @@
 
 ## Tabla de Contenidos
 
-- [Capítulo I: Introducción](#capítulo-i-introducción)
+- [Capítulo I: Introductionn](#capítulo-i-introduction)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de Integrantes del Equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -176,7 +176,9 @@ Cada miembro del equipo ha contribuido activamente en el desarrollo de competenc
 
 <div style="page-break-after: always;"></div>
 
-## Capítulo I: Introducción 
+## Capítulo I: Introduction
+
+Este capítulo proporciona una visión general del proyecto, incluyendo la problemática abordada, los objetivos planteados, la motivación del equipo y el alcance de la solución propuesta. Se establece el contexto en el que surge la necesidad de la plataforma ElectroLink, y se justifica su relevancia para los usuarios objetivo y el entorno actual.
 
 ### 1.1. Startup Profile
 
