@@ -1132,6 +1132,8 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
 
 ## Capítulo III: Requirements Specification
 
+En este apartado se formalizan los requerimientos del sistema en formato estructurado y verificable. Se presenta el catálogo de requisitos, modelos de casos de uso, restricciones técnicas y condiciones de aceptación. Esta especificación servirá como base contractual entre el equipo de desarrollo y los interesados.
+
 ### 3.1. To-Be Scenario Mapping
 
 <img src="https://i.imgur.com/fxj0F1w.jpeg"/>
@@ -1388,6 +1390,8 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 <div style="page-break-after: always;"></div>
 
 ## Capítulo IV: Product Design
+
+Este capítulo detalla el diseño de la solución propuesta desde una perspectiva técnica y visual. Incluye la arquitectura de software bajo principios de Domain-Driven Design (DDD), la selección de tecnologías, el diseño de base de datos y el modelado de entidades. También se presentan los mockups, diagramas de flujo y lineamientos de experiencia de usuario.
  
 ### 4.1. Style Guidelines
 
@@ -1875,6 +1879,8 @@ Subscription Billing Bounded Context
 <div style="page-break-after: always;"></div>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
+
+Se documenta el proceso de implementación progresiva del sistema mediante sprints. Se incluyen las decisiones técnicas clave, estrategias de control de versiones, convenciones de codificación y validación del producto con usuarios reales. Además, se abordan los procedimientos de despliegue, pruebas funcionales y ajustes realizados tras retroalimentación de validación.
 
 ## 5.1. Software Configuration Management
 
