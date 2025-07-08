@@ -61,7 +61,13 @@
 - [Organización GitHub: Open-Source-4341](https://github.com/Open-Source-4341)
 - [Repositorio GitHub: ElectroLink](https://github.com/Open-Source-4341)
 
+
 <img src="https://i.imgur.com/u3VdgdH.jpeg"/>
+_Insights del TB1_
+
+<img src="https://i.ibb.co/nMY7Ydy8/insights-1.png"/>
+_Insights del TF_
+
 <hr>
 
 ## Resumen de commits por contribuidor
