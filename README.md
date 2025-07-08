@@ -2329,7 +2329,7 @@ Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa
 
 Además, como parte del compromiso con la experiencia del usuario, se implementó una nueva versión de la Landing Page, con un enfoque visual renovado. Esta incluye imágenes representativas de los servicios ofrecidos, buscando captar la atención desde el primer contacto y comunicar de manera más efectiva la propuesta de valor de la plataforma. Esta mejora visual no solo fortalece la identidad de marca, sino que también establece una conexión más directa con las necesidades de los usuarios.
 
-Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/iKXzrJ60/electrolink-aplicaciones-web
+Este es nuestro link de invitación a nuestro Trello : [https://trello.com/invite/b/681a44b8fef87b42a1028d96/ATTId1538a17c4c63865b49f74f29b887a2604948011/electrolink](https://trello.com/invite/b/681a44b8fef87b42a1028d96/ATTId1538a17c4c63865b49f74f29b887a2604948011/electrolink)
 
 <img  src="https://i.postimg.cc/J0tYs39W/trytrytryr.png"/>
 
