@@ -2417,21 +2417,17 @@ Durante este Sprint, el equipo logró implementar exitosamente las principales v
 
 El enfoque colaborativo permitió que cada integrante trabajara de forma autónoma y coordinada en su respectivo contexto funcional, asegurando así una integración efectiva de los distintos componentes en la interfaz final. Como evidencia del progreso, a continuación se presentan capturas de pantalla de las vistas más representativas desarrolladas durante este Sprint, 
 
-<img  src="https://i.imgur.com/7PeSCNZ.png"/>
+<img  src="https://i.ibb.co/LzCkBHkf/ex6.png"/>
 
-<img  src="https://i.imgur.com/svmtfRX.png"/>
+<img  src="https://i.ibb.co/Zzjx7WVm/ex5.png"/>
 
+<img  src="https://i.ibb.co/qL8znbNZ/ex4.png"/>
 
-<img  src="https://i.imgur.com/D66T8Me.png"/>
+<img  src="https://i.ibb.co/b5r9njKr/ex3.png"/>
 
-<img  src="https://i.imgur.com/G9aLEWM.png"/>
 <img  src="https://i.postimg.cc/G2TdCr9r/Whats-App-Image-2025-05-13-at-12-26-14-1.jpg"/>
 
-<img  src="https://i.postimg.cc/hvwDmjwX/Whats-App-Image-2025-05-13-at-12-25-36.jpg"/>
-
-
 <img  src="https://i.postimg.cc/TwZKgCBj/92d49261-de39-4745-86c1-207df61e3600.webp"/>
-
 
 <img  src="https://i.postimg.cc/Wzwsz8V1/Whats-App-Image-2025-05-13-at-12-25-26.jpg"/>
 
@@ -2563,7 +2559,7 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa
 
 Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/pPESu5NU/sprint-backlog-3
 
-<img  src="https://i.imgur.com/0XuNwIT.png"/>
+<img  src="https://i.postimg.cc/gJMfDcH8/trello.png"/>
 
 
 | Sprint # | Sprint 3 | | | | | | |
@@ -2730,17 +2726,11 @@ Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/pPES
 <hr>
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-<img  src="https://i.imgur.com/Xwg2jcV.png"/>
+<img  src="https://i.postimg.cc/yxGCV6Js/end1.png"/>
 
-<img  src="https://i.imgur.com/QA0k4b0.png"/>
+<img  src="https://i.postimg.cc/gkwPgh5J/end2.png"/>
 
-<img  src="https://i.imgur.com/5po1hr0.png"/>
-
-<img  src="https://i.imgur.com/R0O1iDK.png"/>
-
-<img  src="https://i.imgur.com/e4CJSPS.png"/>
-
-<img  src="https://i.imgur.com/pX8TsuU.png"/>
+<img  src="https://i.postimg.cc/WbQcC3L7/end3.png"/>
  
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
@@ -2879,21 +2869,25 @@ Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/pPES
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
-<img  src="https://i.imgur.com/AHQ3KII.png"/>
+<img  src="https://i.postimg.cc/VkLXyYqd/main.png "/>
 
-<img  src="https://i.imgur.com/olaOQvK.png"/>
+<img  src="https://i.postimg.cc/X7g9DZyR/requestd.png"/>
 
-<img  src="https://i.imgur.com/ZgVkMkA.png"/>
-<img  src="https://i.imgur.com/Rawm4sz.png"/>
-<img  src="https://i.imgur.com/p7CTMeD.png"/>
-<img  src="https://i.imgur.com/pjB7ptM.png"/>
-<img  src="https://i.imgur.com/27MSHgu.png"/>
+<img  src="https://i.postimg.cc/tRW3WvRC/request.png"/>
+
+<img  src="https://i.postimg.cc/yxxz438L/fe4.png"/>
+
+<img  src="https://i.postimg.cc/XJVbLzSS/fe3.png"/>
+
+<img  src="https://i.postimg.cc/SKL4WpPf/fe2.png"/>
+
+<img  src="https://i.postimg.cc/JhCmDhph/fe.png"/>
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.  
 
-<img  src="https://i.imgur.com/JfJ7B61.png"/>
+<img  src="https://i.postimg.cc/XYG7Bm3s/contri.png"/>
 
-<img  src="https://i.imgur.com/H4SLsdv.png"/>
+<img  src="https://i.postimg.cc/6309NNLp/pulse.png"/>
 
 <hr>
 
