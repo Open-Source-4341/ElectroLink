@@ -9,13 +9,13 @@
 <h3 align="center">
     Carrera: Ingeniería de Software
     <br> <br>
-    Curso: SI730 - Open Source
+    Curso: SI730 - Desarrollo de Aplicaciones Open Source
     <br> <br>
     Sección: 4341
     <br> <br>
     Profesor: Juan Antonio Flores Moroco
     <br> <br>
-    Ciclo: 2025-01 
+    Ciclo: 2025-10 
     <br> <br>
     Informe de Trabajo Final
     <br> <br>
@@ -67,7 +67,10 @@
 <br>
 *Insights del TF*
 <img src="https://i.ibb.co/nMY7Ydy8/insights-1.png"/>
-
+<br>
+<img src="https://i.ibb.co/Z6sTmYQk/insights-2.png"/>
+<br>
+<img src=https://i.ibb.co/wNM0hNzy/insights-3.png/>
 
 <hr>
 
@@ -85,7 +88,7 @@
 
 ## Tabla de Contenidos
 
-- [Capítulo I: Introductionn](#capítulo-i-introduction)
+- [Capítulo I: Introduction](#capítulo-i-introduction)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de Integrantes del Equipo](#112-perfiles-de-integrantes-del-equipo)
