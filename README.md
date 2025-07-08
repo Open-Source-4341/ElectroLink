@@ -2728,25 +2728,61 @@ Este es nuestro link de invitación a nuestro Trello : https://trello.com/b/pPES
 <hr>
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-<img  src="https://i.postimg.cc/yxGCV6Js/end1.png"/>
+En esta sección, Tenemos los endpoints para Requests, Schedules, Services y Technicians 
+<br>
 
+<img  src="https://i.postimg.cc/yxGCV6Js/end1.png"/>
+<br>
+<br>
+
+Tambien tenemos los endpoints para Works y Catalog (Components)
 <img  src="https://i.postimg.cc/gkwPgh5J/end2.png"/>
 
 <img  src="https://i.postimg.cc/WbQcC3L7/end3.png"/>
 
+Respectivos Endpoints para Technician Inventory
+<br>
+
 <img  src="https://i.postimg.cc/VkLXyYqd/main.png "/>
+<br>
+<br>
+
+La evidencia respectiva de nuestra aplicación front end ejecutandose
+
+Formulario de Requests
+<br>
 
 <img  src="https://i.postimg.cc/X7g9DZyR/requestd.png"/>
+<br>
+<br>
 
-<img  src="https://i.postimg.cc/tRW3WvRC/request.png"/>
+
+El formulario y vista del inventario del tecnico
+<br>
 
 <img  src="https://i.postimg.cc/yxxz438L/fe4.png"/>
+<br>
+<br>
+
+La vista de los componentes
 
 <img  src="https://i.postimg.cc/XJVbLzSS/fe3.png"/>
+<br>
+<br>
+
+El formulario y vista del Horario
+<br>
 
 <img  src="https://i.postimg.cc/SKL4WpPf/fe2.png"/>
+<br>
+<br>
+
+El formulario de Reportes
+<br>
 
 <img  src="https://i.postimg.cc/JhCmDhph/fe.png"/>
+<br>
+<br>
  
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
