@@ -1300,6 +1300,8 @@ En esta sección, se definieron las epicas y la visualización de las user stori
 
 ### 3.3. Impact Mapping
 
+En este sección , el equipo presenta los mapas de impacto realizados 
+
 <hr>
 
 <img src="https://i.imgur.com/Abd2EgL.jpeg"/>
