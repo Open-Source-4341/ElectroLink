@@ -2865,13 +2865,14 @@ En esta sección, el equipo planificó el Sprint 4
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
 
-| **Team Member (Last Name, First Name)** | **GitHub Username** | **Service Operation and Monitoring** | **Profile and Preferences** | *Identity and Assets Management** |
-|-----------------------------------------|---------------------|-------------------------------------------|---------------------------------------------------|-------------------------|--------------------------|
-| Sánchez Manrique, Ludwing               | ItaloSanche         |                                           | C                                                 | L                                        |
-| Aliaga Aguirre, Ethan Matías            | MatFragg            |                                          |   C                                                |                                          |
-| Contreras Lopez , Leandro Saul           | WiDDsito          | C                                         |                                                    |                                          |
-| Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                           | L                                                 |   C                                       |
-| Del Aguila Ayala, Ricardo               | Rexest01            |  L                                         |                                                   |                                          |
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Service Operation and Monitoring** | **Profile and Preferences** | **Identity and Assets Management** |
+|-----------------------------------------|---------------------|--------------------------------------|------------------------------|------------------------------------|
+| Sánchez Manrique, Ludwing               | ItaloSanche         |                                      | C                            | L                                  |
+| Aliaga Aguirre, Ethan Matías            | MatFragg            |                                      | C                            |                                    |
+| Contreras Lopez, Leandro Saul           | WiDDsito            | C                                    |                              |                                    |
+| Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                      | L                            | C                                  |
+| Del Aguila Ayala, Ricardo               | Rexest01            | L                                    |                              |                                    |
+
 
 <br>
 
