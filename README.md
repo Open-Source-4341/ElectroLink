@@ -2990,28 +2990,28 @@ En esta sección, se presenta el sprint backlog 4
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
-<img  src="https://i.ibb.co/Rp1B4RxT/7c8bebf7-f9bd-4728-a6dc-1c1131947026.jpg"/>
+<img  src="https://i.postimg.cc/KzwsXDD0/7c8bebf7-f9bd-4728-a6dc-1c1131947026-1.jpg"/>
 
-<img  src="https://i.ibb.co/4nSvxbz7/bbde6494-e315-4433-9026-1e3435f0500e.jpg"/>
+<img  src="https://i.postimg.cc/9ffxrnxx/bbde6494-e315-4433-9026-1e3435f0500e-1.jpg"/>
 
-<img  src="https://i.ibb.co/zWgvhMNB/d67b08ef-0883-4368-9caa-125775c7863b.jpg"/>
+<img  src="https://i.postimg.cc/HkYzhNCp/d67b08ef-0883-4368-9caa-125775c7863b-1.jpg"/>
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-<img  src="https://i.ibb.co/ksXFKFT6/280218fe-28da-435d-89fd-97c9291e768f.jpg"/>
+<img  src="https://i.postimg.cc/3w6ZWJ0R/280218fe-28da-435d-89fd-97c9291e768f-1.jpg"/>
 
-<img  src="https://i.ibb.co/SDY5SRG6/bc809343-f09e-4a50-bb44-82149c52651f.jpg"/>
+<img  src="https://i.postimg.cc/RhmKn3SM/bc809343-f09e-4a50-bb44-82149c52651f-1.jpg"/>
 
-<img  src="https://i.ibb.co/27f5QXF5/f39078a9-2159-482b-b12d-f41c80e8ae14.jpg"/>
+<img  src="https://i.postimg.cc/4x0cQ2f2/f39078a9-2159-482b-b12d-f41c80e8ae14-1.jpg"/>
 
-<img  src="https://i.ibb.co/BVZVwtSz/d6a73e71-b447-4a97-ab90-529e7c740af7.jpg"/>
+<img  src="https://i.postimg.cc/SQGzvxQM/d6a73e71-b447-4a97-ab90-529e7c740af7-1.jpg"/>
 
-<img  src="https://i.ibb.co/BHt6LKJk/c2494dc5-ff89-4cf2-b84e-9a653eebd62c.jpg"/>
+<img  src="https://i.postimg.cc/q7nNXkZg/5122357d-b0d4-4693-9a73-48af8880b67d.jpg"/>
 
-<img  src="https://i.ibb.co/hJ09Vjv9/a6a105f7-9419-4603-b233-35a1d38048b7.jpg"/>
+<img  src="https://i.postimg.cc/8P0c2F2j/df562760-3766-4933-966f-8805fb761cbd.jpg"/>
 
-<img  src="https://i.ibb.co/pBrtMxrZ/c49bf950-f353-43b5-b3c6-7c4493c5a7ab-1.jpg"/>
+<img  src="https://i.postimg.cc/QMLtM2xD/335c4d6a-fb9a-45cd-9a47-8997896e5376.jpg"/>
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
