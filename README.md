@@ -81,16 +81,20 @@
 - [Repositorio GitHub: ElectroLink](https://github.com/Open-Source-4341)
   
 **Insights del TB1**
-
 <br>
+
+Insights del TB1
 <img src="https://i.imgur.com/u3VdgdH.jpeg"/>
 <br>
+
+Insights del TP
+<img src="https://i.ibb.co/nNPkXB0Z/image.png">
+
+Insights del TB2
+<img src="https://i.ibb.co/HpM3GL4R/image.png">
 <br>
+
 **Insights del TF**
-<img src="https://i.ibb.co/nMY7Ydy8/insights-1.png"/>
-<br>
-<img src="https://i.ibb.co/Z6sTmYQk/insights-2.png"/>
-<br>
 <img src=https://i.ibb.co/wNM0hNzy/insights-3.png/>
 
 <hr>
