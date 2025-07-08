@@ -835,8 +835,11 @@ Explorar si los usuarios estarían dispuestos a pagar por servicios premium (com
 <hr>
 
 ### 2.3. Needfinding
+En esta sección, el equipo presenta los elementos del needfinding
 
-## 2.3.1. User Personas
+#### 2.3.1. User Personas
+
+En esta sección, el equipo presenta a los user personas de acuerdo a los segmenots objetivos
 
 **Segmento #1**
 <img src="https://i.imgur.com/cKxq0Pi.png"/>
@@ -847,7 +850,7 @@ Explorar si los usuarios estarían dispuestos a pagar por servicios premium (com
 **Segmento #3**
 <img src="https://i.imgur.com/ma6WwLI.png"/>
 
-## 2.3.2. User Task Matrix
+#### 2.3.2. User Task Matrix
 
 En esta sección se detallan las tareas que realizan los diferentes segmentos de usuarios representados por los User Personas de **ElectroLink**, con el objetivo de cumplir sus metas relacionadas con el mantenimiento preventivo de sistemas eléctricos en hogares, oficinas o como parte de su actividad profesional.
 
@@ -893,6 +896,8 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 
 #### 2.3.3. User Journey Mapping
 
+En esta sección, el equipo el journey map 
+
 <img src="https://i.imgur.com/Tg4ikEM.jpeg"/>
 
 <hr>
@@ -900,6 +905,8 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 <hr>
 
 #### 2.3.4. Empathy Mapping
+
+En esta sección, el equipo presenta el empathy mapping para cada user persona
 
 <hr>
 
@@ -928,6 +935,8 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 <hr>
 
 ## 2.3.5. As-is Scenario Mapping
+
+En esta sección, el equipo presenta los escnerarios as is  para sus respectivos users personas
 
 **Alejandro Lopez**
 <img src="https://i.imgur.com/wdXr2ah.png"/>
@@ -1066,6 +1075,8 @@ Olivia es una usuaria cautelosa, exigente y preocupada por la seguridad y la cal
 <hr>
 
 ## 2.4. Ubiquitous Language
+En esta sección, el equipo presenta el lenguaje Ubicuo
+
 **Glosario del Dominio del Negocio - ElectroLink**
 
 Este glosario contiene términos clave relacionados al dominio del proyecto ElectroLink. Cada término está en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones están redactadas en español de forma clara y sin ambigüedades, para facilitar la comunicación entre todos los miembros del equipo y stakeholders.
@@ -1169,11 +1180,15 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
 En este apartado se formalizan los requerimientos del sistema en formato estructurado y verificable. Se presenta el catálogo de requisitos, modelos de casos de uso, restricciones técnicas y condiciones de aceptación. Esta especificación servirá como base contractual entre el equipo de desarrollo y los interesados.
 
 ### 3.1. To-Be Scenario Mapping
+En esta sección, el equipo presenta el to be scenario mapping para sus users personas en realción a los semgnetos objetivos
 
+Semgmento 1
 <img src="https://i.imgur.com/fxj0F1w.jpeg"/>
 
+Segmento 2
 <img src="https://i.imgur.com/vfkqiDy.jpeg"/>
 
+Segmento 3
 <img src="https://i.imgur.com/X2xKKWG.jpeg"/>
 
 <hr>
