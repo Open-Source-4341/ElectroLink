@@ -770,8 +770,10 @@ Considera que una herramienta de este tipo podría ofrecerle una ventaja competi
 - **Edad:** 25  
 - **Link:** https://youtu.be/I_ISRdC6mHI
 - **Inicia en:** 0:01  
-- **Duración:** 4:52  
-<img src="https://i.ibb.co/7t656QKQ/gfsdfsdfs.png">
+- **Duración:** 4:52
+
+<img src="https://i.ibb.co/7t656QKQ/gfsdfsdfs.png"/>
+
 **Resumen:**  
 Juan tiene conocimientos en electricidad y electrónica, y suele encargarse de resolver cualquier problema eléctrico en casa. Si no puede solucionarlo, contacta a amigos electricistas de confianza. Toma medidas preventivas básicas como apagar luces o usar llaves térmicas para evitar sobrecargas.
 
