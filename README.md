@@ -60,12 +60,14 @@
 **Enlace de la organización del proyecto**
 - [Organización GitHub: Open-Source-4341](https://github.com/Open-Source-4341)
 - [Repositorio GitHub: ElectroLink](https://github.com/Open-Source-4341)
+  
+**Insights del TB1**
 
-*Insights del TB1*<br>
+<br>
 <img src="https://i.imgur.com/u3VdgdH.jpeg"/>
 <br>
 <br>
-*Insights del TF*
+**Insights del TF**
 <img src="https://i.ibb.co/nMY7Ydy8/insights-1.png"/>
 <br>
 <img src="https://i.ibb.co/Z6sTmYQk/insights-2.png"/>
@@ -3192,6 +3194,13 @@ Evaluación Heurística de ElectroLink
 <hr>
 
 <div style="page-break-after: always;"></div>
+
+#### 5.4. Video About-the-Product
+
+En este video se presenta una visión general del producto, destacando sus principales características, su propuesta de valor, el problema que resuelve y cómo está diseñado para satisfacer las necesidades de los usuarios. Además, se explica brevemente la motivación detrás del desarrollo y se muestran algunas funcionalidades clave en acción.
+
+[Click here to watch the video](https://www.youtube.com/watch?v=vajqovVXk3o)
+
 
 ### Conclusiones
 
