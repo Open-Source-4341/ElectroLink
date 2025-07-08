@@ -2260,18 +2260,10 @@ Para utilizar la plataforma:
 Para la landing page, se utilizará Netlify para el despliegue de la página.
 <img  src="https://i.imgur.com/TvjlWO3.png"/>
 <img  src="https://i.imgur.com/R6p1HPD.png"/>
-<img  src="https://i.imgur.com/VSvMntJ.png"/>
 <img  src="https://i.imgur.com/7qutxbP.png"/>
-<img  src="https://i.imgur.com/JHy1GUn.png"/>
-<img  src="https://i.imgur.com/JHy1GUn.png"/>
-<img  src="https://i.imgur.com/ivg9PgP.png"/>
-<img  src="https://i.imgur.com/fomzdmK.png"/>
+
 
 Tras definir el repositorio , conectamos este mismo con el servicio de netlify para realizar el despliegue.
-<img  src="https://i.imgur.com/9UcQNGz.jpeg"  />
-<img  src="https://i.imgur.com/WwoVauY.jpeg"  />
-<img  src="https://i.imgur.com/KjFrH4v.jpeg"  />
-
 
 Para nuestro proyecto se crearon **2 repositorios**, el cuál fue:
 
