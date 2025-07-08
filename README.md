@@ -3018,6 +3018,33 @@ Controladores de Inventario de Técnicos, Servicios, Schedules y Requests, mostr
 
 <img  src="https://i.postimg.cc/HkYzhNCp/d67b08ef-0883-4368-9caa-125775c7863b-1.jpg"/>
 
+Formulario de inicio de sesión.
+<img  src="https://i.ibb.co/whjsKYvp/a8e06741-d495-437a-a6a5-6f84b35bfcfb-1.jpg"/>
+
+Formulario de registro completo con selección de rol (Homeowner o Technician)
+<img  src="https://i.ibb.co/nN3PkL5R/ecaa4d8d-4172-4281-93af-d664d20d8af6-1.jpg"/>
+
+Panel de bienvenida para Homeowner con botones de acceso rápido y opción de cambiar a vista de técnico.
+<img  src="https://i.ibb.co/SDJKzLhM/13539dec-d82b-4219-829f-9ba168d61549.jpg"/>
+
+Ventana “Agregar Nueva Propiedad” que combina campo de dirección, mapa Leaflet y datos de latitud/longitud.
+<img  src="https://i.ibb.co/FLTcHsYc/02909fe1-fa8a-4657-a4c9-edc7c7ae48e5.jpg"/>
+
+ Sección “Requests” mostrando un formulario detallado para crear una nueva petición con factura y foto.
+<img  src="https://i.postimg.cc/fbKNhpVB/90021629-d099-405b-8be7-0db13c9d5a4c.jpg"/>
+
+Pantalla de “Crear Componente Eléctrico” que incluye formulario, interruptor de estado activo y lista de componentes.
+<img  src="https://i.ibb.co/20g46pVv/38f6f6f8-58a7-4280-b73e-c6b6199250e9.jpg"/>
+
+Pantalla de gestión de “Tipos de Componente” para añadir un nuevo tipo y ver los existentes.
+<img  src="https://i.ibb.co/9mmgDh7V/75d95320-237d-4040-b8aa-5144d63045c1.jpg"/>
+
+Fomrulario para agregar tipos de componentes
+<img  src="https://i.ibb.co/b5NjfP70/1cd08997-50cc-41af-aefd-6648f26e10e5.jpg"/>
+
+Página de “Gestión de Horarios” con formulario para crear un horario de técnico (día y rango horario).
+<img  src="https://i.ibb.co/zVXHXDK3/7bf95771-fdf8-4bc2-9964-ec32a05c74ea.jpg"/>
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -3052,34 +3079,61 @@ Detalle del POST /services, mostrando la creación de un servicio con política,
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-Formulario de inicio de sesión.
-<img  src="https://i.ibb.co/whjsKYvp/a8e06741-d495-437a-a6a5-6f84b35bfcfb-1.jpg"/>
+En esta sección, explicamos el despliegue de la aplicación Front-end en firebase
 
-Formulario de registro completo con selección de rol (Homeowner o Technician)
-<img  src="https://i.ibb.co/nN3PkL5R/ecaa4d8d-4172-4281-93af-d664d20d8af6-1.jpg"/>
+## Landing Page Deployment
+Ingresamos a github
+<br>
 
-Panel de bienvenida para Homeowner con botones de acceso rápido y opción de cambiar a vista de técnico.
-<img  src="https://i.ibb.co/SDJKzLhM/13539dec-d82b-4219-829f-9ba168d61549.jpg"/>
+<img src="https://i.ibb.co/MyMxKJrb/image.png">
+<br>
+<br>
 
-Ventana “Agregar Nueva Propiedad” que combina campo de dirección, mapa Leaflet y datos de latitud/longitud.
-<img  src="https://i.ibb.co/FLTcHsYc/02909fe1-fa8a-4657-a4c9-edc7c7ae48e5.jpg"/>
+Nos dirijimos a la asección de pages en configuración
 
- Sección “Requests” mostrando un formulario detallado para crear una nueva petición con factura y foto.
-<img  src="https://i.postimg.cc/fbKNhpVB/90021629-d099-405b-8be7-0db13c9d5a4c.jpg"/>
+<br> 
+<img src="https://i.ibb.co/gZzF579M/image.png">
+<br>
+<br>
 
-Pantalla de “Crear Componente Eléctrico” que incluye formulario, interruptor de estado activo y lista de componentes.
-<img  src="https://i.ibb.co/20g46pVv/38f6f6f8-58a7-4280-b73e-c6b6199250e9.jpg"/>
+Configuramos la rama a desplegar y guardamos en save
 
-Pantalla de gestión de “Tipos de Componente” para añadir un nuevo tipo y ver los existentes.
-<img  src="https://i.ibb.co/9mmgDh7V/75d95320-237d-4040-b8aa-5144d63045c1.jpg"/>
+<br>
+<img src="https://i.ibb.co/pjbt4Cvw/image.png">
+<br>
+<br>
 
-Fomrulario para agregar tipos de componentes
-<img  src="https://i.ibb.co/b5NjfP70/1cd08997-50cc-41af-aefd-6648f26e10e5.jpg"/>
+Con eso ya estariá deplegados los pasos de nuestra landing page.
 
-Página de “Gestión de Horarios” con formulario para crear un horario de técnico (día y rango horario).
-<img  src="https://i.ibb.co/zVXHXDK3/7bf95771-fdf8-4bc2-9964-ec32a05c74ea.jpg"/>
+## Front End Application Deployment
+Ingresamos al portal de Firebase
+<br>
+
+<img src="https://i.ibb.co/tPvdG42H/image.png">
+<br>
+<br>
+
+Dentro del portal, reutilizamos la aplicación front end previamente desplegada "electrolink-frontend-v2".
+<br>
+
+<img src="https://i.ibb.co/xtKnQtdr/image.png">
+<br>
+<br>
+
+Ahora, desde la consola del IDE, realizamos los siguientes comandos
+<br>
+
+<img src="https://i.ibb.co/rfNWtpcp/image.png">
+<br>
+<br>
 
 
+Tras haber compilado subido el directorio dist, desplegamos con el siguiente comando y obtendremós el enlace de la aplicación front-end
+<br>
+
+<img src="https://i.ibb.co/fdzrZCP6/image.png">
+<br>
+<br>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 En esta sección, se evidenciara los insights de github
