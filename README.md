@@ -753,7 +753,7 @@ Considera que una herramienta de este tipo podría ofrecerle una ventaja competi
 - **Link:** https://youtu.be/I_ISRdC6mHI
 - **Inicia en:** 0:01  
 - **Duración:** 4:52  
-<img src="https://i.imgur.com/CsMAftn.png"/>
+<img src="https://i.imgur.com/CsMAftn.png">
 **Resumen:**  
 Juan tiene conocimientos en electricidad y electrónica, y suele encargarse de resolver cualquier problema eléctrico en casa. Si no puede solucionarlo, contacta a amigos electricistas de confianza. Toma medidas preventivas básicas como apagar luces o usar llaves térmicas para evitar sobrecargas.
 
@@ -761,32 +761,28 @@ Nunca ha contratado servicios eléctricos, pero comprende la importancia de cump
 
 ## 2.2.3. Análisis de entrevistas
 
-### Mari Vallejos  
-**Resumen:**  
-Mari es ama de casa y pasa la mayor parte del tiempo en el hogar, por lo que le afecta directamente cualquier problema eléctrico. Siente ansiedad ante fallas eléctricas porque no tiene conocimientos técnicos y depende de redes sociales o conocidos para encontrar ayuda. No toma medidas preventivas y prioriza la rapidez, puntualidad y compromiso. Le interesa una plataforma como **ElectroLink** con filtros por experiencia, costos y disponibilidad, y valora la posibilidad de programar mantenimientos.
+### Segmento #1: Propietarios de hogares urbanos
 
-**Insight clave:**  
-Existe una necesidad clara de confianza, rapidez y facilidad en el acceso a servicios eléctricos confiables y certificados.
+Los propietarios entrevistados, como **Mari Vallejos**, expresaron una fuerte dependencia de **redes sociales** y **recomendaciones informales** para resolver problemas eléctricos. El **desconocimiento técnico genera ansiedad**, y las decisiones de contratación se basan en criterios como **puntualidad, rapidez, compromiso** y **precio razonable**. La **prevención eléctrica es poco frecuente**, debido a la falta de información o cultura preventiva. Existe una clara **disposición a usar plataformas digitales**, siempre que incluyan **reseñas verificadas, técnicos certificados** y opciones de **filtrado según sus necesidades** (experiencia, precio, horarios).
 
----
-
-### Piero Tenorio  
-**Resumen:**  
-Piero dirige una empresa con varias sucursales que dependen de sistemas eléctricos para su funcionamiento diario (computadoras, escáneres, cámaras). Aunque no enfrenta fallas frecuentes, reconoce que cuando suceden afectan directamente las ventas y la productividad. Actualmente no tiene un plan de mantenimiento preventivo estructurado. Ha tenido referencias negativas de técnicos informales y valora mucho que los servicios sean confiables, con respaldo legal y buenas calificaciones. Le interesa usar una plataforma como **ElectroLink** para encontrar proveedores certificados, gestionar consumos por sucursal y prevenir interrupciones.
-
-**Insight clave:**  
-En el entorno empresarial, la continuidad operativa depende de la estabilidad eléctrica. Existe una fuerte necesidad de monitoreo, prevención y proveedores confiables, lo que hace que una solución digital como ElectroLink sea muy atractiva.
+> **Insight clave:** Este grupo valora la confianza, accesibilidad y la sensación de seguridad que brinda un servicio verificado. Una plataforma como **ElectroLink** puede convertirse en su aliado principal para enfrentar problemas eléctricos con mayor tranquilidad.
 
 ---
 
-### Juan Lucas  
-**Resumen:**  
-Juan tiene conocimientos de electricidad, por lo que suele resolver los problemas por sí mismo o con ayuda de amigos. No ha contratado servicios externos, pero valora la legalidad y la seguridad en instalaciones eléctricas. Considera útil contar con una red de proveedores verificados para consultas o situaciones que no pueda resolver solo.
+### Segmento #2: Dueños de PYMES u oficinas
 
-**Insight clave:**  
-Aunque usuarios con conocimientos técnicos no dependen de servicios externos, valoran el acceso a respaldo profesional certificado para casos más complejos o urgencias.
+Entrevistados como **Piero Tenorio** y **Brian Cerna** revelan que las fallas eléctricas, aunque no constantes, **generan pérdidas inmediatas** en productividad y atención al cliente. La gestión del mantenimiento suele ser **reactiva y poco sistematizada**. Se reconoce el valor de contratar **técnicos con certificación**, y se busca garantizar **respaldo legal, eficiencia y rapidez**. Este segmento está interesado en **plataformas que ayuden a optimizar el tiempo**, ofrecer control del consumo, mantenimiento preventivo y gestión multi-sucursal. Además, ven **una ventaja competitiva** en automatizar y digitalizar este proceso.
+
+> **Insight clave:** Existe una necesidad de digitalización en la gestión eléctrica empresarial. **ElectroLink** podría ofrecer valor inmediato con funcionalidades como historial de mantenimientos, seguimiento de consumos y contratación de técnicos certificados bajo SLA.
 
 ---
+
+### Segmento #3: Proveedores de componentes o servicios eléctricos certificados
+
+Proveedores como **Juan Lucas** valoran el **reconocimiento profesional**, pero enfrentan dificultades para competir con técnicos informales. Mencionan barreras como la **falta de canales para mostrar su experiencia, reseñas o certificaciones**. También existe interés en contar con una plataforma que les **brinde visibilidad, credibilidad** y **facilite la gestión de pedidos**. Están dispuestos a **pagar una suscripción si eso les garantiza mayor alcance**, clientes recurrentes y reputación digital consolidada.
+
+> **Insight clave:** **ElectroLink** puede convertirse en un ecosistema donde los proveedores formales fortalezcan su presencia, profesionalicen su oferta y generen relaciones duraderas con clientes que valoran la calidad y el cumplimiento normativo.
+
 
 ## Análisis de Hallazgos
 
@@ -2886,13 +2882,14 @@ En esta sección, el equipo planificó el Sprint 4
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
 
-| **Team Member (Last Name, First Name)** | **GitHub Username** | **Service Operation and Monitoring** | **Profile and Preferences** | *Identity and Assets Management** |
-|-----------------------------------------|---------------------|-------------------------------------------|---------------------------------------------------|-------------------------|--------------------------|
-| Sánchez Manrique, Ludwing               | ItaloSanche         |                                           | C                                                 | L                                        |
-| Aliaga Aguirre, Ethan Matías            | MatFragg            |                                          |   C                                                |                                          |
-| Contreras Lopez , Leandro Saul           | WiDDsito          | C                                         |                                                    |                                          |
-| Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                           | L                                                 |   C                                       |
-| Del Aguila Ayala, Ricardo               | Rexest01            |  L                                         |                                                   |                                          |
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Service Operation and Monitoring** | **Profile and Preferences** | **Identity and Assets Management** |
+|-----------------------------------------|---------------------|--------------------------------------|------------------------------|------------------------------------|
+| Sánchez Manrique, Ludwing               | ItaloSanche         |                                      | C                            | L                                  |
+| Aliaga Aguirre, Ethan Matías            | MatFragg            |                                      | C                            |                                    |
+| Contreras Lopez, Leandro Saul           | WiDDsito            | C                                    |                              |                                    |
+| Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                      | L                            | C                                  |
+| Del Aguila Ayala, Ricardo               | Rexest01            | L                                    |                              |                                    |
+
 
 <br>
 
