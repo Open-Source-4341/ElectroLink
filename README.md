@@ -3197,8 +3197,8 @@ Evaluación Heurística de ElectroLink
 
 #### 5.4. Video About-the-Product
 
-
-![Screenshot del video About the Product](https://i.ibb.co/j2VpW63/gfdgdfg.png)
+**Screenshot del video About the Product**
+<img src="https://i.ibb.co/j2VpW63/gfdgdfg.png"/>
 
 **Video publicado en Microsoft Stream:**  
 [Haz clic aquí para ver en Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316967_upc_edu_pe/EWQrrGFth9lMvM89pRXGIE8BoHNWlC3AKBBF9ZWBvfaQMQ?e=xP50zc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
