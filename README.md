@@ -60,12 +60,14 @@
 **Enlace de la organización del proyecto**
 - [Organización GitHub: Open-Source-4341](https://github.com/Open-Source-4341)
 - [Repositorio GitHub: ElectroLink](https://github.com/Open-Source-4341)
+  
+**Insights del TB1**
 
-*Insights del TB1*<br>
+<br>
 <img src="https://i.imgur.com/u3VdgdH.jpeg"/>
 <br>
 <br>
-*Insights del TF*
+**Insights del TF**
 <img src="https://i.ibb.co/nMY7Ydy8/insights-1.png"/>
 <br>
 <img src="https://i.ibb.co/Z6sTmYQk/insights-2.png"/>
@@ -3192,6 +3194,27 @@ Evaluación Heurística de ElectroLink
 <hr>
 
 <div style="page-break-after: always;"></div>
+
+#### 5.4. Video About-the-Product
+
+**Screenshot del video About the Product**
+<img src="https://i.ibb.co/j2VpW63/gfdgdfg.png"/>
+
+**Video publicado en Microsoft Stream:**  
+[Haz clic aquí para ver en Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316967_upc_edu_pe/EWQrrGFth9lMvM89pRXGIE8BoHNWlC3AKBBF9ZWBvfaQMQ?e=xP50zc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Video en YouTube (incrustado en el Landing Page):**  
+[https://www.youtube.com/watch?v=vajqovVXk3o](https://www.youtube.com/watch?v=vajqovVXk3o)
+
+**Duración del video:** 2 minutos y 35 segundos
+
+---
+
+### Descripción del Video:
+
+Este video presenta una introducción al producto desarrollado por el equipo, pensado tanto para los visitantes del Landing Page como para los usuarios que interactuarán directamente con la aplicación. Se explican los fundamentos del modelo de negocio, las principales funcionalidades del sistema y cómo la solución busca facilitar procesos claves del entorno real.
+
+Además de destacar su propuesta de valor, el video comunica el enfoque centrado en el usuario aplicado durante su diseño y desarrollo, así como una breve demostración funcional.
 
 ### Conclusiones
 
