@@ -24,7 +24,7 @@
     Producto: ElectroLink  
 </h3>
 
-<div align="center">
+<div aling="center">
 
 | <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
 |:-------------------------------------------:|:-------------------------------------------:|
@@ -40,6 +40,8 @@
 
 <hr>
 
+<div style="page-break-after: always;"></div>
+
 ## Registro de Versiones del Informe
 
 
@@ -51,6 +53,8 @@
 
 
 <hr>
+
+<div style="page-break-after: always;"></div>
 
 ## Project Report Collaboration Insights  
 
@@ -71,7 +75,7 @@
 | #4           | **Ethan Aliaga**     | 7           | 1,787                     | 14                          |
 | #5           | **Leandro Contreras**     | 6           | 244                       | 1                           |
 
-## Tabla de Contenidos
+<div style="page-break-after: always;"></div>
 
 ## Tabla de Contenidos
 
@@ -156,7 +160,7 @@
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-
+<div style="page-break-after: always;"></div>
 
 ## Student Outcome
 
@@ -166,6 +170,8 @@
 | Comunica por escrito con efectividad a diferentes rangos de audiencia | **Del Aguila Ayala, Ricardo Alejandro**  <br> **TB1:** Trabajé en la arquitectura del software aplicando Domain-Driven Design. Redacté historias de usuario, lideré la implementación de la landing page y documenté técnicamente cada componente. <br> **TP:** Coordiné la documentación del Sprint 2, incluyendo el Sprint Planning, Backlog y evidencias técnicas. Me enfoqué en comunicar con precisión los avances del equipo en el repositorio y en mantener alineadas las entregas técnicas con los criterios definidos. <br> **TB2:** Me encargué de revisar la consistencia entre las evidencias y los criterios de validación. Redacté parte de las conclusiones y lideré la organización de entrevistas de validación, asegurando claridad en las instrucciones y en la interpretación de los hallazgos. <br>  <br> **Sánchez Manrique, Italo Ludwing** <br> **TB1:** Elaboré y registré los documentos base del diseño UX, incluyendo fichas de User Persona y guías visuales. <br> **TP:** Redacté la documentación de endpoints, definiciones funcionales de componentes visuales y comentarios en el código para facilitar el trabajo colaborativo. <br> **TB2:** Sistematizé las observaciones recogidas durante las entrevistas y colaboré en el análisis por escrito de los resultados obtenidos para el informe final. <br> <br> **Machado Bracamonte, Ivo Marcelo** <br> **TB1:** Documenté prototipos de la landing page y participé en la redacción del marco visual dentro del repositorio. <br> **TP:** Redacté entregables gráficos explicativos y anotaciones sobre el comportamiento esperado de las interfaces. <br> **TB2:** Elaboré recursos gráficos complementados con descripciones detalladas y comentarios explicativos para guiar el proceso de validación con usuarios. <br> <br> **Aliaga Aguirre, Ethan Matías** <br> **TB1:** Registré el diseño técnico de la landing page en el repositorio y anoté convenciones para el trabajo colaborativo en la arquitectura. <br> **TP:** Documenté pruebas de integración y comuniqué por escrito las decisiones técnicas tomadas en la implementación del backend. <br> **TB2:** Redacté mejoras estructurales del código en base a la validación y comuniqué los ajustes necesarios para el refinamiento del sistema. <br> <br> **Contreras Lopez, Leandro Saúl** <br> **TB1:** Generé la documentación de configuración del entorno de desarrollo y la organización inicial del Product Backlog. <br> **TP:** Estructuré la documentación del Sprint Planning y validé el cumplimiento técnico de las entregas por escrito en el repositorio. <br> **TB2:** Consolidé los archivos de evidencia escritos y formateados de acuerdo con los estándares definidos. Redacté los entregables finales en función de los hallazgos de entrevistas. |<br> **TB1:** La documentación inicial permitió al equipo establecer una base clara y compartida, fomentando una comunicación escrita precisa en las primeras fases del proyecto. <br> **TP:** La escritura técnica fue clave para alinear criterios de implementación, facilitando la colaboración y asegurando coherencia entre los módulos desarrollados <br> **TB2:** La capacidad de redacción clara y orientada a resultados se consolidó, siendo esencial para transmitir hallazgos, conclusiones y mejoras de forma efectiva y profesional en el cierre del proyecto. <br> **TP:** |
 
 <hr>
+
+<div style="page-break-after: always;"></div>
 
 ## Capítulo I: Introducción 
 
@@ -480,8 +486,9 @@ Aspectos psicográficos:
 
 <hr>
 
+<div style="page-break-after: always;"></div> 
 
-<hr> 
+## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
 
@@ -785,6 +792,7 @@ Tanto en el entorno doméstico como empresarial, los entrevistados valoran la tr
 Explorar si los usuarios estarían dispuestos a pagar por servicios premium (como soporte prioritario o asesoría técnica especializada) permite analizar la viabilidad de modelos de negocio basados en **suscripciones** o **comisiones por servicio**. Algunos entrevistados afirmaron estar dispuestos a pagar si los beneficios ofrecidos son claros y valiosos, lo cual abre la puerta a monetización sostenible para ElectroLink.
 
 <hr>
+
 ### 2.3. Needfinding
 
 ## 2.3.1. User Personas
@@ -1112,11 +1120,10 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
 <hr>
 
 <hr>
+
+<div style="page-break-after: always;"></div>
+
 ## Capítulo III: Requirements Specification
-
-<hr>
-
-<hr>
 
 ### 3.1. To-Be Scenario Mapping
 
@@ -1370,6 +1377,8 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 | TS-14 | Listener de Webhook de Stripe | Como desarrollador, quiero crear un endpoint para recibir y procesar webhooks de Stripe. | 8 |
 
 <hr>
+
+<div style="page-break-after: always;"></div>
 
 ## Capítulo IV: Product Design
  
@@ -1856,7 +1865,13 @@ Subscription Billing Bounded Context
 <img src="https://i.imgur.com/z040ytB.png"/>
 <hr>
 
+<div style="page-break-after: always;"></div>
+
+## Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
+
+Aunque la falta de una gestión adecuada de la configuración del software puede generar desorden, confusión y versiones inconsistentes entre los miembros del equipo, implementar un control riguroso sobre el código fuente, los documentos de diseño y los activos digitales asegura que todos trabajen de manera coordinada y eficiente. Así, la colaboración entre desarrolladores se fortalece y se evitan errores derivados de trabajar con archivos desactualizados.
 
 <hr>
 
@@ -2152,11 +2167,6 @@ En esta sección se muestra el resultado de las pruebas de aceptación.
 | US-09 | Conocer la Misión de la Startup | **Escenario #2: Alineación con los valores**<br>Given que un visitante lee la misión de la empresa<br>When continúa explorando la sección<br>Then debe encontrar información sobre los valores corporativos que sustentan la misión<br>And estos valores deben estar claramente conectados con la declaración de misión<br>And deben presentarse de manera que refuercen la credibilidad de la empresa. | Pasado |
 | US-10 | Conocer la Visión de la Startup | **Escenario #1: Visibilidad de la declaración de visión**<br>Given que un visitante navega por la sección "Sobre nosotros"<br>When busca información sobre las metas futuras de la empresa<br>Then debe encontrar claramente destacada la declaración de visión<br>And esta debe estar redactada de forma inspiradora y orientada al futuro<br>And debe comunicar efectivamente hacia dónde se dirige la startup a largo plazo<br>And debe estar visualmente diferenciada de la misión. | Pasado | Screenshot_US10_E1.png | Diseño moderno con elementos gráficos de futuro |
 | US-10 | Conocer la Visión de la Startup | **Escenario #2: Objetivos estratégicos**<br>Given que un visitante lee la visión de la empresa<br>When continúa explorando la sección<br>Then debe encontrar información sobre algunos objetivos estratégicos o metas<br>And estos deben mostrar cómo la empresa planea hacer realidad su visión<br>And deben presentarse de manera estructurada y comprensible. | Pasado |
-
-
-
-
-<hr>
 
 <hr>
 
@@ -3158,7 +3168,7 @@ Evaluación Heurística de ElectroLink
 
 <hr>
 
-**Conclusiones**
+<div style="page-break-after: always;"></div>
 
 ### Conclusiones
 
@@ -3166,6 +3176,8 @@ Evaluación Heurística de ElectroLink
 - Las metodologías aplicadas (Lean UX, entrevistas, Journey Mapping) permitieron una comprensión más profunda de los usuarios, lo que fortaleció la propuesta de valor de Electrolink.
 - Se cumplieron los objetivos del primer sprint, consolidando la base técnica del sistema, el diseño de la interfaz y el despliegue de la landing page.
 - A pesar de algunas diferencias en la carga de trabajo entre miembros, se logró avanzar en los entregables de manera efectiva y dentro de los plazos establecidos.
+
+<div style="page-break-after: always;"></div>
 
 ### Recomendaciones
 
@@ -3177,7 +3189,9 @@ Evaluación Heurística de ElectroLink
 
 <hr>
 
-**Bibliografía**
+<div style="page-break-after: always;"></div>
+
+### Bibliografía
 
 - Angular Cookbook. (2021). Packt Publishing.
 
@@ -3201,10 +3215,14 @@ Evaluación Heurística de ElectroLink
 
 <hr>
 
-**Anexos**
+<div style="page-break-after: always;"></div>
+
+### Anexos
+
 - Enlace de Landing Page :
 [https://electrolinklp.netlify.app/](https://electrolinklp.netlify.app/)
 
 - Videos About the Product y About the Team
 [https://drive.google.com/drive/folders/1x2hjIgoX-pYteq0LMI-BeeicCZ-Og6Me?usp=drive_link](https://drive.google.com/drive/folders/1x2hjIgoX-pYteq0LMI-BeeicCZ-Og6Me?usp=drive_link)
+
 <hr>
