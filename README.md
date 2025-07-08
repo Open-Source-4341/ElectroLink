@@ -3197,10 +3197,24 @@ Evaluación Heurística de ElectroLink
 
 #### 5.4. Video About-the-Product
 
-En este video se presenta una visión general del producto, destacando sus principales características, su propuesta de valor, el problema que resuelve y cómo está diseñado para satisfacer las necesidades de los usuarios. Además, se explica brevemente la motivación detrás del desarrollo y se muestran algunas funcionalidades clave en acción.
 
-[Click here to watch the video](https://www.youtube.com/watch?v=vajqovVXk3o)
+![Screenshot del video About the Product](https://i.ibb.co/TMNrk682/gfdgdfg.png)
 
+**Video publicado en Microsoft Stream:**  
+[Haz clic aquí para ver en Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316967_upc_edu_pe/EWQrrGFth9lMvM89pRXGIE8BoHNWlC3AKBBF9ZWBvfaQMQ?e=xP50zc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Video en YouTube (incrustado en el Landing Page):**  
+[https://www.youtube.com/watch?v=vajqovVXk3o](https://www.youtube.com/watch?v=vajqovVXk3o)
+
+**Duración del video:** 2 minutos y 35 segundos
+
+---
+
+### Descripción del Video:
+
+Este video presenta una introducción al producto desarrollado por el equipo, pensado tanto para los visitantes del Landing Page como para los usuarios que interactuarán directamente con la aplicación. Se explican los fundamentos del modelo de negocio, las principales funcionalidades del sistema y cómo la solución busca facilitar procesos claves del entorno real.
+
+Además de destacar su propuesta de valor, el video comunica el enfoque centrado en el usuario aplicado durante su diseño y desarrollo, así como una breve demostración funcional.
 
 ### Conclusiones
 
