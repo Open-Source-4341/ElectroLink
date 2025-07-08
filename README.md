@@ -595,6 +595,7 @@ Cómo funciona TaskRabbit:
 <hr>
 
 ### 2.1.1. Análisis competitivo
+En esta sección, el equipo presenta el analisis competitivo 
 
 | Competitive Analysis Landscape |  |  |  |  |  |
 | ----- | :---- | :---- | :---- | :---- | :---- |
