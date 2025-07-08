@@ -495,6 +495,8 @@ Aspectos psicográficos:
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
+Aquí se describe el proceso de levantamiento y análisis de requerimientos funcionales y no funcionales del sistema. Incluye las técnicas utilizadas (entrevistas, encuestas, historias de usuario), los perfiles de usuario identificados y las prioridades del negocio. Se documentan las necesidades desde la perspectiva de los stakeholders, con énfasis en la trazabilidad y validación de requisitos clave.
+
 ### 2.1. Competidores
 
 Hoy en día el competitivo mercado digital en la contratación de servicios, existen diversas empresas importantes que ofrecen soluciones en áreas como reparaciones, mantenimiento y tareas domésticas. Entre los competidores más destacados se encuentran Thumbtack, Handy y TaskRabbit
@@ -555,7 +557,7 @@ Cómo funciona TaskRabbit:
 
 <hr>
 
-### 1.1. Análisis competitivo
+### 2.1.1. Análisis competitivo
 
 | Competitive Analysis Landscape |  |  |  |  |  |
 | ----- | :---- | :---- | :---- | :---- | :---- |
