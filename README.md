@@ -2396,10 +2396,10 @@ Durante este Sprint, el equipo logró implementar exitosamente las principales v
 El enfoque colaborativo permitió que cada integrante trabajara de forma autónoma y coordinada en su respectivo contexto funcional, asegurando así una integración efectiva de los distintos componentes en la interfaz final. Como evidencia del progreso, a continuación se presentan capturas de pantalla de las vistas más representativas desarrolladas durante este Sprint, 
 
 <img  src="https://i.imgur.com/7PeSCNZ.png"/>
-<img  src="https://i.imgur.com/ZOES2dC.png"/>
+
 <img  src="https://i.imgur.com/svmtfRX.png"/>
 
-<img  src="https://i.imgur.com/rlAqZAP.png"/>
+
 <img  src="https://i.imgur.com/D66T8Me.png"/>
 
 <img  src="https://i.imgur.com/G9aLEWM.png"/>
