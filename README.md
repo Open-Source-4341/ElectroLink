@@ -238,7 +238,7 @@ Nuestra visión es convertirnos en líderes globales en el desarrollo de tecnolo
 | ----------------------------------------------- | ----------------- | ---------------------- |
 | Italo Ludwing Sanchez Manrique	![Imagen del compañero](https://i.imgur.com/R1iMW0N.png)   | U202316967            | Mi nombre es Italo Ludwing Sanchez Manrique, soy estudiante de Ingeniería de Software en la UPC, tengo 19 años y actualmente curso el tercer ciclo académico. Destaco por mi perseverancia, tolerancia y compromiso con mis metas. En este proyecto, mi objetivo es buscar soluciones que beneficien al grupo, ya que tengo experiencia en trabajar de forma proactiva y colaborativa. Además, poseo sólidos conocimientos en lenguajes de programación como Java y C++. | 
 | Ethan Matias Aliaga Aguirre	![Imagen del compañero](https://i.imgur.com/AX80xyV.jpeg)   | U202318323            | Soy Ethan Matias Aliaga Aguirre, estudiante de 5to ciclo de Ingeniería de Software en la UPC, sede San Miguel. Me caracterizo por mi compromiso, responsabilidad, habilidad para trabajar en equipo y comunicación. Mis conocimientos Incluyen arquitectura de Software , desarrollo de APIs y Experiencias Web Full Stack. Además, tengo experiencia en el uso de herramientas como Photoshop, Filmadora y Vegas Studio, lo que me permite aportar con soluciones creativas y técnicas en mis proyectos. Estoy comprometido con mi crecimiento personal y profesional, siempre buscando aprender y mejorar en cada oportunidad que se presente. | 
-| Leandro Saúl Contreras Lopez	![Imagen del compañero](https://i.imgur.com/pGU3ER2.jpeg)   | U20231E215            | Mucho gusto, soy Leandro Contreras, estudiante de la carrera de Ingeniería de Software en la UPC, sede San Miguel, tengo 19 años y estoy cursando el quinto ciclo académico. Me considero una persona adaptativa, perseverante y comprometida con lo que me propongo. En este proyecto tengo como objetivo buscar múltiples soluciones que beneficien a todo el grupo, por experiencia propia suelo trabajar de manera colaborativa y eficaz. Terminando la carrera de ingeniería, me gustaría estudiar una segunda carrera: Gastronomía y Gestión culinaria | 
+| Leandro Saúl Contreras Lopez	![Imagen del compañero](https://i.postimg.cc/FF86sBWr/Screenshot-2025-07-08-at-5-48-58-PM.png)   | U20231E215            | Mucho gusto, soy Leandro Contreras, estudiante de la carrera de Ingeniería de Software en la UPC, sede San Miguel, tengo 19 años y estoy cursando el quinto ciclo académico. Me considero una persona adaptativa, perseverante y comprometida con lo que me propongo. En este proyecto tengo como objetivo buscar múltiples soluciones que beneficien a todo el grupo, por experiencia propia suelo trabajar de manera colaborativa y eficaz. Terminando la carrera de ingeniería, me gustaría estudiar una segunda carrera: Gastronomía y Gestión culinaria | 
 | Ivo Marcelo Machado Bracamonte	![Imagen del compañero](https://i.imgur.com/n8LhONl.png)   | U20231C368            | Mi nombre es Ivo Machado, tengo 19 años, soy estudiante y actualmente estudio en el quinto ciclo de ingeniería de software en la UPC. Mis fuertes son la mentalidad, no me rindo con facilidad y no le tengo miedo al error, tengo empatía con los demás, me gusta resolver problemas y siempre intento mejorar en lo que hago y seguir aprendiendo. Tengo conocimientos del lenguaje de programación C++, Java y un poco de Python, HTML, CSS y JavaScript, también domino el Inglés y sé Portugués. | 
 | Ricardo Alejandro del Agula Ayala	![Imagen del compañero](https://i.imgur.com/c731kt4.png)   | U202318323            | Mi nombre es Ricardo Alejandro Del Aguila Ayala, tengo 19 años y, actualmente, estoy cursando el cuarto ciclo de la carrera de Ingeniería de Software en la UPC. Al culminar, me gustaría especializarme en la ciberseguridad. Me considero una persona proactiva en todos los ámbitos. Asimismo, alguien que siempre está dispuesta a entregar lo mejor de sí para lograr un buen trabajo en equipo. Tengo experiencia en el lenguaje de programación C + +, Python, así como en Excel. Asisto a la iglesia, en donde formó parte de varias comunidades. Por ello, tengo una vasta experiencia en el trabajo en equipo, que puede permitir que asuma el liderazgo de este proyecto. | 
 
@@ -726,7 +726,7 @@ De acuerdo con Easwaramoorthy y Zarinpoush (2006), las entrevistas son un métod
 - **Inicia en:** 0:06  
 - **Duración:** 6:35
   
-<img src="https://i.imgur.com/4DuNuVf.png"/>
+<img src="https://i.postimg.cc/k4ZTG2y1/Screenshot-2025-07-08-at-5-52-09-PM.png"/>
 
 **Resumen:**  
 Mari es ama de casa y pasa la mayor parte del tiempo en su hogar, lo que la hace responsable de todos los asuntos domésticos. Cuando surge un problema eléctrico, como un corte de luz o un enchufe dañado, experimenta ansiedad por no saber cómo resolverlo. Su reacción suele ser buscar ayuda en redes sociales, especialmente en Instagram o grupos vecinales, basándose en recomendaciones y comentarios.
@@ -745,7 +745,7 @@ Mari muestra interés en una plataforma como **ElectroLink**, siempre que incluy
 - **Link:** https://www.youtube.com/watch?v=_z8UNTi_cmA
 - **Inicia en:** 0:01  
 - **Duración:** 9:54
-<img src="https://i.imgur.com/9iDrwLt.png"/>
+<img src="https://i.postimg.cc/jSKZD0zb/Screenshot-2025-07-08-at-5-53-11-PM.png"/>
 
 **Resumen:**  
 Piero es dueño de una pequeña empresa de autopartes con varias sucursales. Su negocio depende de equipos eléctricos como computadoras, escáneres, cámaras de seguridad y luces. Las fallas eléctricas, aunque poco frecuentes, afectan la productividad al interrumpir los sistemas de inventario, lo cual puede hacer que los clientes se vayan.
@@ -761,7 +761,7 @@ Está dispuesto a usar **ElectroLink** si ofrece proveedores certificados, rese�
 - **Link:** https://www.youtube.com/watch?v=m8Q_n7i_xEk
 - **Inicia en:** 0:01  
 - **Duración:** 6:16
-<img src="https://i.imgur.com/SGDI7gr.png"/>
+<img src="https://i.postimg.cc/yNpPpD21/Screenshot-2025-07-08-at-5-53-57-PM.png"/>
 
 En esta entrevista se conversó con Brian Cerna, representante del sector de dueños de pymes u oficinas, con el objetivo de conocer su experiencia y necesidades respecto a las instalaciones eléctricas en su negocio. Brian indicó que en su oficina utilizan instalaciones eléctricas trifásicas, ya que requieren soportar la carga de equipos industriales como calderas, aire acondicionado, un sistema de lavandería, además del sistema de iluminación, el cual funciona con luces LED. También cuentan con un grupo electrógeno como respaldo para asegurar el funcionamiento continuo.
 
@@ -785,7 +785,7 @@ Considera que una herramienta de este tipo podría ofrecerle una ventaja competi
 - **Link:** https://youtu.be/I_ISRdC6mHI
 - **Inicia en:** 0:01  
 - **Duración:** 4:52  
-<img src="https://i.imgur.com/CsMAftn.png">
+<img src="https://i.postimg.cc/JnyQf1Wb/Screenshot-2025-07-08-at-5-54-27-PM.png">
 **Resumen:**  
 Juan tiene conocimientos en electricidad y electrónica, y suele encargarse de resolver cualquier problema eléctrico en casa. Si no puede solucionarlo, contacta a amigos electricistas de confianza. Toma medidas preventivas básicas como apagar luces o usar llaves térmicas para evitar sobrecargas.
 
@@ -818,23 +818,23 @@ Proveedores como **Juan Lucas** valoran el **reconocimiento profesional**, pero 
 
 ## Análisis de Hallazgos
 
-<img src="https://i.imgur.com/2ZhWXIG.png"/>
+<img src="https://i.postimg.cc/NFmk0pFF/Screenshot-2025-07-08-at-5-55-09-PM.png"/>
 
 Los entrevistados resaltan como uno de los principales puntos de fricción la dificultad para identificar proveedores eléctricos realmente confiables. La presencia de técnicos informales sin certificaciones claras genera desconfianza. Este hallazgo valida la necesidad de que ElectroLink destaque las certificaciones legales de los proveedores como un diferenciador clave dentro de la plataforma.
 
-<img src="https://i.imgur.com/hItEKBn.png"/>
+<img src="https://i.postimg.cc/SNLGFTHt/Screenshot-2025-07-08-at-5-55-47-PM.png"/>
 
 La posibilidad de llevar un registro digital de los servicios eléctricos realizados (por ejemplo, mantenimientos o reparaciones) es vista como una funcionalidad útil, especialmente para usuarios que hoy lo hacen de forma manual. Esto refuerza la importancia de integrar funciones de gestión documental dentro de ElectroLink, facilitando el seguimiento y la trazabilidad de los trabajos realizados.
 
-<img src="https://i.imgur.com/M41WK4G.png"/>
+<img src="https://i.postimg.cc/4xBbnKf6/Screenshot-2025-07-08-at-5-56-16-PM.png"/>
  
 Consultas relacionadas con la recepción de recordatorios permiten identificar una oportunidad para fomentar el mantenimiento eléctrico preventivo. La mayoría de los usuarios no tiene hábitos estructurados en este aspecto. Una funcionalidad de alertas o notificaciones podría ser clave para ayudar a prevenir fallas eléctricas y extender la vida útil de las instalaciones.
 
-<img src="https://i.imgur.com/AeSaVNR.png"/>
+<img src="https://i.postimg.cc/wBrXcSs3/Screenshot-2025-07-08-at-5-56-48-PM.png "/>
 
 Tanto en el entorno doméstico como empresarial, los entrevistados valoran la transparencia. Acceder a opiniones reales de otros usuarios es considerado un elemento crucial para decidir a qué proveedor contratar. Por ello, se valida la necesidad de incluir una sección de **comentarios y calificaciones** dentro de la app para fomentar la confianza y facilitar la toma de decisiones.
 
-<img src="https://i.imgur.com/vX729eS.png"/>
+<img src="https://i.postimg.cc/d32GF3NT/Screenshot-2025-07-08-at-5-57-26-PM.png"/>
 
 Explorar si los usuarios estarían dispuestos a pagar por servicios premium (como soporte prioritario o asesoría técnica especializada) permite analizar la viabilidad de modelos de negocio basados en **suscripciones** o **comisiones por servicio**. Algunos entrevistados afirmaron estar dispuestos a pagar si los beneficios ofrecidos son claros y valiosos, lo cual abre la puerta a monetización sostenible para ElectroLink.
 
