@@ -3270,7 +3270,7 @@ Evaluación Heurística de ElectroLink
 <img src="https://i.ibb.co/j2VpW63/gfdgdfg.png"/>
 
 **Video publicado en Microsoft Stream:**  
-[[Haz clic aquí para ver en Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316967_upc_edu_pe/EWQrrGFth9lMvM89pRXGIE8BoHNWlC3AKBBF9ZWBvfaQMQ?e=xP50zc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316967_upc_edu_pe/EWQrrGFth9lMvM89pRXGIE8BoHNWlC3AKBBF9ZWBvfaQMQ?e=xP50zc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=vEkg2y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]([https://youtu.be/3_VQ7P-V9v0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=vEkg2y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))]
 
 **Video en YouTube (incrustado en el Landing Page):**  
 [https://www.youtube.com/watch?v=vajqovVXk3o](https://www.youtube.com/watch?v=vajqovVXk3o)
@@ -3339,7 +3339,7 @@ Además de destacar su propuesta de valor, el video comunica el enfoque centrado
 
 - Videos About the Product 
   [https://youtu.be/3_VQ7P-V9v0](https://youtu.be/3_VQ7P-V9v0)]
-  
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=vEkg2y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]([https://youtu.be/3_VQ7P-V9v0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=vEkg2y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))]
 - Video About the Team
   [https://youtu.be/dhwZBx9cvtc](https://youtu.be/dhwZBx9cvtc)
 <hr>
