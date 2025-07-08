@@ -1601,13 +1601,15 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 
 <img src="https://i.imgur.com/dwrbsjw.png"/>
 
-<img src="https://i.imgur.com/MdqLiaz.png"/>
+<img src="https://i.ibb.co/Fr25g7B/figma.png"/>
 
 ### 4.3.2. Landing Page Mock-up
 
-<img src="https://i.imgur.com/hXEACTz.png"/>
+<img src="https://i.ibb.co/vRc7pcB/figma2.png"/>
 
-<img src="https://i.imgur.com/gHvT3uz.png"/>
+<img src="https://i.ibb.co/B5JL7g29/figma3.png"/>
+
+<img src="https://i.ibb.co/tTv0ZvFQ/figma4.png"/>
 
 ### 4.4. Web Applications UX/UI Design.
 
@@ -1755,7 +1757,7 @@ Subscription Billing Bounded Context
 #### 4.7.1. Class Diagrams
 <hr>
 
-<img src="https://i.imgur.com/U7exloi.jpeg"/>
+<img src="https://i.ibb.co/Q3KsmkGk/diagram.png"/>
 <hr>
 
 #### 4.7.2. Class Dictionary
