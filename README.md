@@ -2982,26 +2982,46 @@ En esta sección, se presenta el sprint backlog 4
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+Vista general de Swagger con los grupos Autenticación, Propiedades y Perfiles, cada uno con sus operaciones CRUD protegidas.
+
 <img  src="https://i.postimg.cc/KzwsXDD0/7c8bebf7-f9bd-4728-a6dc-1c1131947026-1.jpg"/>
 
+Endpoints de Tipos de Componente, Componentes, Roles y Usuarios, listados para gestión y consulta.
+
 <img  src="https://i.postimg.cc/9ffxrnxx/bbde6494-e315-4433-9026-1e3435f0500e-1.jpg"/>
+
+Controladores de Inventario de Técnicos, Servicios, Schedules y Requests, mostrando endpoints CRUD y consultas especializadas.
 
 <img  src="https://i.postimg.cc/HkYzhNCp/d67b08ef-0883-4368-9caa-125775c7863b-1.jpg"/>
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+Detalle del POST /authentication/sign-up, con ejemplo de JSON de registro y respuesta de usuario creado.
+
 <img  src="https://i.postimg.cc/3w6ZWJ0R/280218fe-28da-435d-89fd-97c9291e768f-1.jpg"/>
+
+Detalle del POST /authentication/sign-in, mostrando el JSON de login y la respuesta con token JWT.
 
 <img  src="https://i.postimg.cc/RhmKn3SM/bc809343-f09e-4a50-bb44-82149c52651f-1.jpg"/>
 
+Detalle del POST /properties para crear una propiedad, con payload de dirección completo y respuesta 201.
+
 <img  src="https://i.postimg.cc/4x0cQ2f2/f39078a9-2159-482b-b12d-f41c80e8ae14-1.jpg"/>
+
+Detalle del POST /components, ilustrando la creación de un componente con su tipo y estado activo.
 
 <img  src="https://i.postimg.cc/SQGzvxQM/d6a73e71-b447-4a97-ab90-529e7c740af7-1.jpg"/>
 
+Detalle del POST /technician-inventories, devolviendo el inventario creado con stocks y umbrales.
+
 <img  src="https://i.postimg.cc/q7nNXkZg/5122357d-b0d4-4693-9a73-48af8880b67d.jpg"/>
 
+Detalle del POST /requests, con estructura completa de solicitud de servicio (factura, fotos, fechas).
+
 <img  src="https://i.postimg.cc/8P0c2F2j/df562760-3766-4933-966f-8805fb761cbd.jpg"/>
+
+Detalle del POST /services, mostrando la creación de un servicio con política, restricciones, etiquetas y componentes asociados.
 
 <img  src="https://i.postimg.cc/QMLtM2xD/335c4d6a-fb9a-45cd-9a47-8997896e5376.jpg"/>
 
