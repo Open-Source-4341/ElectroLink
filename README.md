@@ -774,6 +774,7 @@ Considera que una herramienta de este tipo podría ofrecerle una ventaja competi
 
 <img src="https://i.ibb.co/7t656QKQ/gfsdfsdfs.png"/>
 
+
 **Resumen:**  
 Juan tiene conocimientos en electricidad y electrónica, y suele encargarse de resolver cualquier problema eléctrico en casa. Si no puede solucionarlo, contacta a amigos electricistas de confianza. Toma medidas preventivas básicas como apagar luces o usar llaves térmicas para evitar sobrecargas.
 
