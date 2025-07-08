@@ -3024,7 +3024,7 @@ En esta sección, se presenta el sprint backlog 4
 
 <img  src="https://i.ibb.co/FLTcHsYc/02909fe1-fa8a-4657-a4c9-edc7c7ae48e5.jpg"/>
 
-<img  src="https://i.ibb.co/bjCCH78j/ed8c7849-9458-4745-b92e-68ac806f362c.jpg"/>
+<img  src="https://i.postimg.cc/fbKNhpVB/90021629-d099-405b-8be7-0db13c9d5a4c.jpg"/>
 
 <img  src="https://i.ibb.co/20g46pVv/38f6f6f8-58a7-4280-b73e-c6b6199250e9.jpg"/>
 
