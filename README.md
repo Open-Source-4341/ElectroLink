@@ -80,22 +80,28 @@
 - [Organización GitHub: Open-Source-4341](https://github.com/Open-Source-4341)
 - [Repositorio GitHub: ElectroLink](https://github.com/Open-Source-4341)
   
-**Insights del TB1**
-<br>
 
 Insights del TB1
+
+<br>
 <img src="https://i.imgur.com/u3VdgdH.jpeg"/>
 <br>
 
 Insights del TP
+
+<br>
 <img src="https://i.ibb.co/nNPkXB0Z/image.png">
+<br>
 
 Insights del TB2
+<br>
 <img src="https://i.ibb.co/HpM3GL4R/image.png">
 <br>
 
 **Insights del TF**
+<br>
 <img src=https://i.ibb.co/wNM0hNzy/insights-3.png/>
+<br>
 
 <hr>
 
