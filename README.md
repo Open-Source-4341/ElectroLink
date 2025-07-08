@@ -3270,7 +3270,7 @@ Evaluación Heurística de ElectroLink
 <img src="https://i.ibb.co/j2VpW63/gfdgdfg.png"/>
 
 **Video publicado en Microsoft Stream:**  
-[Haz clic aquí para ver en Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316967_upc_edu_pe/EWQrrGFth9lMvM89pRXGIE8BoHNWlC3AKBBF9ZWBvfaQMQ?e=xP50zc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[[Haz clic aquí para ver en Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316967_upc_edu_pe/EWQrrGFth9lMvM89pRXGIE8BoHNWlC3AKBBF9ZWBvfaQMQ?e=xP50zc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316967_upc_edu_pe/EWQrrGFth9lMvM89pRXGIE8BoHNWlC3AKBBF9ZWBvfaQMQ?e=xP50zc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Video en YouTube (incrustado en el Landing Page):**  
 [https://www.youtube.com/watch?v=vajqovVXk3o](https://www.youtube.com/watch?v=vajqovVXk3o)
@@ -3337,7 +3337,9 @@ Además de destacar su propuesta de valor, el video comunica el enfoque centrado
 - Enlace de Landing Page :
 [https://electrolinklp.netlify.app/](https://electrolinklp.netlify.app/)
 
-- Videos About the Product y About the Team
-[https://drive.google.com/drive/folders/1x2hjIgoX-pYteq0LMI-BeeicCZ-Og6Me?usp=drive_link](https://drive.google.com/drive/folders/1x2hjIgoX-pYteq0LMI-BeeicCZ-Og6Me?usp=drive_link)
-
+- Videos About the Product 
+  [https://youtu.be/3_VQ7P-V9v0](https://youtu.be/3_VQ7P-V9v0)]
+  
+- Video About the Team
+  [https://youtu.be/dhwZBx9cvtc](https://youtu.be/dhwZBx9cvtc)
 <hr>
