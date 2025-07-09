@@ -1,4 +1,5 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="120px" height="120px"/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="120px" height="120px"/>
 </p>
 
 <h1 align="center">
@@ -83,7 +84,7 @@
 Insights del TB1
 
 <br>
-<img src="https://i.imgur.com/u3VdgdH.jpeg"/>
+<img src="https://i.ibb.co/Tx3NjLSL/Whats-App-Image-2025-07-08-at-9-37-05-PM.jpg"/>
 <br>
 
 Insights del TP
@@ -1601,7 +1602,7 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 
 <img src="https://i.postimg.cc/7PKPL7jP/5675.png"/>
 
-<img src="https://i.postimg.cc/7PKPL7jP/5675.png"/>
+<img src="https://i.postimg.cc/fTwVkDHZ/75675.png"/>
 
 
 ### 4.4. Web Applications UX/UI Design.
