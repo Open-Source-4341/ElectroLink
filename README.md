@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/1b957f0d-26e9-469f-b684-9ee1b6730c9d)![image](https://github.com/user-attachments/assets/8944424a-ea34-4301-adfb-89b5945a43de)![image](https://github.com/user-attachments/assets/a67b51a6-c8ec-4fef-b116-8ca6929c6c61)![image](https://github.com/user-attachments/assets/b37eb851-487f-4f35-af08-16eb61d3411c)<p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="120px" height="120px"/>
 </p>
 
@@ -848,13 +848,13 @@ En esta sección, el equipo presenta los elementos del needfinding
 En esta sección, el equipo presenta a los user personas de acuerdo a los segmenots objetivos
 
 **Segmento #1**
-<img src="https://i.imgur.com/cKxq0Pi.png"/>
+<img src="https://i.postimg.cc/wjYCqGfK/Olivia-P-rez-4.png"/>
 
 **Segmento #2**
-<img src="https://i.imgur.com/oQYrqED.png"/>
+<img src="https://i.postimg.cc/L5ZWRtj6/Eduardo-Gonzales.png"/>
 
 **Segmento #3**
-<img src="https://i.imgur.com/ma6WwLI.png"/>
+<img src="https://i.postimg.cc/85Tk7CZS/Alejandro-L-pez-9.png"/>
 
 #### 2.3.2. User Task Matrix
 
@@ -898,13 +898,12 @@ En esta sección se detallan las tareas que realizan los diferentes segmentos de
 
 <hr>
 
-<hr>
 
 #### 2.3.3. User Journey Mapping
 
 En esta sección, el equipo el journey map 
 
-<img src="https://i.imgur.com/Tg4ikEM.jpeg"/>
+<img src="https://i.postimg.cc/SxDbgGrw/xcvcvc.png"/>
 
 <hr>
 
@@ -916,15 +915,13 @@ En esta sección, el equipo presenta el empathy mapping para cada user persona
 
 <hr>
 
-<img src="https://i.imgur.com/koIIfNX.jpeg"/>
+<img src="https://i.postimg.cc/xdzgXfct/ffsd.png"/>
 
 **Olivia Rodriguez**
 
 <hr>
 
-<hr>
-
-<img src="https://i.imgur.com/7BCEdvZ.jpeg"/>
+<img src="https://i.postimg.cc/pL9JSWYR/fsdfsdfsd.png"/>
 
 **Eduardo Gonzales**
 
@@ -932,7 +929,7 @@ En esta sección, el equipo presenta el empathy mapping para cada user persona
 
 <hr>
 
-<img src="https://i.imgur.com/RlO6qIK.jpeg"/>
+<img src="https://i.postimg.cc/59n5NYsf/Captura.png"/>
 
 **Alejandro Lopez**
 
@@ -945,7 +942,7 @@ En esta sección, el equipo presenta el empathy mapping para cada user persona
 En esta sección, el equipo presenta los escnerarios as is  para sus respectivos users personas
 
 **Alejandro Lopez**
-<img src="https://i.imgur.com/wdXr2ah.png"/>
+<img src="https://i.postimg.cc/cLN7xCsY/imagen-2025-07-08-205115361.png"/>
 
 **Áreas Negativas** 
 
@@ -990,7 +987,7 @@ Alejandro enfrenta varios puntos críticos en su proceso: publicidad poco efecti
 
 **Eduardo Gonzales**
 
-<img src="https://i.imgur.com/0k7QAZ8.png"/>
+<img src="https://i.postimg.cc/LXZJML0j/imagen-2025-07-08-205223250.png"/>
 
 **Áreas negativas**
 
@@ -1035,7 +1032,7 @@ Eduardo es un perfil técnico y exigente, que valora la calidad, la previsión y
 
 **Olivia Rodriguez**
 
-<img src="https://i.imgur.com/sTOJ4Wp.png"/>
+<img src="https://i.postimg.cc/gJR27dnD/imagen-2025-07-08-205305571.png"/>
 
 **Áreas negativas**
 
@@ -1189,13 +1186,13 @@ En este apartado se formalizan los requerimientos del sistema en formato estruct
 En esta sección, el equipo presenta el to be scenario mapping para sus users personas en realción a los semgnetos objetivos
 
 Semgmento 1
-<img src="https://i.imgur.com/fxj0F1w.jpeg"/>
+<img src="https://i.postimg.cc/QxR9064h/imagen-2025-07-08-205917558.png"/>
 
 Segmento 2
-<img src="https://i.imgur.com/vfkqiDy.jpeg"/>
+<img src="https://i.postimg.cc/wjZt4ww9/imagen-2025-07-08-205645366.png"/>
 
 Segmento 3
-<img src="https://i.imgur.com/X2xKKWG.jpeg"/>
+<img src="https://i.postimg.cc/J00MLLhv/imagen-2025-07-08-205729249.png"/>
 
 <hr>
 
@@ -1326,20 +1323,20 @@ En este sección , el equipo presenta los mapas de impacto realizados
 
 <hr>
 
-<img src="https://i.imgur.com/Abd2EgL.jpeg"/>
+<img src="https://i.postimg.cc/jjHPVLW0/asdasd.png"/>
 <hr>
 
+
+
+<img src="https://i.postimg.cc/Dz0060qP/rwerwetre.png"/>
 <hr>
 
-<img src="https://i.imgur.com/GqQM8At.jpeg"/>
+
+
+<img src="https://i.postimg.cc/8P7Z2mN2/asdasda.png"/>
 <hr>
 
-<hr>
 
-<img src="https://i.imgur.com/fA9MI5O.jpeg"/>
-<hr>
-
-<hr>
 
 ### 3.4. Product Backlog
 <hr>
@@ -1462,15 +1459,15 @@ El logo de ElectroLink representa la esencia de la plataforma como un puente mod
 
 *Logo Original*
 
-<img src="https://i.imgur.com/6rBCfjh.png"/>
+<img src="https://i.postimg.cc/MGm57smQ/434232.png"/>
 
 *Logo sin Letras*
 
-<img src="https://i.imgur.com/yD4YEyL.png"/>
+<img src="https://i.postimg.cc/Nf2xJGxY/423423.png"/>
 
 *Colores Invertidos*
 
-<img src="https://i.imgur.com/uMK9ErV.png"/>
+<img src="https://i.postimg.cc/k5sN627N/766.png"/>
 
 **Typography:**
 
@@ -1498,7 +1495,7 @@ Por otro lado, el gris cálido y el grafito profundo aportan equilibrio visual y
 
 De manera que el contenido de nuestro sitio web se vea organizado y sea mostrado de manera adecuada, implementamos el patrón F. El objetivo del patrón F en un sitio web es reflejar la forma natural en la que los usuarios escanean el contenido, empezando por la parte superior izquierda y moviéndose en forma de "F" hacia abajo. Este diseño resalta la información clave en las primeras líneas y en el lateral izquierdo, donde la vista se concentra más. Mejora la usabilidad al alinear la estructura con el comportamiento visual del usuario, facilitando la lectura rápida y efectiva. Se utiliza para mejorar la experiencia del usuario y destacar contenido relevante.
 
-<img src="https://i.imgur.com/ThilDbx.png"/>
+<img src="https://i.postimg.cc/JzWFVYKs/6456456.png"/>
 
 ## 4.1. Information Architecture
 
@@ -1509,7 +1506,7 @@ Asimismo, cada proveedor tendrá un perfil verificado con información detallada
 
 #### 4.2.1. Organization Systems
 Para representar la estructura de los usuario se han realizado diagramas para la explicación de la funcionalidades de la aplicación y el recorrido del usuario en la misma.
-<img src="https://i.imgur.com/wdxy51q.png"/>
+<img src="https://i.postimg.cc/W3D8J0XR/57567.png"/>
 
 #### 4.2.2. Labeling Systems
 
@@ -1589,27 +1586,24 @@ ElectroLink cuenta con un sistema de búsqueda avanzada que permite a los usuari
 
 Los sistemas de navegación de ElectroLink han sido diseñados para guiar de forma intuitiva a los usuarios a través del Landing Page y la aplicación, facilitando la exploración del contenido y el acceso a las funcionalidades clave. La estructura sigue una lógica clara que permite a cada tipo de usuario (hogar, oficina, proveedor) encontrar rápidamente lo que necesita mediante menús jerárquicos, enlaces destacados y botones de acción visibles.
 
-<img src="https://i.imgur.com/UnlLqHv.png"/>
+<img src="https://i.postimg.cc/LXBXDbyj/78768.png"/>
 
 ### 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe.
 
-<img src="https://i.imgur.com/RIIZVSE.png"/>
+<img src="https://i.postimg.cc/wx2MsnRp/67867.png"/>
 
-<img src="https://i.imgur.com/IsmTEYP.png"/>
+<img src="https://i.postimg.cc/kXh5T8yY/32432.png"/>
 
-<img src="https://i.imgur.com/dwrbsjw.png"/>
-
-<img src="https://i.ibb.co/Fr25g7B/figma.png"/>
+<img src="https://i.postimg.cc/Y9k2vxp0/5675.png"/>
 
 ### 4.3.2. Landing Page Mock-up
 
-<img src="https://i.ibb.co/vRc7pcB/figma2.png"/>
+<img src="https://i.postimg.cc/7PKPL7jP/5675.png"/>
 
-<img src="https://i.ibb.co/B5JL7g29/figma3.png"/>
+<img src="https://i.postimg.cc/7PKPL7jP/5675.png"/>
 
-<img src="https://i.ibb.co/tTv0ZvFQ/figma4.png"/>
 
 ### 4.4. Web Applications UX/UI Design.
 
@@ -1659,52 +1653,52 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 ---
 Los wireframes son una guía esencial para la implementación efectiva de la plataforma ElectroLink, alineando las necesidades de los usuarios con un diseño funcional, ordenado y accesible para todos.
 
-<img src="https://i.imgur.com/nwjF5Kr.png"/>
+<img src="https://i.postimg.cc/wM7CMts3/75675.png"/>
 
-<img src="https://i.imgur.com/7GeJ7Ua.png"/>
+<img src="https://i.postimg.cc/T38z232Y/686.png"/>
 
-<img src="https://i.imgur.com/C5Q56pR.png"/>
+<img src="https://i.postimg.cc/G2SfWcSR/3121231.png"/>
 
-<img src="https://i.imgur.com/8gOZ6GA.png"/>
+<img src="https://i.postimg.cc/1XkjzvQY/6757.png"/>
 
-<img src="https://i.imgur.com/5JAGI69.png"/>
+<img src="https://i.postimg.cc/c1v1r6WQ/3565.png"/>
 
-<img src="https://i.imgur.com/s4KR7ll.png"/>
+<img src="https://i.postimg.cc/fW1zXZW1/67456.png"/>
 
-<img src="https://i.imgur.com/i8ba802.png"/>
+<img src="https://i.postimg.cc/x129xRzR/453535.png"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="https://i.imgur.com/0BN4OZM.png"/>
+<img src="https://i.postimg.cc/xTw4P2L5/imagen-2025-07-08-211031407.png"/>
 
-<img src="https://i.imgur.com/nZSSUMC.png"/>
+<img src="https://i.postimg.cc/J0BQysYL/imagen-2025-07-08-211104504.png"/>
 
-<img src="https://i.imgur.com/XQd56bO.png"/>
+<img src="https://i.postimg.cc/SKP55SPh/4243.png"/>
 
-<img src="https://i.imgur.com/soOCrA8.png"/>
+<img src="https://i.postimg.cc/g0xtv92B/4534534.png"/>
 <br>
-_Enlace del Diagrama Lucidchart:_
-https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0
+
+[Abrir diagrama en Lucidchart](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
 
 ### 4.4.2. Web Applications Mock-ups
 
-<img src="https://i.imgur.com/G3TSic5.png"/>
+<img src="https://i.postimg.cc/G2YM5kYF/4645645.png"/>
 
-<img src="https://i.imgur.com/wZoh5ZE.png"/>
+<img src="https://i.postimg.cc/jdvMmqWF/6456456.png"/>
 
-<img src="https://i.imgur.com/nDd5iLM.png"/>
+<img src="https://i.postimg.cc/7ZWmPBn1/6456457.png"/>
 
-<img src="https://i.imgur.com/bXvd8W1.png"/>
+<img src="https://i.postimg.cc/dtQB2MWm/8678.png"/>
 
-<img src="https://i.imgur.com/ZxeRM6c.png"/>
+<img src="https://i.postimg.cc/Sx3fbnmD/88888.png"/>
 
-<img src="https://i.imgur.com/peSNSOz.png"/>
+<img src="https://i.postimg.cc/8cphmWbP/56756756.png"/>
 
-<img src="https://i.imgur.com/6Ah62mr.png"/>
+<img src="https://i.postimg.cc/PJS13x6b/78768768.png"/>
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
-<img src="https://i.imgur.com/28bjNjk.png"/>
+<img src="https://i.postimg.cc/rFp1d1mf/0890890.png"/>
 
 ## 4.5. Web Applications Prototyping
 
