@@ -1926,7 +1926,7 @@ Subscription Billing Bounded Context
 
 <hr>
 
-<img src="https://i.imgur.com/z040ytB.png"/>
+<img src="https://i.postimg.cc/zD9VSTXz/90.png"/>
 <hr>
 
 <div style="page-break-after: always;"></div>
@@ -2140,7 +2140,7 @@ En esta sección se detalla el Sprint Backlog correspondiente al Sprint 1, el cu
 
 Enlace del board donde se trabako el Sprint Backlog #1: https://trello.com/b/iKXzrJ60/electrolink
 
-<img  src="https://i.imgur.com/hTNhqqE.png"/>
+<img  src="https://i.postimg.cc/XJt7L0WH/97898.png"/>
 
 | Sprint # | Sprint 1 |  |  |  |  |  |  |
 |---------|---------|---------|---------|---------|---------|---------|---------|
@@ -2276,20 +2276,34 @@ Para realizar el diseño de los wireframes y mockups de la **Landing Page** para
 Para utilizar la plataforma:
 
 1. Se accede a través de la página oficial de Figma: https://www.figma.com/login
-    <img  src="https://i.imgur.com/GzXvBTl.png"/>
+    <img  src="https://i.postimg.cc/g2yX0rpY/65765.png"/>
 2. Luego, se crea un **Draft** que nos servirá como base para el proyecto colaborativo.
-   <img  src="https://i.imgur.com/S0yChMr.png"/>
+   <img  src="https://i.postimg.cc/dQzjk7bd/76867.png"/>
 ---
 
 ## Deployment
 
 Para la landing page, se utilizará Netlify para el despliegue de la página.
-<img  src="https://i.imgur.com/TvjlWO3.png"/>
-<img  src="https://i.imgur.com/R6p1HPD.png"/>
-<img  src="https://i.imgur.com/7qutxbP.png"/>
+<img  src="https://i.postimg.cc/W3d0tjSX/9789789.png"/>
+<img  src="https://i.postimg.cc/6qd2GQZL/567567.png"/>
+<img  src="https://i.postimg.cc/3Jtrfp30/876876.png"/>
+<img  src="https://i.postimg.cc/FRTnX9zp/87876.png"/>
+
+<img  src="https://i.postimg.cc/tg2zYBbC/5456.png"/>
+
+<img  src="https://i.postimg.cc/KvPpmr14/45345.png"/>
+
+<img  src="https://i.postimg.cc/prNkHpxD/32143.png"/>
 
 
 Tras definir el repositorio , conectamos este mismo con el servicio de netlify para realizar el despliegue.
+
+<img  src="https://i.postimg.cc/kMxvSMqp/645.png"/>
+
+<img  src="https://i.postimg.cc/YqdgNhVb/44.png"/>
+
+<img  src="https://i.postimg.cc/P5cwc0dD/111.png"/>
+
 
 Para nuestro proyecto se crearon **2 repositorios**, el cuál fue:
 
@@ -3074,25 +3088,17 @@ En esta sección, se presenta el sprint backlog 4
 
 #### 5.2.4.4. Development Evidence for Sprint Review 
 
-| Repository                                | Branch | Commit ID | Commit Message                                 | Commit Message Body                                         | Committed on  |
-|-------------------------------------------|--------|-----------|-----------------------------------------------|-------------------------------------------------------------|---------------|
-| HampCoders/Electrolink-Backend | HEAD -> main, origin/main, origin/HEAD | ff88fe7 | Merge pull request #6 from HampCoders/feature/ServiceDesignAndPlanning-bc | Implementing ServiceDesignAndPlanning Bounded Context | Sat Jun 21 17:37:59 2025 -0500 |
-| HampCoders/Electrolink-Backend | origin/feature/ServiceDesignAndPlanning-bc | ef68b22 | Implementing ServiceDesignAndPlanning Bounded Context |  | Monday Jul 7 17:37:07 2025 -0500 |
-| HampCoders/Electrolink-Backend |  | 0defeab | Merge pull request #4 from HampCoders/feature/ServiceOperations-BC | SOM Backend Implementation | Monday Jul 7 7:02:13 2025 -0500 |
-| HampCoders/Electrolink-Backend | origin/feature/ServiceOperations-BC | 4b88ae2 | Implementación inicial de ServiceOperations bounded context |  | Monday Jul 7 17:01:27 2025 -0500 |
-| HampCoders/Electrolink-Backend | origin/feature/Analytics-bounded-context | 3400e28 | feature: Add Analitics Bounded Context |  | Monday Jul 21 03:05:22 2025 -0500 |
-| HampCoders/Electrolink-Backend |  | 450356b | Merge pull request #3 from HampCoders/feature/Analytics-bounded-context | Merge pull request #2 from HampCoders/main | Monday Jul 7 02:07:40 2025 -0500 |
-| HampCoders/Electrolink-Backend |  | 6ba24ae | Merge pull request #2 from HampCoders/main | Merge main to feature Analitycs | Monday Jul 7 02:06:01 2025 -0500 |
-| HampCoders/Electrolink-Backend |  | 2a7ae64 | Merge branch 'develop' |  | Thu Monday 7 13:12:44 2025 -0500 |
-:
-| HampCoders/Electrolink-Backend | HEAD -> main, origin/main, origin/HEAD | ff88fe7 | Merge pull request #6 from HampCoders/feature/ServiceDesignAndPlanning-bc | Implementing ServiceDesignAndPlanning Bounded Context | Sat Jun 21 17:37:59 2025 -0500 |
-| HampCoders/Electrolink-Backend | origin/feature/ServiceDesignAndPlanning-bc | ef68b22 | Implementing ServiceDesignAndPlanning Bounded Context |  | Monday Jul 7 17:37:07 2025 -0500 |
-| HampCoders/Electrolink-Backend |  | 0defeab | Merge pull request #4 from HampCoders/feature/ServiceOperations-BC | SOM Backend Implementation | Monday Jul 7 17:02:13 2025 -0500 |
-| HampCoders/Electrolink-Backend | origin/feature/ServiceOperations-BC | 4b88ae2 | Implementación inicial de ServiceOperations bounded context |  | Monday Jul 7 17:01:27 2025 -0500 |
-| HampCoders/Electrolink-Backend | origin/feature/Analytics-bounded-context | 3400e28 | feature: Add Analitics Bounded Context |  | Monday Jul 7 03:05:22 2025 -0500 |
-| HampCoders/Electrolink-Backend |  | 450356b | Merge pull request #3 from HampCoders/feature/Analytics-bounded-context | Merge pull request #2 from HampCoders/main | Monday 7 21 02:07:40 2025 -0500 |
-| HampCoders/Electrolink-Backend |  | 6ba24ae | Merge pull request #2 from HampCoders/main | Merge main to feature Analitycs | Monday Jul 7 02:06:01 2025 -0500 |
-| HampCoders/Electrolink-Backend |  | 2a7ae64 | Merge branch 'develop' |  | Thu Monday 19 13:12:44 2025 -0500 |
+| Repository                     | Branch                                         | Commit ID | Commit Message                                                  | Commit Message Body                                      | Committed on                   |
+|-------------------------------|------------------------------------------------|-----------|------------------------------------------------------------------|----------------------------------------------------------|--------------------------------|
+| HampCoders/Electrolink-Backend | HEAD -> main, origin/main, origin/HEAD         | ff88fe7   | Merge pull request #6 from HampCoders/feature/ServiceDesignAndPlanning-bc | Implementing ServiceDesignAndPlanning Bounded Context | Sat Jun 21 17:37:59 2025 -0500 |
+| HampCoders/Electrolink-Backend | origin/feature/ServiceDesignAndPlanning-bc     | ef68b22   | Implementing ServiceDesignAndPlanning Bounded Context            |                                                          | Mon Jul 7 17:37:07 2025 -0500  |
+| HampCoders/Electrolink-Backend | *(none)*                                       | 0defeab   | Merge pull request #4 from HampCoders/feature/ServiceOperations-BC | SOM Backend Implementation                             | Mon Jul 7 17:02:13 2025 -0500  |
+| HampCoders/Electrolink-Backend | origin/feature/ServiceOperations-BC            | 4b88ae2   | Implementación inicial de ServiceOperations bounded context      |                                                          | Mon Jul 7 17:01:27 2025 -0500  |
+| HampCoders/Electrolink-Backend | origin/feature/Analytics-bounded-context       | 3400e28   | feature: Add Analytics Bounded Context                          |                                                          | Mon Jul 7 03:05:22 2025 -0500  |
+| HampCoders/Electrolink-Backend | *(none)*                                       | 450356b   | Merge pull request #3 from HampCoders/feature/Analytics-bounded-context | Merge pull request #2 from HampCoders/main           | Mon Jul 7 02:07:40 2025 -0500  |
+| HampCoders/Electrolink-Backend | *(none)*                                       | 6ba24ae   | Merge pull request #2 from HampCoders/main                       | Merge main to feature Analytics                         | Mon Jul 7 02:06:01 2025 -0500  |
+| HampCoders/Electrolink-Backend | *(none)*                                       | 2a7ae64   | Merge branch 'develop'                                          |                                                          | Thu Jul 17 13:12:44 2025 -0500 |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -3228,11 +3234,10 @@ Tras haber compilado subido el directorio dist, desplegamos con el siguiente com
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 En esta sección, se evidenciara los insights de github
 
-En esta imagen se observa la grafica de commits
-<img  src="https://i.imgur.com/JfJ7B61.png"/>
-
 En esta grafica se observan los colaboradores
-<img  src="https://i.imgur.com/H4SLsdv.png"/>
+
+<img src=https://i.ibb.co/wNM0hNzy/insights-3.png/>
+
 
 ### 5.3. Validation Interviews. 
 
@@ -3474,7 +3479,7 @@ Evaluación Heurística de ElectroLink
 <img src="https://i.ibb.co/j2VpW63/gfdgdfg.png"/>
 
 **Video publicado en Microsoft Stream:**  
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=vEkg2y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]([https://youtu.be/3_VQ7P-V9v0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=vEkg2y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))]
+[Ver video del producto](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=poBWky&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Video en YouTube (incrustado en el Landing Page):**  
 [https://www.youtube.com/watch?v=vajqovVXk3o](https://www.youtube.com/watch?v=vajqovVXk3o)
@@ -3491,10 +3496,26 @@ Además de destacar su propuesta de valor, el video comunica el enfoque centrado
 
 ### Conclusiones
 
-- El equipo logró mantener una estructura de trabajo colaborativa, distribuyendo adecuadamente las responsabilidades según las fortalezas de cada integrante.
-- Las metodologías aplicadas (Lean UX, entrevistas, Journey Mapping) permitieron una comprensión más profunda de los usuarios, lo que fortaleció la propuesta de valor de Electrolink.
-- Se cumplieron los objetivos del primer sprint, consolidando la base técnica del sistema, el diseño de la interfaz y el despliegue de la landing page.
-- A pesar de algunas diferencias en la carga de trabajo entre miembros, se logró avanzar en los entregables de manera efectiva y dentro de los plazos establecidos.
+Aplicación integral de Domain-Driven Design (DDD) como base estructural del sistema
+A lo largo de los cuatro sprints, implementamos con rigor el enfoque Domain-Driven Design, lo que nos permitió modelar el sistema en torno a las reglas del negocio y segmentarlo en bounded contexts claramente definidos. Esta estrategia favoreció una solución escalable, mantenible y con bajo acoplamiento, reflejada en la implementación exitosa de los módulos Profiles, IAM, Subscriptions, Monitoring y Service Design and Planning.
+
+Desarrollo completo de la solución con visión modular y centrada en el usuario
+El sistema final integra perfiles personalizables, control de acceso y autenticación, gestión de suscripciones con beneficios concretos, monitoreo de operaciones y planificación de servicios eléctricos. Cada módulo respondió directamente a una necesidad prioritaria detectada en la investigación inicial, asegurando que la solución tuviera impacto real tanto en usuarios residenciales como en proveedores eléctricos.
+
+Evolución progresiva y consistente en los 4 sprints
+A lo largo del ciclo de desarrollo, cada sprint abordó objetivos técnicos y funcionales de manera incremental: desde la validación de hipótesis con usuarios hasta el despliegue y prueba de funcionalidades clave. Esta metodología ágil nos permitió iterar rápidamente sobre feedback, ajustar componentes críticos del dominio y entregar una plataforma robusta al finalizar el proyecto.
+
+Trabajo colaborativo y madurez del equipo en entornos reales de ingeniería de software
+El equipo demostró madurez técnica y organizacional al distribuir responsabilidades de forma eficiente, resolver conflictos de integración y tomar decisiones fundamentadas en el dominio. A medida que el proyecto avanzaba, se fortaleció la sinergia entre los roles de análisis, desarrollo, diseño y pruebas, consolidando un flujo de trabajo productivo y alineado a los objetivos del cliente.
+
+Alineamiento entre descubrimiento de usuario y diseño técnico
+Las metodologías aplicadas —como entrevistas en profundidad, Lean UX, y Customer Journey Mapping— fueron claves para construir una solución centrada en el usuario. Estas herramientas no solo enriquecieron la comprensión del problema, sino que permitieron traducir insights reales en decisiones técnicas concretas a nivel de entidades, agregados, servicios y eventos de dominio.
+
+Base sólida para la evolución futura del producto en nuevos mercados
+La arquitectura actual permite escalar la plataforma a nuevas regiones y segmentos con mínima fricción técnica. Además, la implementación por contextos desacoplados favorece la incorporación futura de integraciones externas (pagos, logística, verificación digital) y mecanismos de gobernanza para comunidades de técnicos certificados.
+
+Cumplimiento de los objetivos estratégicos del proyecto
+ElectroLink finaliza su desarrollo como una solución madura que conecta de forma confiable a usuarios con técnicos certificados y proveedores de componentes, reduciendo significativamente los riesgos de informalidad e ineficiencia en el sector eléctrico. La plataforma logra resolver los principales pain points del mercado inicial, y está lista para ser validada en condiciones reales de uso con métricas claras de éxito.
 
 <div style="page-break-after: always;"></div>
 
@@ -3543,7 +3564,9 @@ Además de destacar su propuesta de valor, el video comunica el enfoque centrado
 
 - Videos About the Product 
   [https://youtu.be/3_VQ7P-V9v0](https://youtu.be/3_VQ7P-V9v0)]
-  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=vEkg2y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]([https://youtu.be/3_VQ7P-V9v0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=vEkg2y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))]
+  
+- Videos About the Product -  Microsoft Stream  [Ver video del producto](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=poBWky&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 - Video About the Team
   [https://youtu.be/dhwZBx9cvtc](https://youtu.be/dhwZBx9cvtc)
 <hr>
