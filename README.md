@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b957f0d-26e9-469f-b684-9ee1b6730c9d)![image](https://github.com/user-attachments/assets/8944424a-ea34-4301-adfb-89b5945a43de)![image](https://github.com/user-attachments/assets/a67b51a6-c8ec-4fef-b116-8ca6929c6c61)![image](https://github.com/user-attachments/assets/b37eb851-487f-4f35-af08-16eb61d3411c)<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="120px" height="120px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="120px" height="120px"/>
 </p>
 
 <h1 align="center">
