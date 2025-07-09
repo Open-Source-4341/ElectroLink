@@ -1715,30 +1715,39 @@ https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&t=9A
 
 
 ### 4.6.1. Software Architecture Context Diagrams
+En esta sección, el equipo incluye los diagramas de contexto
+<br>
 <img src="https://imgur.com/6gbMyIf.jpeg"/>
 
 
 ### 4.6.2. Software Architecture Container Diagrams
+En esta sección, el equipo incluye los diagramas de contenedores
+
+<br>
+
 <img src="https://imgur.com/ZZDW5y4.jpeg"/>
 
 
 ### 4.6.3. Software Architecture Components Diagrams
-Authentication Bounded Context
+
+En esta sección, el equipo incluye los diagramas de componentes
+
+Authentication Bounded Context Diagram
 <img src="https://imgur.com/YNbXMVY.jpeg" />
 
-Profile Management Bounded Context
+Profile Management Bounded Context Diagram
 <img src="https://imgur.com/DHEUMxc.jpeg"/>
 
-Invoice Monitoring Bounded Context
+Invoice Monitoring Bounded Context Diagram
 <img src="https://imgur.com/qQiuMvP.jpeg" />
 
-Service Management Bounded Context
+Service Management Bounded Context Diagram
 <img src="https://imgur.com/ZFMpv6y.jpeg" />
 
-Service Contracting Bounded Context
+Service Contracting Bounded Context Diagram
 <img src="https://imgur.com/rkgoUoA.jpeg" />
 
-Subscription Billing Bounded Context
+Subscription Billing Bounded Context Diagram
 <img src="https://imgur.com/OsW1q22.jpeg" />
 
 <hr>
