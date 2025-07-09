@@ -1699,17 +1699,18 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 ### 4.4.3. Web Applications User Flow Diagrams
 
 En esta sección, el equipo define el web appication user flow diagram
-<img src="https://i.postimg.cc/rFp1d1mf/0890890.png"/>
+<img src="https://i.postimg.cc/26wcTDgQ/image-37.png"/>
 
 ## 4.5. Web Applications Prototyping
 
 Esta sección presenta los prototipos de interfaz de usuario , los cuales incluyen simulaciones de interacción y navegación. Las decisiones de
 interacción se fundamentan en criterios clave, como la facilidad de uso, la accesibilidad y la optimización para distintos dispositivos.
 
-<img src="https://i.imgur.com/rUlcOAc.png"/>
-<br>
-_Enlace del diseño en Figma:_
-https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&t=9AhvJafsRNaQO2cX-1
+<img src="https://i.postimg.cc/3Jw6Sk8d/image-36.png"/>
+
+
+[Ver diseño en Figma](https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&t=9AhvJafsRNaQO2cX-1)
+
 
 
 ## 4.6. Domain-Driven Software Architecture
